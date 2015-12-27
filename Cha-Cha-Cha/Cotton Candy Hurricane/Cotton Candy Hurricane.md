@@ -1,5 +1,5 @@
-# Song by MarieMarie (Album: Dream Machine, Track 2)
-
+# Cotton Candy Hurricane
+*Song by MarieMarie (Album: Dream Machine, Track 2)*
 
 * **Choreographer**: Alexander Sopicki
 * **Dance**: Cha-Cha - Phase V+2 (Curl, Rope Spin) (medium)
