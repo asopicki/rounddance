@@ -15,31 +15,47 @@ META_PATTERN = re.compile('^\*\s+\*\*(?P<metaname>\w+)\*\*\:\s+(?P<metatext>.*)$
 
 inputfile = sys.argv[1]
 
-meta = {'title': None, 'author': None, 'description': None}
+meta = {
+    'title': None,
+    'author': None,
+    'rhythm': None,
+    'phase': None,
+    'difficulty': None,
+    'music': None,
+    'description': None
+}
+
+metamappings = {
+  'Choreographer': 'author',
+  'Dance': 'description',
+  'Rhythm': 'rhythm',
+  'Phase': 'phase',
+  'Difficulty': 'difficulty',
+  'Music': 'music',
+}
 
 # - Extract information from file
 with open(inputfile) as input:
     for line in input.readlines(4096):
-        #extract title of the dance
-        if (not meta['title']):
-            result = TITLE_PATTERN.match(line)
-            if (result):
-                meta['title'] = result.group('title')
-        #extract the author information
-        if (not meta['author']):
-            result = META_PATTERN.match(line)
-            if (result and result.group('metaname') == 'Choreographer'):
-                meta['author'] = result.group('metatext')
-        #extract some keywords like the dance and phase of the dance
-        if (not meta['description']):
-            result = META_PATTERN.match(line)
-            if (result and result.group('metaname') == 'Dance'):
-                meta['description'] = result.group('metatext')
 
+        #extract title of the dance
+        result = TITLE_PATTERN.match(line)
+        if result and not meta['title']:
+            meta['title'] = result.group('title')
+
+
+        #extract additional meta information
+        result = META_PATTERN.match(line)
+        if result and result.group('metaname') in metamappings:
+            metakey = metamappings[result.group('metaname')]
+            if not meta[metakey]:
+                meta[metakey] = result.group('metatext')
 
 logging.debug('Title: %s' % meta['title'])
-logging.debug('Author: %s' % meta['author'])
-logging.debug('Description: %s' % meta['description'])
+
+for (key, metakey) in metamappings.items():
+    logging.debug('%s: %s' % (key, meta[metakey]))
+
 
 filename = path.join(path.dirname(inputfile), path.basename(inputfile).rstrip('.md')+'.html')
 logging.debug(filename)
