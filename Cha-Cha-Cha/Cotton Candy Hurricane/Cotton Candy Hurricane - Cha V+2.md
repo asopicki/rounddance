@@ -1,9 +1,12 @@
 # Cotton Candy Hurricane
 *Song by MarieMarie (Album: Dream Machine, Track 2)*
 
-* **Choreographer**: Alexander Sopicki
-* **Dance**: Cha-Cha - Phase V+2 (Curl, Rope Spin) (medium)
+* **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
+* **Rhythm**: Cha-Cha-Cha
+* **Phase**: V+2 (Curl, Rope Spin)
+* **Difficulty**: medium
 * **Sequence**: Intro - A - B - C - A - D - A - Ending
+* **Music**: Cotton Candy Hurricane, MarieMarie
 
 *Dance starts in left open facing position, lead feet free, waiting 2 measures*
 
