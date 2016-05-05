@@ -2,8 +2,13 @@
 *Song by Harold Faltermeyer (MCA 52536, Duration: 3:00)*
 
 * **Choreographer**: Russ & Carel Methewson
-* **Dance**: Cha-Cha - 3+3 (Alemana + Fence Line+Change Hats and Pants) (Easy)
+* **Dance**: Cha-Cha - 3+2 (Alemana + Fence Line) (Easy)
+* **Rhythm**: Cha-Cha-Cha
+* **Phase**: III+2 (Alemana + Fence Line)
+* **Difficulty**: Easy
+* **Music**: Axel F, Harold Faltermeyer
 * **Sequence**: Intro - A - B - Bridge - A - B - C - D - Ending
+
 
 *Dance starts in back to back position facing, man facing COH, lead feet free, wait 2 measures*
 
