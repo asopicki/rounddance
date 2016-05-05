@@ -1,13 +1,14 @@
 # Dancing in the dark
 *Song by Rihanna (Album: Home (OST), Track 6)*
 
-* **Choreographer**: Alexander Sopicki
-* **Dance**: Slow Two step - Phase V (medium)
+* **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
+* **Rhythm**: Slow Two step
+* **Phase**: V
+* **Difficulty**: medium
 * **Sequence**: Intro - A - B - A - B* - C - Ending
+* **Music**: Dancing in the dark, Rihanna
 
-*Dance starts in open facing position, lead feet free, wait two measures*
-
-
+*Dance starts in open facing position, lead feet free, waiting two measures*
 
 
 ## Intro (8 measures) [00:00]
