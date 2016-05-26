@@ -101,7 +101,9 @@
 
 
 
-## Alternative Part C (17 measures) (Easier to dance but less fun)
+## Alternative Part C (17 measures)
+
+*This part is easier to do than part C above.*
 
 > Fence Line ; (twice) ; Hip Twist; Fan;
 
@@ -109,4 +111,6 @@
 
 > Double Cuban Breaks; ;  Cross check, Recover, Side Cha; Spot turn (to handshake);
 
-> Flirt; ; One Sweetheart in 4  (Lady to face); Forward Basic; > Whip (and Lady twirl);
+> Flirt; ; One Sweetheart in 4  (Lady to face); Forward Basic;
+
+> Whip (and Lady twirl);
