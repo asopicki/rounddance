@@ -3,7 +3,7 @@
 
 * **Choreographer**: [Christian Schidler](mailto:christian@schidler.de "christian@schidler.de") & Nicola Kögler
 * **Rhythm**: Foxtrot
-* **Phase**: IV+2 (Check & Weave, Curved Feather)
+* **Phase**: V (Check & Weave, Curved Feather)
 * **Difficulty**: medium
 * **Sequence**: Intro - A - B - B - C - Ending
 * **Music**: Wire To Wire, Razorlight
