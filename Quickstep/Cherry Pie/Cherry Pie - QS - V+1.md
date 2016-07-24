@@ -10,7 +10,7 @@
 
 *Dance starts in open facing position, facing wall, lead feet free, waiting two measures.*
 
-# Intro () (8 measures) [00:00]
+# Intro () (4 measures) [00:00]
 
 <!-- SQQ SQQ; SS SS; SQQ SS; SQQ SS;-->
 
@@ -18,7 +18,7 @@
 
 > Travelling Box ; ; ; ;
 
-# Part A () (24 measures) [00:12]
+# Part A () (12 measures) [00:12]
 
 <!--SSQQS; SQQS; QQQQ QQS;-->
 
@@ -50,7 +50,7 @@
 
 > Walk 2; Twirl 2; Walk 2 (to banjo, check it); Fishtail;
 
-# Part B () (20 measures) [00:49]
+# Part B () (10 measures) [00:49]
 
 <!--SSQQS; SQQS S; QQ SS S;-->
 
@@ -66,7 +66,7 @@
 
 > Strolling Vine; ; ; ; Twirl 2; Walk 2 (check it);
 
-# Interlude () (24 measures)  [01:16]
+# Interlude () (12 measures)  [01:16]
 
 <!--QQQQ SS; QQS SQQ; S -->
 
@@ -78,7 +78,7 @@
 
 >  Walk 4 (PU); ; Progressive Scissors;; Whaletail ;;
 
-# Part B () (20 measures) [01:49]
+# Part B () (10 measures) [01:49]
 
 <!--SSQQS; SQQS S; QQ SS S;-->
 
@@ -94,7 +94,7 @@
 
 > Strolling Vine; ; ; ; Twirl 2; Walk 2 (check it);
 
-# Part C () (20 measures) [02:17]
+# Part C () (10 measures) [02:17]
 
 > Fishtail; Quarter Turns; ; Progressive Chassé; ; Running forward locks; ;
 
