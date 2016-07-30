@@ -1,3 +1,5 @@
+All choreographies are shared as is the copyright may be clarified with the choreographer noted on every cuesheet. All choreographies written by myself (Alexander Sopicki) can be shared according to the license below.
+
 # License
 ## Attribution-ShareAlike 4.0 International
 
