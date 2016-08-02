@@ -20,21 +20,23 @@
 
 # Part A () (12 measures) [00:12]
 
-<!--SSQQS; SQQS; QQQQ QQS;-->
+<!--SSQQS; SQQS S; QQ QQ QQS-->
 
-> Quarter Turns; ; Progressive Chassé; ;
-
->  Running forward locks; ;
+> Quarter Turns; ; Progressive Chassé; ;  Running forward locks; ;
 
 <!--SQQ SS; S  SQQ QQ; QQSS-->
 
-<!--SQQ SS; S SQQ QQ; SQQS S; S-->
+<!--S; QQ SS S; SQQ QQ S; QQS S S;-->
 
-> Maneuver, side, close; Spin turn; Box finish; Double Hitch; ; Walk 2;
+<!-- > Maneuver, side, close; Spin turn; Box finish; Double Hitch; ; Walk 2;-->
+
+<!--S QQ SS; SSQQ S; S QQ SS; -->
+
+> Maneuver, side, close; Spin turn; Box finish; Double reverse; Walk 2;
 
 <!--S; SQQS S; QQS QQQQ QQ; S-->
 
-<!--S SQQ; S SQQS; QQQQQQS;-->
+<!--S SQQ; S SQQS; S QQQQQQ; S-->
 
 > Quarter Turns; ; Progressive Chassé; ; Running forward locks; ;
 
@@ -42,41 +44,53 @@
 
 <!--SQQ SS; SSQQ S; QQ SQQ-->
 
-> Maneuver, side, close; Spin turn; Box finish; Two left turns; ;
+<!--S; QQ SS S; SQQ SS; QQ SS;-->
+
+> Maneuver, side, close; Spin turn; Box finish; Double reverse;
 
 <!--SS SS; SS QQ QQ;-->
 
-<!--S S SS; SS QQQQ;-->
+<!--QQQQ ; ;-->
 
-> Walk 2; Twirl 2; Walk 2 (to banjo, check it); Fishtail;
+<!-- > Walk 2 (to banjo, check it); Fishtail; -->
+
+<!-- SS QQQQ; QQQQ SS; -->
+
+> Walk 2; Twisty vine 4 (check it); Whaletail; ;
 
 # Part B () (10 measures) [00:49]
 
 <!--SSQQS; SQQS S; QQ SS S;-->
 
-> Quarter Turns; ; Progressive Chassé; ; Maneuver, side, close; Spin turn (overturned);
+> Quarter Turns; ; Progressive Chassé; ; Maneuver, side, close; Spin turn (overturned); ;
 
 <!-- QQSS QQ; SS QQS; QQS SQQ; SS QQS;-->
 
-> V6; ; Quick open reverse; ; Reverse turn;
+> V6; ; Quick open reverse; Reverse turn;
 
 > Forward lock, forward; Maneuver, Back; Tipple chassé;
 
 <!-- SS QQS; SS QQS; SS SS; -->
 
-> Strolling Vine; ; ; ; Twirl 2; Walk 2 (check it);
+> Strolling Vine; ; ; ; Twisty Vine 4; (check it);
 
 # Interlude () (12 measures)  [01:16]
 
-<!--QQQQ SS; QQS SQQ; S -->
+<!--QQQQ SS; QQS SQQ; SS QQQQ; QQ -->
 
 > Fishtail; Quarter Turns; ; Progressive Chassé; ; Running forward locks; ;
 
+<!-- SQQ S; SSS QQ; SQQ S QQ;  -->
+
 > Maneuver, side, close; Spin turn; Box finish; 2 left turns ;;
 
-> Twirl 2; Walk 2; Double Hitch ;; 2 Turning 2’s ;;
+<!-- SS SS; QQS QQS; QQS QQS;  -->
 
->  Walk 4 (PU); ; Progressive Scissors;; Whaletail ;;
+> Twisty vine 4; (to banjo); Double Hitch ;; 2 Turning 2’s ;;
+
+<!-- SS QQS; QQS QQQQ; QQQQ SS;  -->
+
+>  Walk 2 (to banjo); Progressive Scissors; (check it); Whaletail ; ; Walk 2;
 
 # Part B () (10 measures) [01:49]
 
@@ -86,13 +100,13 @@
 
 <!-- QQSS QQ; SS QQS; QQS SQQ; SS QQS;-->
 
-> V6; ; Quick open reverse; ; Reverse turn;
+> V6; ; Quick open reverse; Reverse turn;
 
 > Forward lock, forward; Maneuver, Back; Tipple chassé;
 
 <!-- SS QQS; SS QQS; SS SS; -->
 
-> Strolling Vine; ; ; ; Twirl 2; Walk 2 (check it);
+> Strolling Vine; ; ; ; Twisty Vine 4; (check it);
 
 # Part C () (10 measures) [02:17]
 
