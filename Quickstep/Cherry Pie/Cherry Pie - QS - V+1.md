@@ -2,124 +2,145 @@
 *Song by Katzenjammer (Album: A kiss before you go, Track 3)*
 
 * **Choreographer**: Andrea Fartmann, [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
-* **Rhythm**: Two Step / Quickstep
+* **Rhythm**: Quickstep / Two Step
 * **Phase**: V+1 (V6)
 * **Difficulty**: medium
-* **Sequence**: Intro - A - B - Inter - B - C - Ending
+* **Sequence**: Intro - A - B - C - B - D - Ending
 * **Music**: Cherry Pie, Katzenjammer
 
 *Dance starts in open facing position, facing wall, lead feet free, waiting two measures.*
 
-# Intro () (4 measures) [00:00]
+# Intro () (8 measures) [00:00]
 
-<!-- SQQ SQQ; SS SS; SQQ SS; SQQ SS;-->
+<!-- SQQ; SQQ; SS; SS; SQQ; SS; SQQ; SS;-->
 
 > Wait 2; ; Apart & Point; Together touch (to closed);
 
-> Travelling Box ; ; ; ;
+<!-- SQQ; SS; SQQ; SS; SQQ; -->
 
-# Part A () (12 measures) [00:12]
+> Travelling Box ; ; ; (to pickup) ;
 
-<!--SSQQS; SQQS S; QQ QQ QQS-->
+# Part A () (28 measures) [00:12]
 
-> Quarter Turns; ; Progressive Chassé; ;  Running forward locks; ;
+<!--SS; QQS; SQQ; SS; QQQQ; QQS; -->
 
-<!--SQQ SS; S  SQQ QQ; QQSS-->
+> Forward, Quarter Turns; ; Progressive Chassé;,, Forward;  Running forward locks; ;
 
-<!--S; QQ SS S; SQQ QQ S; QQS S S;-->
+<!--SQQ; SS; SS; QQS; SQQ; SS; -->
 
-<!-- > Maneuver, side, close; Spin turn; Box finish; Double Hitch; ; Walk 2;-->
+> Maneuver, side, close; Spin turn;,, Box finish;,, Double reverse;; Walk 2;
 
-<!--S QQ SS; SSQQ S; S QQ SS; -->
+<!--SS; QQS; SQQ; SS; QQQQ; QQS; -->
 
-> Maneuver, side, close; Spin turn; Box finish; Double reverse; Walk 2;
+> Forward, Quarter Turns; ; Progressive Chassé;,, Forward ; Running forward locks; ;
 
-<!--S; SQQS S; QQS QQQQ QQ; S-->
+<!--SQQ; SS; SS; QQS; SQQ; SS; -->
 
-<!--S SQQ; S SQQS; S QQQQQQ; S-->
+> Maneuver, side, close; Spin turn;,, Box finish;,, Double reverse;; Walk & face;
 
-> Quarter Turns; ; Progressive Chassé; ; Running forward locks; ;
+<!-- SS; SS; QQQQ; QQQQ; -->
 
-<!--SQQ S; SS SQQ; SQQ SQQ;  -->
+> Slow Twisty vine 4 (checking); ; Whaletail; ;
 
-<!--SQQ SS; SSQQ S; QQ SQQ-->
+# Part B () (20 measures) [00:49]
 
-<!--S; QQ SS S; SQQ SS; QQ SS;-->
+<!--SS; QQS; SQQ; SS; -->
 
-> Maneuver, side, close; Spin turn; Box finish; Double reverse;
+> Forward, Quarter Turns; ; Progressive Chassé; ;
 
-<!--SS SS; SS QQ QQ;-->
+<!-- SQQ; SS; S -->
 
-<!--QQQQ ; ;-->
+> Maneuver, side, close; Spin turn (overturned);
 
-<!-- > Walk 2 (to banjo, check it); Fishtail; -->
+<!-- QQ; SS; QQS; SQQ; SQQ; -->
 
-<!-- SS QQQQ; QQQQ SS; -->
+> ,, V6; (to line);,, Quick open reverse;; Reverse turn Half;
 
-> Walk 2; Twisty vine 4 (check it); Whaletail; ;
+<!-- QQS; SS; QQS; -->
 
-# Part B () (10 measures) [00:49]
+> Forward lock, forward; Maneuver, Tipple chassé; ;
 
-<!--SSQQS; SQQS S; QQ SS S;-->
+<!-- SS; QQS; SS; QQS; SS; SS; -->
 
-> Quarter Turns; ; Progressive Chassé; ; Maneuver, side, close; Spin turn (overturned); ;
+> Strolling Vine; ; ; ; Slow Twisty Vine 4; (checking);
 
-<!-- QQSS QQ; SS QQS; QQS SQQ; SS QQS;-->
+# Part C () (24 measures)  [01:16]
 
-> V6; ; Quick open reverse; Reverse turn;
+<!-- QQQQ; SS; QQS; SQQ; SS; -->
 
-> Forward lock, forward; Maneuver, Back; Tipple chassé;
+> Fishtail; Forward, Quarter Turns; ; Progressive Chassé;,,Forward ;
 
-<!-- SS QQS; SS QQS; SS SS; -->
+<!-- QQQQ; QQS; SQQ; SS; SS; QQS;  -->
 
-> Strolling Vine; ; ; ; Twisty Vine 4; (check it);
+> Running forward locks; ; Maneuver, side, close; Spin turn;,, Box finish;,, Hold;
 
-# Interlude () (12 measures)  [01:16]
+<!-- SQQ; SQQ; SS; SS; QQS; QQS; QQS; QQS;-->
 
-<!--QQQQ SS; QQS SQQ; SS QQQQ; QQ -->
+> 2 left turns ;; Slow Twisty vine 4; ; Double Hitch ;;  2 Turning 2’s ; /to pickup);
 
-> Fishtail; Quarter Turns; ; Progressive Chassé; ; Running forward locks; ;
+<!-- SS; QQS; QQS; -->
 
-<!-- SQQ S; SSS QQ; SQQ S QQ;  -->
+>  Walk 2; Progressive Scissors; (checking);
 
-> Maneuver, side, close; Spin turn; Box finish; 2 left turns ;;
+<!-- QQQQ; QQQQ; -->
 
-<!-- SS SS; QQS QQS; QQS QQS;  -->
+> Whaletail ; ;
 
-> Twisty vine 4; (to banjo); Double Hitch ;; 2 Turning 2’s ;;
+# Part B () (20 measures) [01:49]
 
-<!-- SS QQS; QQS QQQQ; QQQQ SS;  -->
+<!--SS; QQS; SQQ; SS; -->
 
->  Walk 2 (to banjo); Progressive Scissors; (check it); Whaletail ; ; Walk 2;
+> Forward, Quarter Turns; ; Progressive Chassé; ;
 
-# Part B () (10 measures) [01:49]
+<!-- SQQ; SS; S -->
 
-<!--SSQQS; SQQS S; QQ SS S;-->
+> Maneuver, side, close; Spin turn (overturned);
 
-> Quarter Turns; ; Progressive Chassé; ; Maneuver, side, close; Spin turn (overturned);
+<!-- QQ; SS; QQS; SQQ; SQQ; -->
 
-<!-- QQSS QQ; SS QQS; QQS SQQ; SS QQS;-->
+> ,, V6; (to line);,, Quick open reverse;; Reverse turn Half;
 
-> V6; ; Quick open reverse; Reverse turn;
+<!-- QQS; SS; QQS; -->
 
-> Forward lock, forward; Maneuver, Back; Tipple chassé;
+> Forward lock, forward; Maneuver, Tipple chassé; ;
 
-<!-- SS QQS; SS QQS; SS SS; -->
+<!-- SS; QQS; SS; QQS; SS; SS; -->
 
-> Strolling Vine; ; ; ; Twisty Vine 4; (check it);
+> Strolling Vine; ; ; ; Slow Twisty Vine 4; (checking);
 
-# Part C () (10 measures) [02:17]
+# Part D () (20 measures) [02:17]
 
-> Fishtail; Quarter Turns; ; Progressive Chassé; ; Running forward locks; ;
+<!--QQQQ; SS; QQS; SQQ; SS; -->
 
-> Maneuver, side, close; Spin turn; Box finish; Drag Hesitation ; Heel pull;
+> Fishtail; Forward, Quarter Turns; ; Progressive Chassé;,,Forward ;
 
-> Six quick twinkles; ; Maneuver, side close ; Heel pull; 2 left turns; ; Walk 2 (check it);
+<!-- QQQQ; QQS; SQQ; SS; SS; QQ -->
 
-> Fish tail ;
+> Running forward locks; ; Maneuver, side, close; Spin turn;,, Box finish;
 
-# Ending () (8 measures) [02:44]
+<!-- S; SS; S -->
 
-> Quarter Turns; ; Progressive Chassé; ;
+>,, Drag Hesitation ;,, Heel pull;
 
-> Forward, lock, forward; Maneuver, side, close; Open Impetus; Through, Explode;
+<!-- QQ; QQQQ; SS; SS; -->
+
+> ,,Six quick twinkles; ; Forward, Maneuver; Heel pull;
+
+<!-- SQQ; SQQ; SS; QQQQ; -->
+
+> 2 left turns; ; Walk 2 (checking); Fishtail;
+
+
+# Ending () (9 measures) [02:44]
+
+<!-- SS; QQS; SQQ; SS; -->
+
+> Forward, Quarter Turns; ; Progressive Chassé;,, Forward;
+
+<!-- QQS; SQQ;  -->
+
+> Forward, lock, forward; Maneuver, side, close;
+
+<!-- SS; SS; S,-; -->
+
+> Open Impetus; ,,Through; Explode,,;
