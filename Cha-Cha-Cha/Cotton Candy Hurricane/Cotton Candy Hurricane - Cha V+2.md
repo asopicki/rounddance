@@ -26,7 +26,7 @@
 
 ## Part A (16 measures) [00:34]
 
- > (Cha-Cha-Cha) Basic to Fan; ; Hockey Stick; (to diagonal reverse and wall);
+ > (Cha-Cha-Cha) Basic Cha to Fan; ; Hockey Stick; (to diagonal reverse and wall);
 
  > Forward Basic to Back Triple Cha; ; Back Basic to Forward Triple Cha; ;
 
@@ -69,7 +69,7 @@
 
 > Aida (to reverse); Back Basic; Switches; ;
 
-> (Cha-Cha) Circle Away and Together; ; Shoulder to Shoulder (twice); (to a handshake);
+> (Cha-Cha) Circle Cha Away and Together; ; Shoulder to Shoulder (twice); (to a handshake);
 
 > Flirt; ; One Sweetheart (Lady to face); Cucaracha;
 
@@ -96,7 +96,7 @@
 
 > Forward Basic; (Into) Full Natural Top; ; ;
 
-> Aida Line and Hold;
+> Aida (to reverse) and Hold;
 
 
 
