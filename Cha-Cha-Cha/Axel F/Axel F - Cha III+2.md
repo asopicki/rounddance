@@ -14,7 +14,7 @@
 
 ## Intro (8 measures)
 
-> Wait 2; ; Circle away and together (to butterfly position); ;
+> Wait 2; ; Circle Cha away and together (to butterfly position); ;
 
 > Basic; ; New Yorker; Spot Turn (to butterfly position);
 
@@ -69,7 +69,7 @@
 
 > Alemana; ; Hand to Hand; Swivel 2, Forward Cha;
 
-> Circle Away and together (to butterfly); ;
+> Circle Cha Away and together (to butterfly); ;
 
 ## Ending (8 measures)
 > Basic; ; Fence Line (twice); ;
