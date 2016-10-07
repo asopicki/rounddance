@@ -18,7 +18,7 @@
 
 > Alemana; ; Aida (to reverse); Back Basic;
 
-> Switches; ; Circle away and together; ;
+> Switches (Man roll across); (Lady roll across); Circle away and together; ;
 
 > Fence Line; Spot Turn; (to reverse) Thru Serpiente; ;
 
@@ -67,7 +67,7 @@
 
 > (Rumba) Curl (Optional Half Basic); Fan; Alemana ; ;
 
-> Aida (to reverse); Back Basic; Switches; ;
+> Aida (to reverse); Back Basic; Switches (Man roll across); (Lady roll across);
 
 > (Cha-Cha) Circle Cha Away and Together; ; Shoulder to Shoulder (twice); (to a handshake);
 
