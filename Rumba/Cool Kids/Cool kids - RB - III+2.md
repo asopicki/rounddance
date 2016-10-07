@@ -1,5 +1,5 @@
 # Cool kids
-*Song by Echosmith (Album: Talking Dreams, Track 3)*
+*Song by Echosmith (Album: Bravo Hits 2015, Track 18, CD 2, 3:35)*
 
 * **Choreographer**: Klaus & Marion Völkl
 * **Rhythm**: Rumba
