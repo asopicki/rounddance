@@ -12,7 +12,7 @@
 
 ## Intro (10 measures)
 
-> Wait until the drum starts;; Cucaracha cross; Side walks;
+> Wait until the drum starts;; Cucaracha cross; Side walk;
 
 > Crab walk; Cucaracha cross; Twirl vine & reverse;; Spot turn; (twice);
 
@@ -32,7 +32,7 @@
 
 ## Interlude (8 measures)
 
-> Cucaracha cross; Side walks; Crab walk; Cucaracha cross;
+> Cucaracha cross; Side walk; Crab walk; Cucaracha cross;
 
 > Twirl vine & reverse;; Spot turn; (twice);
 
@@ -57,7 +57,7 @@
 
 ## Interlude (8 measures)
 
-> Cucaracha cross; Side walks; Crab walk; Cucaracha cross;
+> Cucaracha cross; Side walk; Crab walk; Cucaracha cross;
 
 > Twirl vine & reverse;; Spot turn; (twice, to left hand star);
 
@@ -79,7 +79,7 @@
 
 ## Interlude (8 measures)
 
-> Cucaracha cross; Side walks; Crab walk; Cucaracha cross;
+> Cucaracha cross; Side walk; Crab walk; Cucaracha cross;
 
 > Twirl vine & reverse;; Spot turn; (twice);
 
