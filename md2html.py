@@ -9,7 +9,7 @@ import logging
 import os.path as path
 import subprocess
 
-#logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG)
 TITLE_PATTERN = re.compile('^#\s+(?P<title>.*)$')
 META_PATTERN = re.compile('^\*\s+\*\*(?P<metaname>\w+)\*\*\:\s+(?P<metatext>.*)$')
 

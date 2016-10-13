@@ -1,5 +1,14 @@
+# I wanta Quickstep
+*Song by Al Russ*
 
+* **Choreographer**: Eddie & Audrey Palmquist
+* **Rhythm**: Quickstep
+* **Phase**: III+1 (Quarter Turn Progressive Chassé)
+* **Difficulty**: Average
+* **Sequence**: Intro - A - B - C - D - Cmod - Amod - Ending
+* **Music**: In the Summertime, Mungo Jerry
 
+*Dance starts in open position, line of dance, lead feet free, waiting 2 measures*
 
 # Introduction (4 measures)
 > Wait 2; ; Apart & point; Pickup & touch;
@@ -27,6 +36,6 @@
 
 > Walk, Maneuver, Side, Close; Spin turn; Half box back;
 
-# Ending 
+# Ending
 
 > DRIFT APT ;
