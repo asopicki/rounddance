@@ -1,9 +1,12 @@
 # Moonshine
-*Song by Katie Melua (Album: Secret Symphony, Track 4, Duration 2:41)*
+*Song by Katie Melua (Album: Secret Symphony, Track 4, Duration 2:41)* Track 16, CD 2, 3:30)*
 
-* **Choreographer**: Alexander Sopicki
-* **Dance**: Foxtrot - V (Easy)
+* **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
+* **Rhythm**: Foxtrot
+* **Phase**: V
+* **Difficulty**: Easy
 * **Sequence**: Intro - A - B - A - B - A1 - Bridge - B - Ending
+* **Music**: Moonshine, Katie Melua
 
 *Dance starts in left open position (LOP), facing diagonal line and center, lead feet free.*
 
