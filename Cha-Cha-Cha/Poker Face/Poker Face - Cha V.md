@@ -3,7 +3,7 @@
 
 * **Choreographer**: Andrea Fartmann
 * **Rhythm**: Cha-Cha-Cha
-* **Phase**: IV+1 (Sweethearts)
+* **Phase**: V (Sweethearts)
 * **Sequence**: Intro - A - B - A - B* - Int - B - Ending
 * **Music**: Poker Face, Lady Gaga
 
