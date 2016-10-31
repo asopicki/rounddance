@@ -33,18 +33,42 @@ function initForm() {
       result = document.idx.search(term);
 
       if (window.console) {
-        console.log(result);
+        updateResultList(result);
       }
     }
-
-
   }, {capture: true});
+}
+
+function updateResultList(searchResult) {
+  var list = document.querySelector("#resultlist");
+
+  //clear current search results
+  while(list.firstChild) {
+    list.removeChild(list.firstChild);
+  }
+
+  var resultList = document.createElement('ul');
+  list.appendChild(resultList);
+
+  for (let i of searchResult) {
+    var meta = document.cuesheets[i.ref-1];
+
+    var liElem = document.createElement('li');
+    var anchorElem = document.createElement('a');
+    liElem.appendChild(anchorElem);
+
+    anchorElem.appendChild(document.createTextNode(meta.title));
+    anchorElem.href = 'file://' + meta._path;
+    resultList.appendChild(liElem);
+
+  }
 }
 
 function loadCuesheets() {
 
   var links = document.querySelectorAll(".cuesheet");
   var i = 1;
+  document.cuesheets = [];
 
   for (let l of links) {
     var meta = JSON.parse(window.atob(l.dataset.meta));
@@ -52,6 +76,7 @@ function loadCuesheets() {
     meta.id = i;
 
     document.idx.add(meta);
+    document.cuesheets.push(meta);
 
     i += 1;
   }
@@ -60,12 +85,5 @@ function loadCuesheets() {
     console.log("Found " + links.length + " different titles")
   }
 
-  /*var lists = document.querySelectorAll("div.list");
-
-  for (let i = 0; i < lists.length; i++) {
-    if (document.cuesheets[i].length == 0) {
-      lists[i].classList.add("empty");
-    }
-  }*/
 }
 })();

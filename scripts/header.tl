@@ -15,3 +15,5 @@
       <label for="query">Search:</label>
       <input type="text" id="query" disabled="disabled"/>
     </form>
+    <div id="resultlist">
+    </div>

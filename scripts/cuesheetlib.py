@@ -51,7 +51,8 @@ def _meta(cuesheetpath):
         'music': None,
         'description': None,
         '_phasekey': None,
-        '_phasenumeric': 6
+        '_phasenumeric': 6,
+        '_path': cuesheetpath,
     }
 
     # - Extract information from file
