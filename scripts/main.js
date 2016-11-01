@@ -10,6 +10,7 @@ if (window.JSON && window.atob && document.querySelectorAll && document.querySel
 
 function initSearch() {
   document.idx = lunr(function() {
+
     this.field('title', {"boost": 10});
     this.field('phase');
     this.field('difficulty');
@@ -19,25 +20,72 @@ function initSearch() {
   });
 }
 
+function keyword_search(keyword, value) {
+  if (window.console) {
+    //console.debug('Keyword search fired for term "' + value + '"');
+  }
+
+  var result = [];
+
+  for (var i = 0; i < document.cuesheets.length; i++) {
+    var obj = document.cuesheets[i];
+
+    if (obj[keyword] && obj[keyword].toLowerCase() === value.toLowerCase()) {
+      result.push({
+        ref: i+1,
+        score: 1
+      });
+    }
+  }
+
+  return result;
+}
+
 function initForm() {
   var search = document.querySelector('#query');
+  var keywwords = ['phase', 'difficulty'];
+
+  var debounce = function (fn) {
+      var timeout;
+      return function () {
+        var args = Array.prototype.slice.call(arguments),
+            ctx = this;
+
+        clearTimeout(timeout);
+        timeout = setTimeout(function () {
+          fn.apply(ctx, args)
+        }, 300);
+      }
+  };
 
   search.disabled = false;
+  search.select();
 
-  search.addEventListener('keyup', function(event) {
-    var term = search.value;
+  search.addEventListener('input', debounce(function(event) {
+    if (window.console) {
+      //console.debug('Search fired for term "' + this.value + '"');
+    }
+    var term = this.value;
 
     var result = null;
 
     if (term.length > 2) {
-      result = document.idx.search(term);
-
-      if (window.console) {
-        updateResultList(result);
+      var keywordsearch = false;
+      for (var kw of keywwords) {
+        if (term.startsWith(kw+':')) {
+          keywordsearch = true;
+          result = keyword_search(kw, term.substr(kw.length+1));
+        }
       }
+      if (!keywordsearch) {
+        result = document.idx.search(term);
+      }
+      updateResultList(result);
     }
-  }, {capture: true});
+  }), {capture: true});
 }
+
+
 
 function updateResultList(searchResult) {
   var list = document.querySelector("#resultlist");

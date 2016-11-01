@@ -13,7 +13,7 @@
   <body>
     <form action="" method="get">
       <label for="query">Search:</label>
-      <input type="text" id="query" disabled="disabled"/>
+      <input type="text" id="query" minlength="2" required="required" disabled="disabled" tabindex="1" placeholder="You can search for a title"/>
     </form>
     <div id="resultlist">
     </div>
