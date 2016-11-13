@@ -19,9 +19,9 @@
 
 ## A (20 measures) [00:18]
 
-> Basic; (to pickup); Left turn (lady inside turn); Basic ending;
+> Basic; (to pickup); Left turn (lady inside roll); Basic ending;
 
-> Underarm turn; Basic ending (to pickup); Left turn (lady inside turn); Basic ending;
+> Underarm turn; Basic ending (to pickup); Left turn (lady inside roll); Basic ending;
 
 > Lunge basics; (to maneuver); Right turn with outside roll; Basic Ending ;
 
@@ -41,9 +41,9 @@
 
 ## A (20 measures) [01:34]
 
-> Basic; (to pickup); Left turn (lady inside turn); Basic ending;
+> Basic; (to pickup); Left turn (lady inside roll); Basic ending;
 
-> Underarm turn; Basic ending (to pickup); Left turn (lady inside turn); Basic ending;
+> Underarm turn; Basic ending (to pickup); Left turn (lady inside roll); Basic ending;
 
 > Lunge basics; (to maneuver); Right turn with outside roll; Basic Ending ;
 
