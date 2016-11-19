@@ -15,7 +15,7 @@ which I will explain in more detail below.
 The easiest way to contribute is by sending a [mail](mailto:cuesheets@gmx.net "cuesheets@gmx.net") with your comments or
 a cuesheet you would like to share. I will try to answer your request as soon as I can.
 
-# Open an issue
+## Open an issue
 
 You can open a [new issue](https://github.com/asopicki/rounddance/issues) through the Github interface though you need an account to
 do that. State your problem in the issue or attach a file with the content you would like to share and I will review your request as soon as I can. By doing so on Github everyone with an account is able to contribute to this as well by adding comments.
