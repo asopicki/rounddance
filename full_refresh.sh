@@ -6,3 +6,7 @@
 cd `dirname $0`
 
 find . -mindepth 2 -name \*.md -exec ./md2html.py \{\} \;
+
+cd scripts && python cuesheetlib.py
+
+cd `dirname $0` 
