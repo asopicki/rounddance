@@ -107,6 +107,7 @@ function updateResultList(searchResult) {
 
     anchorElem.appendChild(document.createTextNode(meta.title));
     anchorElem.href = 'file://' + meta._path;
+    anchorElem.target = '_blank';
     resultList.appendChild(liElem);
 
   }

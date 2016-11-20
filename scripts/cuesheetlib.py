@@ -52,7 +52,7 @@ def _meta(cuesheetpath):
         'description': None,
         '_phasekey': None,
         '_phasenumeric': 6,
-        '_path': cuesheetpath,
+        '_path': cuesheetpath.replace('.md', '.html'),
     }
 
     # - Extract information from file
