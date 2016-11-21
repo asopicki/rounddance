@@ -6,7 +6,7 @@
 * **Phase**: IV+1
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - Inter - ABC - AB* - Ending
-* **Music**: Forver and for always, Shania Twain
+* **Music**: Weise den Weg, Oonagh
 
 *Dance starts in ....*
 
