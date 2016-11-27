@@ -22,11 +22,11 @@
 
 > New Yorker; Cucaracha left & right; ; Shoulder to shoulder; (twice)
 
-> Peek-a-Boo; ; ; ; Fence line; (twice);
+> Chase Peek-a-Boo; ; ; ; Fence line; (twice);
 
 # B
 
-> Back break (to open); Progressive walk; Sliding doors; ;
+> Break back (to open); Progressive walks; Sliding doors; ;
 
 > Circle away & together; (to butterfly); Vine 4;
 
@@ -36,11 +36,11 @@
 
 > New Yorker; Cucaracha left & right; ; Shoulder to shoulder; (twice)
 
-> Peek-a-Boo; ; ; ; Fence line; (twice);
+> Chase Peek-a-Boo; ; ; ; Fence line; (twice);
 
 # B
 
-> Back break (to open); Progressive walk; Sliding doors; ;
+> Break back (to open); Progressive walks; Sliding doors; ;
 
 > Circle away & together; (to butterfly); Vine 4;
 
@@ -50,11 +50,11 @@
 
 > New Yorker; Cucaracha left & right; ; Shoulder to shoulder; (twice)
 
-> Peek-a-Boo; ; ; ; Fence line; (twice);
+> Chase Peek-a-Boo; ; ; ; Fence line; (twice);
 
 # B
 
-> Back break (to open); Progressive walk; Sliding doors; ;
+> Break back (to open); Progressive walks; Sliding doors; ;
 
 > Circle away & together; (to butterfly); Vine 4;
 
