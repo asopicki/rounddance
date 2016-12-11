@@ -18,7 +18,7 @@
 
 > Basic;; Fence line; (twice);
 
-> Hand to hand; Crabwalks;; Spot turn;
+> Hand to hand; Crab walks;; Spot turn;
 
 > Forward basic; Whip; New Yorkers;;
 
@@ -28,7 +28,7 @@
 
 > Basic;; Fence line; (twice);
 
-> Hand to hand; Crabwalks;; Spot turn;
+> Hand to hand; Crab walks;; Spot turn;
 
 > Forward basic; Whip; New Yorkers;;
 
@@ -46,7 +46,7 @@
 
 > Basic;; Fence line; (twice);
 
-> Hand to hand; Crabwalks;; Spot turn;
+> Hand to hand; Crab walks;; Spot turn;
 
 > Forward basic; Whip; New Yorkers;;
 
