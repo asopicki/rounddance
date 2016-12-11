@@ -1,7 +1,7 @@
 # Perfect
 *Song by One Direction (Album: Bravo Hits 92, Track 12)*
 
-* **Choreographer**: Alexander Sopicki
+* **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
 * **Rhythm**: Rumba
 * **Phase**: III+2 (Aida, Switch Rock)
 * **Difficulty**: Easy
