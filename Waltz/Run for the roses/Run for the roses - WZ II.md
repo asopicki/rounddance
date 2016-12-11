@@ -14,7 +14,7 @@
 
 > Wait 2; ; Apart, Point, -; Together, Touch, -;
 
-> Twisty balance left & right; ; Twisty vine 3; Through, face, close (to closed);
+> Twisty balance left & right; ; Twisty vine 3; Forward, face, close (to closed);
 
 > Left turning box; ; ; ; ;
 
@@ -48,7 +48,7 @@
 
 > Reverse box; (to sidecar); Twinkle (to banjo); Twinkle (to face);
 
-> Twisty balance left & right; ; Twisty vine 3; Through, face, close;
+> Twisty balance left & right; ; Twisty vine 3; Forward, face, close;
 
 > Left turning box; ; ; ;
 
