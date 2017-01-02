@@ -67,6 +67,6 @@
 
 > 2 forward twosteps; ; Basketball turn; ;
 
-# End (4 measures)
+# End (3 measures)
 
-> Open vine 4; ; Twirl 2; Apart & Point;
+> Open vine 4; ; Apart & Point;
