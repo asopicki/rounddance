@@ -35,7 +35,7 @@
 
 > Vine apart & Together; (to face); Basketball turn; ;
 
-> Double Hitch; ; Scoot; Walk 2 (to closed);
+> Double Hitch; ; Scoot; Walk 2 (to butterfly);
 
 # Bridge1
 

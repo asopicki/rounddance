@@ -43,9 +43,9 @@
 
 # C (10 measures) [01:14]
 
-> 2 turning twosteps; ; Lace up; ; ; ;
+> 2 turning twosteps; (to semi); Lace up; ; ; ;
 
-> Face to face; Back to back; Double hitch; ;
+> Face to face; Back to back; Double hitch; (to semi);
 
 # A (16 measures) [01:30]
 
