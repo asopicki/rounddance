@@ -67,7 +67,7 @@
 
 > Walk & Pick Up; Progressive Scissors (to sidecard); (to banjo);
 
-> Forward hitch; Hitch & Scissors; Two forward two steps; ; Twirl 2; (to face);
+> Forward hitch; Hitch & Scissors; Two forward two steps; ; Twirl 2; (to open);
 
 # F
 
