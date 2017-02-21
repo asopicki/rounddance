@@ -71,11 +71,11 @@
 
 # F
 
-> Two Step Touches; ; Circle away & together; (to semi);
+> Step, Clap (twice); ; Circle away & together; (to semi);
 
 > Rock the Boat; (twice); Circle away & together; (to open);
 
-> Two Step Touches; ; Circle away & together; (to semi);
+> Step, Clap (twice); ; Circle away & together; (to semi);
 
 > Rock the Boat; (twice); Circle away & together; (to face);
 
