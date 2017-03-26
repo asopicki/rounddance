@@ -25,7 +25,7 @@
 
 # B
 
-> Break back (to open reverse); Forward triple Chas; ; Aida to Back Triple Chas; ;
+> Break back (to open reverse) & Forward triple Chas; ; Aida to Back Triple Chas; ;
 > Switch Cross; Crab Walk Ending; Spot Turn; (twice);
 
 # A
@@ -38,12 +38,12 @@
 
 # B
 
-> Break back (to open reverse); Forward triple Chas; ; Aida to Back Triple Chas; ;
+> Break back (to open line) & Forward triple Chas; ; Aida to Back Triple Chas; ;
 > Switch Cross; Crab Walk Ending; Spot Turn; (twice);
 
 # B
 
-> Break back (to open reverse); Forward triple Chas; ; Aida to Back Triple Chas; ;
+> Break back (to open line) & Forward triple Chas; ; Aida to Back Triple Chas; ;
 > Switch Cross; Crab Walk Ending; Spot Turn; (twice);
 
 # C
@@ -54,10 +54,10 @@
 
 # B
 
-> Break back (to open reverse); Forward triple Chas; ; Aida to Back Triple Chas; ;
+> Break back (to open reverse) & Forward triple Chas; ; Aida to Back Triple Chas; ;
 > Switch Cross; Crab Walk Ending; Spot Turn; (twice);
 
 # Ending
 
-> Break back (to open reverse); Forward triple Chas; ; Aida to Back Triple Chas; ;
+> Break back (to open reverse) & Forward triple Chas; ; Aida to Back Triple Chas; ;
 > Switch Cross; Crab Walk Ending; Forward Basic; Whip; Apart & Point;
