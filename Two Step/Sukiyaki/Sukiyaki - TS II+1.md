@@ -42,11 +42,11 @@
 
 > Vine 4; Pivot 2; Walk 2 (check it); Whaletail; ;
 
-> Walk & face; Two turning two steps; ; Twirl 2; Walk 2 (to semi);
+> Walk & face; Two turning two steps; ; Twirl 2; Walk 2 (to butterfly);
 
 # C
 
-> Side two step left; Charge turn out (to face); Side two step right;
+> (Side two step left; Charge turn out (to face); Side two step right;
 
 > Charge turn out (to face); Two side closes; Side, through to maneuver;
 
