@@ -46,7 +46,7 @@
 
 # C
 
-> (Side two step left; Charge turn out (to face); Side two step right;
+> Side two step left; Charge turn out (to face); Side two step right;
 
 > Charge turn out (to face); Two side closes; Side, through to maneuver;
 
