@@ -15,7 +15,7 @@
 > Wait thru voice + 1 Meas music; Twirl/ Vine Cha; Reverse Twirl/Vine Cha (Bfly);
 
 
-# A
+# A [00:09]
 
 > Break back (to open); Swivel 2, Forward Cha; Sliding door Once; Rock apart, Recover, Forward Cha;
 
@@ -23,9 +23,9 @@
 
 > Twisty Vine 8; ; Open Break; Underarm Turn;
 
-# B
+# B [00:35]
 
-> Break back (to open reverse) & Forward triple Chas; ; Aida to Back Triple Chas; ;
+> Break back, Forward triple Chas (to reverse); ; Aida to Back Triple Chas; ;
 > Switch Cross; Crab Walk Ending; Spot Turn; (twice);
 
 # A
@@ -38,12 +38,12 @@
 
 # B
 
-> Break back (to open line) & Forward triple Chas; ; Aida to Back Triple Chas; ;
+> Break back, Forward triple Chas (to line); ; Aida to Back Triple Chas; ;
 > Switch Cross; Crab Walk Ending; Spot Turn; (twice);
 
 # B
 
-> Break back (to open line) & Forward triple Chas; ; Aida to Back Triple Chas; ;
+> Break back, Forward triple Chas (to line); ; Aida to Back Triple Chas; ;
 > Switch Cross; Crab Walk Ending; Spot Turn; (twice);
 
 # C
@@ -54,10 +54,10 @@
 
 # B
 
-> Break back (to open reverse) & Forward triple Chas; ; Aida to Back Triple Chas; ;
+> Break back, Forward triple Chas (to reverse); ; Aida to Back Triple Chas; ;
 > Switch Cross; Crab Walk Ending; Spot Turn; (twice);
 
 # Ending
 
-> Break back (to open reverse) & Forward triple Chas; ; Aida to Back Triple Chas; ;
+> Break back, Forward triple Chas (to reverse); ; Aida to Back Triple Chas; ;
 > Switch Cross; Crab Walk Ending; Forward Basic; Whip; Apart & Point;

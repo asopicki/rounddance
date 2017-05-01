@@ -98,7 +98,7 @@
 
 # Ending
 
-> Progressive Scissors; (Checking); Fishtail; Walk 2;
+> Progressive Scissors; (Checking); Fishtail; Walk 2 (Checking);
 
 > Fishtail; Walk & face; Two turning two steps; ;
 

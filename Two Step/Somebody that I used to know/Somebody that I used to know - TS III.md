@@ -57,7 +57,7 @@
 
 > Circle away & together; ; 2 turning twos; (to pickup);
 
-> Traveling scissors; ; ; ; Forward hitch; Hitch & scissors (to semi);
+> Traveling scissors (Scissors to sidecar); (Walk out 2); (Scissors to banjo); (Walk in 2); Forward hitch; Hitch & scissors (to semi);
 
 # A
 

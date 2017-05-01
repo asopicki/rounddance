@@ -99,6 +99,6 @@
 
 > New Yorker;
 
-# Ending (4 measures)
+# Ending (3 measures)
 
-> Twirl 2, Cha; Wrap 2, Cha; Hold; Rock apart, Point;
+> Twirl 2, Cha; Wrap 2, Cha; Rock apart, Point;

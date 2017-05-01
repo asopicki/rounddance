@@ -16,13 +16,13 @@
 
 > ; ; Time Step (twice) ; ;
 
-# A (12 measures) [00:14]
+# A (13 measures) [00:14]
 
 > Forward Basic; Fan; Hockey Stick; ;
 
 > Shoulder to Shoulder; Aida; Switch Rock; Spot turn;
 
-> Double Cuban Breaks; ; Single Cuban Break; Cucaracha in 4;
+> Double Cuban Breaks; ; Single Cuban Breaks; ; Cucaracha in 4;
 
 # B (12 measures) [00:35]
 
@@ -36,13 +36,13 @@
 
 > Flirt ; (lady to a fan) ; Alemana ; ;
 
-# A (12 measures) [01:04]
+# A (13 measures) [01:04]
 
 > Forward Basic; Fan; Hockey Stick; ;
 
 > Shoulder to Shoulder; Aida; Switch Rock; Spot turn;
 
-> Double Cuban Breaks; ; Single Cuban Break; Cucaracha in 4;
+> Double Cuban Breaks; ; Single Cuban Breaks; ; Cucaracha in 4;
 
 # B (12 measures) [01:23]
 
@@ -64,7 +64,7 @@
 
 > Shadow New Yorker; Underarm turn (to butterfly); Traveling Door; Side walks (to open reverse);
 
-> Walking Cha; Circle away & together; ; Cucaracha;
+> Back basic; Circle away & together; ; Cucaracha right (man facing center);
 
 # B (12 measures) [2:19]
 

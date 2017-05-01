@@ -8,7 +8,7 @@
 * **Sequence**: Intro - AB - AB - A - Ending
 * **Music**: Theme from "Inuyasha", Aidana
 
-*Dance starts in open facing position, facing line of dance, lead feet free, waiting 2 measures*
+*Dance starts in open facing position, facing line of dance, no hands joined, lead feet free, waiting 2 measures*
 
 # Intro
 
