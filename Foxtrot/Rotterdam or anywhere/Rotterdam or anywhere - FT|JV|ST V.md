@@ -70,4 +70,8 @@
 
 # Ending
 
+> (Slow two step) Lunge basics; (twice, to pickup); Triple traveler; ; ; Basic ending (to maneuver);
+
+> Right turn (Lady outside roll); Open basic ending (to butterfly);
+
 > Lunge side;
