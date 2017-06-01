@@ -1,7 +1,7 @@
 # Somebody that I used to know
 *Song by Gotye (Album: Die ultimative Chartshow - Die erfolgreichsten Hits 2012 CD 2, Track 4, 4:05)*
 
-* **Choreographer**: Burger
+* **Choreographer**: Johanna und Stefan Burger
 * **Rhythm**: Twostep
 * **Phase**: III
 * **Difficulty**: Average
@@ -31,11 +31,11 @@
 
 # Bridge
 
-> Figur 8; ; ; ; 2 side two steps; ; Lace across; Forward two step (to face);
+> Figur 8; ; ; ; 2 side two steps; ; (to reverse) Lace across; Forward two step (to face);
 
 # A
 
-> Lace across (to left open); Forward two step; Double hitch; ;
+> (to line) Lace across (to left open); Forward two step; Double hitch; ;
 
 > Lace back; Forward two step; Strut 4 (to semi); ;
 
