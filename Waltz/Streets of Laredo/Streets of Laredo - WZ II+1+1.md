@@ -3,12 +3,12 @@
 
 * **Choreographer**: Yasuyo Watanabe
 * **Rhythm**: Waltz
-* **Phase**: II+1+1 +1 (Fan, Interrupted Box)
+* **Phase**: II+1+1 (Fan, Interrupted Box)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - AB(1-15) - Ending
 * **Music**: Molly Maguires Theme
 
-*Dance starts in open facing position, man facing diagonal and center, lead feet free, wait 2 measures*
+*Dance starts in open facing position, man facing wall, lead feet free, wait 2 measures*
 
 # Intro
 
