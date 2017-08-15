@@ -1,7 +1,7 @@
 # Counting Stars
 *Song by OneRepublic (Album: -, Track -)*
 
-* **Choreographer**: Sefanie Christian
+* **Choreographer**: Stefanie Christian
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: V+1 (Rope Spin)
 * **Difficulty**: medium
@@ -37,7 +37,7 @@
 
 > Half basic; Fan; Stop and Go Hockeystick; ;
 
-> Alemana preparation; Aida; Switch Cross; Side walks;
+> Alemana preparation; Aida (to line); Switch Cross; Side walks;
 
 > Half basic; Fan; Stop and Go Hockeystick; ;
 
@@ -75,7 +75,7 @@
 
 # Interlude () []
 
-> (Rumba) Through Serpiente; ; (Slow) Fence line in 2; (twice)
+> (Rumba) Through Serpiente (to reverse); ; Fence line (with side, close);
 
 # B2 () []
 
@@ -85,9 +85,7 @@
 
 > Half basic; Fan; Stop and Go Hockeystick; ;
 
-> Alemana preparation; Aida; Switch Cross; Traveling door;
-
-> Side walks;
+> Alemana preparation; Aida; Switch Cross; Side walks;
 
 # Ending () []
 
