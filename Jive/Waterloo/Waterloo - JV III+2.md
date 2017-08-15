@@ -20,7 +20,7 @@
 
 > Change right to left (to reverse), Change hands behind the back;;;
 
-> Change left to right (to face wall), Right turning fallaway;;;
+> Change left to right (overturned, to face wall), Link to a right turning fallaway;;;
 
 > Left turning fallaway, rock, recover;;
 
@@ -34,7 +34,7 @@
 
 > Basic rock (to handshake), Triple wheel 3 (to face center);;;;
 
-> Basic rock, change left to right (to face wall);;; Progressive rock 4;
+> Basic rock, change left to right (overturned, to face wall);;; Progressive rock 4;
 
 > Right turning triples; Right turning fallaway, Rock, recover;; Swivel 4;
 
@@ -48,7 +48,7 @@
 
 > Change right to left (to reverse), Change hands behind the back;;;
 
-> Change left to right (to face wall), Right turning fallaway;;;
+> Change left to right (overturned, to face wall), Link to a right turning fallaway;;;
 
 > Left turning fallaway, rock, recover;;
 
@@ -62,7 +62,7 @@
 
 > Basic rock (to handshake), Triple wheel 3 (to face center);;;;
 
-> Basic rock, change left to right (to face wall);;; Progressive rock 4;
+> Basic rock, change left to right (overturned, to face wall);;; Progressive rock 4;
 
 > Right turning triples; Right turning fallaway, Rock, recover;; Swivel 4;
 
@@ -74,7 +74,7 @@
 
 > Basic rock (to handshake), Triple wheel 3 (to face center);;;;
 
-> Basic rock, change left to right (to face wall);;; Progressive rock 4;
+> Basic rock, change left to right (overturned, to face wall);;; Progressive rock 4;
 
 > 2 forward triples; Swivel 4; Throwaway; Change hands behind the back (twice);;;
 
