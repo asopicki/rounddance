@@ -4,9 +4,12 @@
 # if it exists
 
 cd `dirname $0`
+basedir=`pwd`
 
 find . -mindepth 2 -name \*.md -exec ./md2html.py \{\} \;
 
 cd scripts && python cuesheetlib.py
 
-cd `dirname $0` 
+cd $basedir 
+
+/home/alex/tools/cuesheetlibrary/bin/CuesheetLibrary $basedir
