@@ -21,7 +21,7 @@
 
 > Whisk; Maneuver; Spin turn; Box finish;
 
-> TWo left turns; ; Box; ;
+> Two left turns; ; Box; ;
 
 > Balance left & right; ; Twirl/Vine 3; Pickup in 3 (to diagonal center);
 
@@ -36,7 +36,7 @@
 
 > Waltz away & together; ; Solo turn in 6; (to butterfly);
 
-> Waltz away & together; ; Solo turn in 6; (to butterfly);
+> Waltz away & together; ; Solo turn in 6; (to closed);
 
 > Left turning box; ; ; ;
 
@@ -59,7 +59,7 @@
 
 > Waltz away & together; ; Solo turn in 6; (to butterfly);
 
-> Waltz away & together; ; Solo turn in 6; (to butterfly);
+> Waltz away & together; ; Solo turn in 6; (to closed);
 
 > Left turning box; ; ; ;
 
