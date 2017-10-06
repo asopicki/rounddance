@@ -1,7 +1,7 @@
 # Axel F
 *Song by Harold Faltermeyer (MCA 52536, Duration: 3:00)*
 
-* **Choreographer**: Russ & Carel Methewson
+* **Choreographer**: Russ & Carel Mathewson
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: III+1 (Alemana)
 * **Difficulty**: Easy

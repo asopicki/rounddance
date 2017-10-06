@@ -3,9 +3,9 @@
 
 * **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
 * **Rhythm**: Cha-Cha-Cha
-* **Phase**: IV+2 (Double Cuban Breaks, Single Cuban Break)
+* **Phase**: IV+2 (Double Cuban Breaks, Single Cuban Breaks)
 * **Difficulty**: medium
-* **Sequence**: Intro - A - B(1-14) - Inter - A - D - A - Ending
+* **Sequence**: Intro - A - B(1-14) - Inter - AB - DEB - Ending
 * **Music**: Tanzen, Christina Stürmer
 * **Speed** Slow down to 135bpm
 

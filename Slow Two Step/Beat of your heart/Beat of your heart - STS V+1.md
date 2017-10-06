@@ -26,7 +26,7 @@
 
 # Interlude
 
-> Side basic; Sweatheart wrap (Lady in 2??);
+> Side basic; Sweatheart wrap (Lady in 2);
 
 # B
 

@@ -6,7 +6,7 @@
 * **Phase**: IV+2
 * **Difficulty**: Average
 * **Sequence**: Intro - A - B - C - INTER - A - C - C - Ending
-* **Music**: Rotterdam or anywhere, The Beautiful South
+* **Music**: Back to black, Amy Winehouse
 
 *Dance starts in closed position, man facing diagonal line and wall, lead feet free, waiting 2 measures*
 

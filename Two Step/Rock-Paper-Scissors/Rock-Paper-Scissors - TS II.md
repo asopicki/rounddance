@@ -4,10 +4,12 @@
 * **Choreographer**: Susanne Hoppe
 * **Rhythm**: Two step
 * **Phase**: II
-* **Step Level*: B
+* **Step Level**: B
 * **Difficulty**: medium
 * **Sequence**: Intro - ABC - Bridge1 - ABC - C - A - Bridge2 - D - CC- Bridge3 - E - A - Ending
 * **Music**: Rock-Paper-Scissors, Katzenjammer
+
+*Dance starts in open facing position, lead feet free, waiting 2 measures*
 
 # Intro
 
