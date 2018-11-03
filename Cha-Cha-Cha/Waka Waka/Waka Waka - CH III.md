@@ -4,7 +4,7 @@
 * **Choreographer**: Klaus & Marion Völkl
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: III
-* **Difficulty**: Easy
+* **Difficulty**: Average
 * **Sequence**: Intro - A - Inter1 - B - A - Inter2 - CA - Inter2 - Ending
 * **Music**: Waka Waka, Shakira
 

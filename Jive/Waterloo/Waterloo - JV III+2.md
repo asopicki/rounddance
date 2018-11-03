@@ -20,7 +20,7 @@
 
 > Change right to left (to reverse), Change hands behind the back;;;
 
-> Change left to right (overturned, to face wall), Link to a right turning fallaway;;;
+> Change left to right, Link to a right turning fallaway;;;
 
 > Left turning fallaway, rock, recover;;
 
@@ -48,7 +48,7 @@
 
 > Change right to left (to reverse), Change hands behind the back;;;
 
-> Change left to right (overturned, to face wall), Link to a right turning fallaway;;;
+> Change left to right, Link to a right turning fallaway;;;
 
 > Left turning fallaway, rock, recover;;
 

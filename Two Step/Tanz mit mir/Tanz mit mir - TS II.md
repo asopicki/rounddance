@@ -4,7 +4,7 @@
 * **Choreographer**: Andrea Hilpert
 * **Rhythm**: Two step
 * **Phase**: II
-* **Step Level*: C5
+* **Step Level**: C5
 * **Difficulty**: medium
 * **Sequence**: Intro - A - B - C - A* - B* - D - C - B - End
 * **Music**: Tanz mit mir, Faun
@@ -23,7 +23,7 @@
 
 > Circle away 2 twos;; Strut together in 4;;
 
-> Side two step left & right;; Side draw close (twice);;
+> Side two step left & right;; Side draw close; (twice);
 
 # B
 
@@ -31,13 +31,13 @@
 
 > Face to face; Back to back; Face to face; Back to back (to open);
 
-> Double Hitch; Basket ball turn;;
+> Double Hitch; ; Basket ball turn;;
 
 > Lace up;;;; 2 forward twos; (to closed); Two turning twos;;
 
 > Face to face; Back to back; Face to face; Back to back (to open);
 
-> Double Hitch; Basket ball turn; (to closed);
+> Double Hitch; ; Basket ball turn; (to closed);
 
 # C
 
@@ -49,13 +49,13 @@
 
 > Rock back, recover; Walk 4;;
 
-# B
+# B*
 
 > Lace up;;;; 2 forward twos; (to closed); Two turning twos;;
 
 > Face to face; Back to back; Face to face; Back to back (to open);
 
-> Double Hitch; Basket ball turn; (to face, **no hands**);
+> Double Hitch; ; Basket ball turn; (to face, **no hands**);
 
 # D
 
@@ -73,12 +73,12 @@
 
 > Face to face; Back to back; Face to face; Back to back (to open);
 
-> Double Hitch; Basket ball turn;;
+> Double Hitch; ; Basket ball turn;;
 
 > Lace up;;;; 2 forward twos; (to closed); Two turning twos;;
 
 > Face to face; Back to back; Face to face; Back to back (to open);
 
-> Double Hitch; Basket ball turn; (to closed);
+> Double Hitch; ; Basket ball turn; (to closed);
 
 # End

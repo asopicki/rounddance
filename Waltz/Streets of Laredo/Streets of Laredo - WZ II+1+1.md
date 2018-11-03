@@ -6,7 +6,7 @@
 * **Phase**: II+1+1 (Fan, Interrupted Box)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - AB(1-15) - Ending
-* **Music**: Molly Maguires Theme
+* **Music**: Streets of Laredo by Rav Davis & his orchestra
 
 *Dance starts in open facing position, man facing wall, lead feet free, wait 2 measures*
 

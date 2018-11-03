@@ -73,7 +73,7 @@
 
 > Flirt; (Lady to a Fan); Alemana Preparation; Whip;
 
-> Fence line and Point ;
+> Fence line in 4 ;
 
 
 # Part A (16 measures) [02:56]
@@ -94,6 +94,6 @@
 
 > Open Hip Twist; Fan; Hockey Stick; ;
 
-> Half Basic (Lady wrap); Wheel Cha (to face center); Lady unwrap (to face wall);
+> Half Basic (Lady wrap); Wheel Cha (to face center); Man wheel / Lady unwrap (to face wall);
 
-> Fence line; Aida (to reverse) and Hold;
+> New Yorker; Aida (to reverse) and Hold;

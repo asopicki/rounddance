@@ -23,9 +23,9 @@
 
 > Underarm turn; Basic ending (to pickup); Left turn (lady inside roll); Basic ending;
 
-> Lunge basics; (to maneuver); Right turn with outside roll; Basic Ending ;
+> Lunge basics; (to maneuver); Right turn (Lady outside roll); Basic Ending ;
 
-> Open Basics; (to maneuver); Right turn with outside roll; Open basic;
+> Open Basics; (to maneuver); Right turn (Lady outside roll); Open basic;
 
 > Switches; ; Lunge basic; Basic ending (to pickup);
 
@@ -39,15 +39,15 @@
 
 > Lunge basics; ; Cross body; Reverse underarm turn;
 
-## A (20 measures) [01:34]
+## A (20 measures) [00:18]
 
 > Basic; (to pickup); Left turn (lady inside roll); Basic ending;
 
 > Underarm turn; Basic ending (to pickup); Left turn (lady inside roll); Basic ending;
 
-> Lunge basics; (to maneuver); Right turn with outside roll; Basic Ending ;
+> Lunge basics; (to maneuver); Right turn (Lady outside roll); Basic Ending ;
 
-> Open Basics; (to maneuver); Right turn with outside roll; Open basic;
+> Open Basics; (to maneuver); Right turn (Lady outside roll); Open basic;
 
 > Switches; ; Lunge basic; Basic ending (to pickup);
 

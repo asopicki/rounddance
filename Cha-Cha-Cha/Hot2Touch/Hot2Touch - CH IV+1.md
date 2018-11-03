@@ -3,7 +3,7 @@
 
 * **Choreographer**: Andrea Fartmann & Alexander Sopicki
 * **Rhythm**: Cha-Cha-Cha
-* **Phase**: IV +1 (Double Cuban Breaks)
+* **Phase**: IV +2 (Challenge Chase, Natural Top)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - Inter - CA - BC - DC - Ending
 * **Music**: Hot2Touch, Felix Jaehn & Hight & Alex Aiono
@@ -12,19 +12,19 @@
 
 # Intro (4 measures) []
 
-> ; ; Cucaracha left & right;
+> ; ; Cucaracha left & right; ;
 
 # A (8 measures) []
 
-> New Yorker; (twice); Shoulder to Shoulder; Alemana turn;
+> Half Basic; New Yorker; Shoulder to Shoulder; Alemana turn;
 
-> Chase (man turns); Chase (both turn); Peek-a-Boo; Chase (lady turns);
+> Chase (man turns); Chase (both turn); Peek-a-Boo; Man Cucaracha (lady turns to face);
 
 # B (8 measures) []
 
-> Aida; Switch rock; Spot turn (to right handshake); Whip;
+> Half Basic; Fan; Hockeystick; ;
 
-> Shadow New Yorker; (twice); Flirt; (lady turn to face);
+> Cross Body; (to right handshake); Flirt; (lady turn to face);
 
 # Inter (4 measures) []
 
@@ -32,42 +32,42 @@
 
 # C (8 measures) []
 
-> Time step; (twice); Fence line; Spot turn;
+> Time step; Aida (into back tripple chas); ; Switch rock;
 
-> Double cuban breaks; (both directions); Spot turn ; (twice);
+> Fan; Alemana preparation; Whip; Cucaracha in 4;
 
 # A (8 measures) []
 
-> New Yorker; (twice); Shoulder to Shoulder; Alemana turn;
+> Half Basic; New Yorker; Shoulder to Shoulder; Alemana turn;
 
-> Chase (man turns); Chase (both turn); Peek-a-Boo; Chase (lady turns);
+> Chase (man turns); Chase (both turn); Peek-a-Boo; Man Cucaracha (lady turns to face);
 
 # B (8 measures) []
 
-> Aida; Switch rock; Spot turn (to right handshake); Whip;
+> Half Basic; Fan; Hockeystick; ;
 
-> Shadow New Yorker; (twice); Flirt; (lady turn to face);
+> Cross Body; (to right handshake); Flirt; (lady turn to face);
 
 # C (8 measures) []
 
-> Time step; (twice); Fence line; Spot turn;
+> Time step; Aida (into back tripple chas); ; Switch rock;
 
-> Double cuban breaks; (both directions); Spot turn ; (twice);
+> Fan; Alemana preparation; Whip; Cucaracha in 4;
 
 # D (8 measures) []
 
-> Half basic; Fan; Hockey Stick; ;
+> Trade places; (twice); Chase underarm pass; ;
 
-> Chase underarm pass; ; Cross body; ;
+> New Yorker; (twice); Cross body; ;
 
 # C (8 measures) []
 
-> Time step; (twice); Fence line; Spot turn;
+> Time step; Aida (into back tripple chas); ; Switch rock;
 
-> Double cuban breaks; (both directions); Spot turn ; (twice);
+> Fan; Alemana preparation; Whip; Cucaracha in 4;
 
 # Ending (9 measures)
 
-> Aida (to back tripple cha); ; Switch cross; Crab walks; ;
+> Challenge Chase; ; Half Basic; Aida (to back tripple cha); ;
 
-> Half basic (into); Natural top; Half basic (to butterfly); Aida in 3 & Hold;
+> Switch rock; Spot turn; Half basic (to butterfly); Aida in 3 & Hold;

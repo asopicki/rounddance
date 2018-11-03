@@ -3,10 +3,10 @@
 
 * **Choreographer**: Kazuyoshi & Atsuko Yoshikawa
 * **Rhythm**: Waltz
-* **Phase**: II+1 (Diamond turn)
+* **Phase**: III+1 (Diamond turn)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - AB(1-15) - Ending
-* **Music**: Molly Maguires Theme
+* **Music**: Let it go by Hang Shuen Lee
 
 *Dance starts in open facing position, man facing wall, lead feet free, wait 2 measures*
 

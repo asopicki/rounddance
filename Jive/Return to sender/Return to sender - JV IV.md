@@ -24,7 +24,7 @@
 
 > Pretzel turn - Double Rock - Unwrap the Pretzel - Fallaway Rock (to a right handshake) ; ; ; ; ;
 
-> Miami special - Kick/Ball change - Slide across in 3 - Roll to face in 4; ; ;
+> Miami special - Kick/Ball change - Slide across in 3 - Roll to face in 3; ; ;
 
 > Basic - Change right to left; ; ;
 
@@ -42,7 +42,7 @@
 
 > Pretzel turn - Double Rock - Unwrap the Pretzel - Fallaway Rock (to a right handshake) ; ; ; ; ;
 
-> Miami special - Kick/Ball change - Slide across in 3 - Roll to face in 4; ; ;
+> Miami special - Kick/Ball change - Slide across in 3 - Roll to face in 3; ; ;
 
 > Basic - Change right to left; ; ;
 

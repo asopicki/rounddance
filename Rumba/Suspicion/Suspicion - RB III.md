@@ -2,7 +2,7 @@
 *Song by Elvis Presley (Album: , Track 2)*
 
 * **Choreographer**: Jackie & Juanita Smith
-* **Rhythm**: Rhumba
+* **Rhythm**: Rumba
 * **Phase**: III
 * **Difficulty**: moderate
 * **Sequence**: Intro - A B - A B - A B - Ending

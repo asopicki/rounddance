@@ -21,13 +21,13 @@
 
 > Three step; Natural Turn ½; Closed Impetus; Feather Finish;
 
-> Diamond Turn ½; (to reverse) Three step; Feather;
+> Diamond Turn ½; ;(to reverse) Three step; Feather;
 
 > Reverse turn (to reverse); ; (still to reverse) Three step; Natural turn ½;
 
 > Closed Impetus; Feather finish (to line);
 
-> Diamond turn (full around); ; ; ;
+> Full Diamond turn; ; ; ;
 
 ## B (10 measures) [00:00]
 

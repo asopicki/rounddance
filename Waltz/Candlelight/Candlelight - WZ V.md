@@ -17,7 +17,7 @@
 
 > Hover Brush to Semi; Chassé to Banjo;
 
-## A (16 measures) [00:00]
+## A (16 measures) [00:17]
 
 > Maneuver; Spin turn overturned; Right turning lock (to semi); Chair, recover, slip;
 
@@ -31,7 +31,7 @@
 
 > Maneuver; Spin turn overturned; Quick lock, slow lock; Back chassé (to banjo)
 
-## B (12 measures) [00:00]
+## B (12 measures) [00:50]
 
 > Check developé; Back chassé; Slow contra check;
 
@@ -39,7 +39,7 @@
 
 > Syncopated whisk; Weave 6 (to semi); ; Chassé (to banjo)
 
-## A (16 measures) [00:00]
+## A (16 measures) [01:12]
 
 > Maneuver; Spin turn overturned; Right turning lock (to semi); Chair, recover, slip;
 

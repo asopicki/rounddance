@@ -30,7 +30,7 @@
 
  > Forward Basic to Back Triple Cha; ; Back Basic to Forward Triple Cha; ;
 
- > Forward Basic; Whip ; New Yorker; Spot turn;
+ > Half Basic; Whip ; New Yorker; Spot turn;
 
  > Hand to Hand (twice); ; Chase Underarm Pass; ;
 
@@ -38,7 +38,7 @@
 
 > Alemana; ; Lariat (Rope Spin option); ;
 
-> Forward Basic; Aida (to line); Switch Cross; Crab Walk Ending;
+> Half Basic; Aida (to line); Switch Cross; Crab Walk Ending;
 
 ## Part C (17 measures) [01:20]
 
@@ -58,7 +58,7 @@
 
 > Forward Basic to Back Triple Cha; ; Back Basic to Forward Triple Cha; ;
 
-> Forward Basic; Whip ; New Yorker; Spot turn;
+> Half Basic; Whip ; New Yorker; Spot turn;
 
 > Hand to Hand (twice); ; Chase Underarm Pass; ;
 
@@ -71,7 +71,7 @@
 
 > (Cha-Cha) Circle Cha Away and Together; ; Shoulder to Shoulder (twice); (to a handshake);
 
-> Flirt; ; One Sweetheart (Lady to face); Cucaracha;
+> Flirt; ; One Sweetheart (Lady to face); Cucaracha right;
 
 > Cucaracha and Point ;
 
@@ -82,7 +82,7 @@
 
 > Forward Basic to Back Triple Cha; ; Back Basic to Forward Triple Cha; ;
 
-> Forward Basic; Whip ; New Yorker; Spot turn;
+> Half Basic; Whip ; New Yorker; Spot turn;
 
 > Hand to Hand (twice); ; Chase Underarm Pass; ;
 

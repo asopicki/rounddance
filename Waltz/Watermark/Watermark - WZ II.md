@@ -45,7 +45,7 @@
 
 > Canter; (twice); Vine 3; Pickup in 3;
 
-> Progressive box; ; Two left tunrs; (to face the wall);
+> Progressive box; ; Two left turns; (to face the wall);
 
 # B
 

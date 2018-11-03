@@ -12,7 +12,7 @@
 
 # Intro
 
-> Forward, Swivel, Riase Arms; Forward, -, Close;
+> Forward, Swivel, Raise Arms; Forward, -, Close;
 
 # A
 
