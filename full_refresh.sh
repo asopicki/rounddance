@@ -15,4 +15,4 @@ cd $basedir
 #/home/alex/tools/cuesheetlibrary/bin/CuesheetLibrary $basedir
 
 export DATABASE_URL='/home/alex/.local/share/library.db'
-/home/alex/cuer_manager/cuecard_indexer $basedir
+/home/alex/tools/cuecard_indexer $basedir

@@ -40,7 +40,7 @@
 
 # D
 
-> Hitch 6; ; Progressive box; ;
+> Double Hitch; ; Progressive box; ;
 
 > Walk & check; Fishtail; 2 forward two steps; ;
 

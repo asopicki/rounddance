@@ -19,11 +19,11 @@
 
 > 2 forward twosteps; ; 2 turning twosteps; (to semi);
 
-> 2 forward twosteps; ; Basketball turn; (to semi);
+> Twirl vine 3; Through, Face, Close; Basketball turn; (to semi);
 
 > 2 forward twosteps; ; Open vine 4; ;
 
-> Circle away two twosteps; ; Stut together in 4; (to closed);
+> Circle away two twosteps; ; Strut together in 4; (to closed);
 
 # B (16 measures) [00:33]
 
@@ -51,11 +51,11 @@
 
 > 2 forward twosteps; ; 2 turning twosteps; (to semi);
 
-> 2 forward twosteps; ; Basketball turn; (to semi);
+> Twirl vine 3; Through, Face, Close; Basketball turn; (to semi);
 
 > 2 forward twosteps; ; Open vine 4; ;
 
-> Circle away two twosteps; ; Stut together in 4; (to closed);
+> Circle away two twosteps; ; Strut together in 4; (to closed);
 
 # B (16 measures) [01:59]
 
@@ -69,4 +69,4 @@
 
 # End (3 measures)
 
-> Open vine 4; ; Apart & Point;
+>  Quick vine 8; ; ; Apart & Point;

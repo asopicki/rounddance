@@ -1,4 +1,4 @@
-# Seňorita Tango
+# Señorita Tango
 
 *Song by Hollywood Movie Strings (Album: Ballroom Fascination, Casaphon #CP 5008)*
 
