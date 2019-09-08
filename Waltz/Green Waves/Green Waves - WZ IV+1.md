@@ -6,7 +6,7 @@
 * **Phase**: IV+1 (Double Reverse)
 * **Difficulty**: Average
 * **Sequence**: Intro - AA(19)B - A(19) - Ending
-* **Music**: Green Waves, DanceLife
+* **Music**: Greenwaves, DanceLife
 
 *Dance starts in closed position, man facing diagonal line and center, lead feet free, waiting two beats*
 
