@@ -26,7 +26,7 @@
 
 # B (20 measures) []
 
-> Circular Cross Body;;;;; to a Fan; Stop & Go Hockey Stick; ;
+> Circular Cross Body;;;;; Fan; Stop & Go Hockey Stick; ;
 
 > Hockey Stick; ; Chase Underarm Pass; ;
 
