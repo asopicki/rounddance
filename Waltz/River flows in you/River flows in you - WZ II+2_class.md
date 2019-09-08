@@ -1,4 +1,4 @@
-# River flows in you (class)
+# River flows in you (Class)
 *Song by DJ Ice (Album: Ballroom Butterfly, 3:07)*
 
 * **Choreographer**: Milo & Cinda Molitoris
@@ -12,17 +12,19 @@
 
 # Intro
 
-> Wait 2; Apart, Point; Together, Touch (to butterfly);
+> Wait 2; ; Apart, Point; Together, Touch (to butterfly);
 
-# A (16 measures) [0:08]
+# A [0:08]
 
 > Waltz away & Together; ; Twirl vine 3; Through, Face, Close (to butterfly);
 
-> Solo turn in 6; (to butterfly); Balance left & right; ; 
+> Solo turn in 6; (to butterfly); Waltz away; Cross wrap (to face reverse);
 
-> Canter; Twirl vine 3; Through Twinkle; (twice);
+> Backward waltz; M check / Lady roll across; Through Twinkle;
 
-> Pickup in 3; Two left turns; (to face line); Canter;
+> Through, Face, Close (to butterfly); Step Swing; Spin Maneuver;
+
+> Two right turns; (to face line);
 
 # B [0:41]
 
@@ -30,9 +32,9 @@
 
 > Two right turns; (to face wall);
 
-> One quarter left turn (to pickup); Half box back;
+> Twinkle Through; (twice);
 
-> Two left turns; (to face wall); Twirl Vine 3; Through, Face, Close;
+> Hover;  Pickup in 3; Two left turns; (to face wall);
 
 > Left turning box; ; ; ;
 
@@ -44,11 +46,13 @@
 
 > Waltz away & Together; ; Twirl vine 3; Through, Face, Close (to butterfly);
 
-> Solo turn in 6; (to butterfly); Balance left & right; ; 
+> Solo turn in 6; (to butterfly); Waltz away; Cross wrap (to face reverse);
 
-> Canter; Twirl vine 3; Through Twinkle; (twice);
+> Backward waltz; M check / Lady roll across; Through Twinkle;
 
-> Pickup in 3; Two left turns; (to face line); Canter;
+> Through, Face, Close (to butterfly); Step Swing; Spin Maneuver;
+
+> Two right turns; (to face line);
 
 # B [1:49]
 
@@ -56,23 +60,23 @@
 
 > Two right turns; (to face wall);
 
-> One quarter left turn (to pickup); Half box back;
+> Twinkle Through; (twice);
 
-> Two left turns; (to face wall); Twirl Vine 3; Through, Face, Close;
+> Hover;  Pickup in 3; Two left turns; (to face wall);
 
 > Left turning box; ; ; ;
 
 
 # C [2:22]
 
-> Waltz away; Lady wrap; Forward Waltz; Lady roll across (to left open);
+> Twirl Vine 3; Through, Face, Close; Solo turn in 6; ;
 
-> Through Twinkle; Through, Face, Close; Left turning Box (half way); (to face wall);
+> Step Swing; Spin Maneuver; Two right turns; (to face line);
 
-> Twirl vine 3; Through, Face, Close;
+> Progressive Box; ; Two left turns; (to face wall);
 
-> Box; ; Solo turn in 6; ; Balance left & right; ;
+> Dip back; Recover; Twirl Vine 3; Through, Face, Close;
 
 # Ending
 
-> Side canter; Apart & Point;
+> Canter; (twice);

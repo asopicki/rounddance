@@ -94,7 +94,7 @@
 
 > Traveling box; ; ; ;
 
-> Walk & pickup;
+> Walk & Face;
 
 # Ending
 

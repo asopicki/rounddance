@@ -14,66 +14,66 @@
 
 Wait 2;;
 
-## Part A (8 measures) [00:00]
+## Part A (8 measures) [00:04]
 
 > Time step; Through Serpiente; ; Fence line;
 
 > Through Serpiente; ; Crab walks 3; Cucaracha;
 
-## Part B (8 measures) [00:00]
+## Part B (8 measures) [00:21]
 
 > Chase with underarm pass; ; Turn & time; New Yorker (twice); ;
 
 > Time & turn; Chase with underarm pass; ;
 
-## Part C (8 measures) [00:00]
+## Part C (8 measures) [00:37]
 
 > Chase Peek-a-Boo; ; ; ;
 
 > Forward basic; Underarm Turn; Lariat; ;
 
-## Part A (8 measures) [00:00]
+## Part A (8 measures) [00:54]
 
 > Time step; Through Serpiente; ; Fence line;
 
 > Through Serpiente; ; Crab walks 3; Cucaracha;
 
-## Part B (8 measures) [00:00]
+## Part B (8 measures) [01:11]
 
 > Chase with underarm pass; ; Turn & time; New Yorker (twice); ;
 
 > Time & turn; Chase with underarm pass; ;
 
-## Part C (8 measures) [00:00]
+## Part C (8 measures) [01:27]
 
 > Chase Peek-a-Boo; ; ; ;
 
 > Forward basic; Underarm Turn; Lariat; ;
 
-## Part C (8 measures) [00:00]
+## Part C (8 measures) [01:44]
 
 > Chase Peek-a-Boo; ; ; ;
 
 > Forward basic; Underarm Turn; Lariat; ;
 
-## Part D (8 measures) [00:00]
+## Part D (8 measures) [02:00]
 
 > Break back to open; Progressive walks; Side walk apart; Spot turn to face;
 
 > Progressive walk together; Cucaracha cross (twice); ; Side walk 3;
 
-## Part A (8 measures) [00:00]
+## Part A (8 measures) [02:17]
 
 > Time step; Through Serpiente; ; Fence line;
 
 > Through Serpiente; ; Crab walks 3; Cucaracha;
 
-## Part C (8 measures) [00:00]
+## Part C (8 measures) [02:33]
 
 > Chase Peek-a-Boo; ; ; ;
 
 > Forward basic; Underarm Turn; Lariat; ;
 
-## Ending (4 measures) [00:00]
+## Ending (4 measures) [02:50]
 
 > Open break; Whip; Hand to hand; Whip; Open break (one step) & freeze;

@@ -30,7 +30,7 @@
 
 > Hover Corté; Back Hover; Through Twinkle; (twice); 
 
-> Through, Face, Close; Solo roll in 3; Pickup in 3; Side lunge & Slip;
+> Through, Face, Close; Solo roll in 3; Pickup in 3; Side lunge & Recover;
 
 
 # C (16 measures)
@@ -66,7 +66,6 @@
 
 > Back, Chassé (to banjo); Open natural; Open Impetus; Viennese Cross; 
 
-> Box Finish; Solo turn in 6; ; Twirl Vine; 
+> Back, Chassé (to banjo); Check forward, Recover, Side (to sidecar); Check Forward, Lady developé; Back, Chassé (to semi);
 
-> Through, Face, Close; Canter; Hover; Through to a Hinge; Extend;
-
+> Through, Face, Close; Canter; Hover; Through to a Hinge; Extend arms;

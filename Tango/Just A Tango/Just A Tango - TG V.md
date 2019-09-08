@@ -8,7 +8,7 @@
 * **Sequence**: Intro - AA - BB - AA - BB - Ending
 * **Music**: Just an old fashioned girl, Ross Mitchell
 
-*Dance starts in left open facing position, man facing diagonal reverse and wall, lead feet free, waiting 2 measures*
+*Dance starts in open facing position, man facing diagonal reverse and wall, lead feet free, waiting 2 measures*
 
 # Intro (4 measures) []
 

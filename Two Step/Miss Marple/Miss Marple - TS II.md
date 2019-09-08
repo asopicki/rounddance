@@ -21,7 +21,7 @@
 
 > Side two step left; (and right); Side two step left; (and right);
 
-> Box; ; Face to face; Back to back;
+> Vine 8; ; Circle away and together; ;
 
 # Bridge
 
@@ -33,23 +33,7 @@
 
 > Side two step left; (and right); Side two step left; (and right);
 
-> Box; ; Face to face; Back to back;
-
-# Bridge
-
-> Basketball turn; ;
-
-# C
-
-> Lace up; ; ; ; Side two step apart & together; ; Double hitch; ;
-
-# A
-
-> Circle away two two steps; ; Walk together in 4; ;
-
-> Side two step left; (and right); Side two step left; (and right);
-
-> Box; ; Face to face; Back to back;
+> Vine 8; ; Circle away and together; ;
 
 # Bridge
 
@@ -65,7 +49,23 @@
 
 > Side two step left; (and right); Side two step left; (and right);
 
-> Box; ; Face to face; Back to back;
+> Vine 8; ; Circle away and together; ;
+
+# Bridge
+
+> Basketball turn; ;
+
+# C
+
+> Lace up; ; ; ; Side two step apart & together; ; Double hitch; ;
+
+# A
+
+> Circle away two two steps; ; Walk together in 4; ;
+
+> Side two step left; (and right); Side two step left; (and right);
+
+> Box; ; Circle away and together; ;
 
 # Ending
 

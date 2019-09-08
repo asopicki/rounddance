@@ -13,13 +13,13 @@
 
 > Wait 2;; Waltz away & together; ;
 
-> Twisty vine 6; ; Twirl vine 3; Pickup in 3;
+> Solo Turn in 6; ; Twirl vine 3; Pickup in 3;
 
 # A
 
 > Two left turns; ; Solo turn in 6; (to butterfly);
 
-> Side canter; Twirl vine in 3; Through chassé (to semi); Through, face, close;
+> Side canter; Balance left & Right; ; Side Canter;
 
 > Waltz box; ; Twirl vine in 3; Through, face, close;
 
@@ -27,9 +27,9 @@
 
 # B
 
-> Forward & Point (to face wall); Back & Point; Twirl/Vine 3 (to semi); Maneuver;
+> Box; ; Twirl/Vine 3 (to semi); Maneuver;
 
-> Two right turns (to butterfly); ; Waltz away & together; ;
+> Two right turns (to face wall); ; Waltz away & together; ;
 
 > Vine 3; Pickup in 3;
 
@@ -37,18 +37,18 @@
 
 > Two left turns; ; Solo turn in 6; (to butterfly);
 
-> Side canter; Twirl vine in 3; Through chassé (to semi); Through, face, close;
+> Side canter; Balance left & Right; ; Side Canter;
 
 > Waltz box; ; Twirl vine in 3; Through, face, close;
 
 > Left turning box; ; ; ;
 
-# B
+# B(1-8)
 
-> Forward & Point (to face wall); Back & Point; Twirl/Vine 3 (to semi); Maneuver;
+> Box; ; Twirl/Vine 3 (to semi); Maneuver;
 
-> Two right turns (to butterfly); ; Waltz away & together; ;
+> Two right turns (to face wall); ; Waltz away & together; ;
 
 # Ending
 
-> Dip back & Twist (Lady leg crawl);
+> Dip back & Hold;

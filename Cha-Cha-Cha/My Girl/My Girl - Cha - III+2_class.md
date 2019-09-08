@@ -21,9 +21,9 @@
 
 > Hand to hand; New Yorker; (twice); Spot turn;
 
-> Half basic; Whip; New Yorker; (twice);
+> Half basic; Fan; Hockeystick; ;
 
-> Half basic; Whip; Shoulder to Shoulder; (twice);
+> Half basic; Fan; Hockeystick; ;
 
 ## A (16 measures)
 
@@ -31,10 +31,10 @@
 
 > Hand to hand; New Yorker; (twice); Spot turn;
 
-> Half basic; Whip; New Yorker; (twice);
+> Half basic; Fan; Hockeystick; ;
 
-> Half basic; Whip; Shoulder to Shoulder; (twice);
-
+> Half basic; Fan; Hockeystick; ;
+> 
 ## B (12 measures)
 
 > Half basic; Underarm turn; Lariat; ;
@@ -49,10 +49,10 @@
 
 > Hand to hand; Timestep; (twice); Spot turn;
 
-> Half basic; Whip; New Yorker; (twice);
+> Half basic; Fan; Hockeystick; ;
 
-> Half basic; Whip; Shoulder to Shoulder; (twice);
-
+> Half basic; Fan; Hockeystick; ;
+> 
 ## Ending
 
 > Hand to hand (to open); Walk 2 & forward cha; Sliding door; ;

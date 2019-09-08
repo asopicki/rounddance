@@ -12,7 +12,7 @@
 
 # Intro
 
-> Wait 2; Apart, Point; Together, Touch (to butterfly);
+> Wait 2; ; Apart, Point; Together, Touch (to butterfly);
 
 # A [0:08]
 
@@ -24,7 +24,7 @@
 
 > Through, Face, Close (to butterfly); Step Swing; Spin Maneuver;
 
-> Two right turns; (to pickup);
+> Two right turns; (to face line);
 
 # B [0:41]
 
@@ -52,7 +52,7 @@
 
 > Through, Face, Close (to butterfly); Step Swing; Spin Maneuver;
 
-> Two right turns; (to pickup);
+> Two right turns; (to face line);
 
 # B [1:49]
 

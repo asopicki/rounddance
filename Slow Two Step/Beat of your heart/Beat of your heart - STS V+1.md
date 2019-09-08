@@ -16,7 +16,7 @@
 
 # A
 
-> Basics; ; Travelling right turn (with outside roll); ;
+> Basic; ; Travelling right turn (with outside roll); ;
 
 > Side basic; Open break (to a handshake); Change places underarm; Rundolf rondé lariat;
 
@@ -32,7 +32,7 @@
 
 > Sweatheart run 6; ; Sweatheart switch; ;
 
-> Shadow lunge basics; (lady transition to face); Basics; ;
+> Shadow lunge basics; (lady transition to face); Basic; ;
 
 > Left turn (to butterfly); Break back (with ladies head loop); Underarm turn (to stacked hands);
 
@@ -52,7 +52,7 @@
 
 > Sweatheart run 6; ; Sweatheart switch; ;
 
-> Shadow lunge basics; (lady transition to face); Basics; ;
+> Shadow lunge basics; (lady transition to face); Basic; ;
 
 > Left turn (to butterfly); Break back (with ladies head loop); Underarm turn (to stacked hands);
 

@@ -43,7 +43,7 @@
 
 > Three progressive twinkles; ; (to banjo); Forward, face, close (to closed);
 
-# B
+# B(1-8)
 
 > Forward & Point (to face wall); Back & Point; Twirl/Vine 3 (to semi); Maneuver;
 

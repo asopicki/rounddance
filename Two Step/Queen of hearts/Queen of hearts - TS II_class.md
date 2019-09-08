@@ -94,16 +94,16 @@
 
 > Traveling box; ; ; ;
 
-> Walk & Pickup;
+> Walk & Face;
 
 # Ending
 
-> Forward 2 step; Pickup, side, close; Walk 2 (Checking); Fishtail;
+> Twirl 2; Walk 2; Double Hitch; ;
 
-> Double hitch; ; Two turning two steps; (to face the wall);
+> Face to face; Back to Back; Two turning two steps; ;
 
 > Traveling box; ; ; ;
 
-> Two forward two steps; ; Box; ;
+> Two forward two steps; ; Double Hitch; ;
 
 > Open vine 4; ; Apart & Point;
