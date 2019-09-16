@@ -16,7 +16,7 @@
 
 > Switch with Cuban Break; Spot Turn;
 
-# A (20 measures) []
+# A (20 measures) [00:15]
 
 > Basic to Natural Top; ; Surprise Check to Reverse Top to Fan; ;
 
@@ -28,11 +28,11 @@
 
 > Chase with Underarm Pass; ; Chase with Underarm Pass; ;
 
-# B (14 measures) []
+# B (14 measures) [00:53]
 
 > Double Cuban Breaks; ; Open Hip Twist Pop; 
 
-> Lady to Side by Side / Man in 4; Open Crab Walk with Swivel; (twice);
+> (Lady to) Side by Side / Man in 4; Open Crab Walk with Swivel; (twice);
 
 > Forward Break; Back break (lady to face, man in 4 to handshake);
 
@@ -40,13 +40,13 @@
 
 > Challenge Chase; (to right handshake);
 
-# Interlude (8 measures) []
+# Interlude (8 measures) [1:21]
 
 > Circular Cross Body ; ; ; ; ; Aida; 
 
 > Switch with Cuban Break; Spot Turn;
 
-# A (20 measures) []
+# A (20 measures) [1:35]
 
 > Basic to Natural Top; ; Surprise Check to Reverse Top to Fan; ;
 
@@ -58,21 +58,21 @@
 
 > Chase with Underarm Pass; ; Chase with Underarm Pass; ;
 
-# B* (12 measures) []
+# B* (12 measures) [2:12]
 
 > Double Cuban Breaks; ; Open Hip Twist Pop; 
 
-> Lady to Side by Side / Man in 4; Open Crab Walk with Swivel; (twice);
+> (Lady to) Side by Side / Man in 4; Open Crab Walk with Swivel; (twice);
 
 > Forward Break; Back break (lady to face, man in 4 to handshake);
 
 > Turkish Towel; ; ; Lady Cross Body (to face);
 
-# B (14 measures) []
+# B (14 measures) [2:34]
 
 > Double Cuban Breaks; ; Open Hip Twist Pop; 
 
-> Lady to Side by Side / Man in 4; Open Crab Walk with Swivel; (twice);
+> (Lady to) Side by Side / Man in 4; Open Crab Walk with Swivel; (twice);
 
 > Forward Break; Back break (lady to face, man in 4 to handshake);
 
@@ -80,6 +80,6 @@
 
 > Challenge Chase; (to right handshake);
 
-# Ending (5 measures)
+# Ending (5 measures) [3:02]
 
 > Circular Cross Body (to face wall); ; ; ; Lunge Apart (with arm sweep);
