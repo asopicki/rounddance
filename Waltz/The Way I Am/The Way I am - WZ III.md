@@ -41,7 +41,7 @@
 
 > Cross Hover (to banjo); (to sidecar); (to semi); 
 
-> Through, Face, Close; Twirl Vine 3; Canter;
+> Through, Face, Close; Twirl Vine 3; Through, Face, Close;
 
 # A** (8 measures) [1:28]
 
