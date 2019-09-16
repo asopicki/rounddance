@@ -1,10 +1,10 @@
-# Perfect (Class A19)
+# Perfect (class)
 *Song by One Direction (Album: Bravo Hits 92, Track 12)*
 
 * **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
 * **Rhythm**: Rumba
-* **Phase**: III+2 (Aida, Switch Rock)
-* **Steplevel**: B+2 (Aida, Switch Rock)
+* **Phase**: III
+* **Steplevel**: B
 * **Difficulty**: Easy
 * **Sequence**: Intro - ABC - AB - BC - Inter - B - Ending
 * **Music**: Perfect, One Direction
@@ -22,21 +22,21 @@
 
 # A (8 measures) [00:24]
 
-> Basic; ; Hand to hand (to open); Progressive walk 3;
+> Basic; ; Hand to hand (to open); Progressive walks;
 
 > Circle away & together; ; Fence line; (twice);
 
 # B (8 measures) [00:42]
 
-> Half basic; Underarm turn; Lariat; ;
+> Alemana; ; Lariat; ;
 
-> Cucaracha Cross; (twice); Cucaracha left & right; ;
+> Shoulder to shoulder; Crab Walk; Cucaracha Cross; Side Walk;
 
 # C (9 measures) [01:02]
 
-> Chase; ; ; ;
+> Chase double Peek-a-Boo; ; ; ;
 
-> Timestep; (twice); Hand to Hand; (twice);
+> ; ; ; ;
 
 > New Yorker in 4;
 
@@ -46,23 +46,23 @@
 
 > Circle away & together; ; Fence line; (twice);
 
-# B (8 measures) [00:42]
+# B (8 measures) [01:43]
 
-> Half basic; Underarm turn; Lariat; ;
+> Alemana; ; Lariat; ;
 
-> Cucaracha Cross; (twice); Cucaracha left & right; ;
+> Shoulder to shoulder; Crab Walk; Cucaracha Cross; Side Walk;
 
-# B (8 measures) [00:42]
+# B (8 measures) [02:02]
 
-> Half basic; Underarm turn; Lariat; ;
+> Alemana; ; Lariat; ;
 
-> Cucaracha Cross; (twice); Cucaracha left & right; ;
+> Shoulder to shoulder; Crab Walk; Cucaracha Cross; Side Walk;
 
-# C (9 measures) [01:02]
+# C (9 measures) [02:22]
 
-> Chase; ; ; ;
+> Chase double Peek-a-Boo; ; ; ;
 
-> Timestep; (twice); Hand to Hand; (twice);
+> ; ; ; ;
 
 > New Yorker in 4;
 
@@ -72,15 +72,15 @@
 
 > Open break; Whip; Hand to hand; (twice);
 
-# B (8 measures) [00:42]
+# B (8 measures) [03:02]
 
-> Half basic; Underarm turn; Lariat; ;
+> Alemana; ; Lariat; ;
 
-> Cucaracha Cross; (twice); Cucaracha left & right; ;
+> Shoulder to shoulder; Crab Walk; Cucaracha Cross; Side Walk;
 
 # Ending (9 measures) [03:22]
 
-> Chase; ; ; ;
+> Chase Peek-a-Boo; ; ; ;
 
 > Hand to hand (to open); Progressive walks; Circle away & together; ;
 
