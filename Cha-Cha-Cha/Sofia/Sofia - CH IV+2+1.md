@@ -10,11 +10,11 @@
 
 *Dance starts in butterfly position, man facing wall, lead feet free, wait two measures*
 
-# Intro (4 measures) []
+# Intro (4 measures) [00:00]
 
 > Wait 2; ; Fence line; (twice);
 
-# A (17 measures) []
+# A (17 measures) [00:08]
 
 > Crab walks; ; New Yorker; Aida; Switch Rock;
 
@@ -24,17 +24,17 @@
 
 > Double Cuban Breaks; ; Cucaracha in 4 (to hand shake);
 
-# B (20 measures) []
+# B (20 measures) [00:38]
 
 > Circular Cross Body;;;;; Fan; Stop & Go Hockey Stick; ;
 
 > Hockey Stick; ; Chase Underarm Pass; ;
 
-> Cross Body; ; Alemana
+> Cross Body; ; Alemana; ; 
 
 > Lariat; ; Shoulder to shoulder; (twice);
 
-# A (17 measures) []
+# A (17 measures) [1:16]
 
 > Crab walks; ; New Yorker; Aida; Switch Rock;
 
@@ -44,17 +44,17 @@
 
 > Double Cuban Breaks; ; Cucaracha in 4 (to hand shake);
 
-# B* (19 measures) []
+# B* (19 measures) [1:49]
 
 > Circular Cross Body;;;;; Fan; Stop & Go Hockey Stick; ;
 
 > Hockey Stick; ; Chase Underarm Pass; ;
 
-> Cross Body; ; Alemana
+> Cross Body; ; Alemana; ; 
 
 > Lariat; ; Cucaracha in 4;
 
-# C (17 measures) []
+# C (17 measures) [2:26]
 
 > Half Basic; Crab Walks; ; New Yorker;
 
@@ -64,7 +64,7 @@
 
 > Basic; (to hand shake);
 
-# Ending (17 measures) []
+# Ending (17 measures) [2:56]
 
 > Circular Cross Body; ; ; ; ; Fan; Stop & Go Hockey Stick; ;
 

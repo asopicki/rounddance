@@ -42,3 +42,15 @@
 > Waltz away & Together; ; Canter; (twice);
 
 > Balance Left & Right; Waltz away & togther; ;
+
+# M4B
+
+> Step Swing; Spin Maneuver; Two Right Turns; (to face line);
+
+> Progressive Box; ; Two Left Turns; (to face wall);
+
+# M5B
+
+> Waltz Away; Lady Wrap; Forward Waltz; Pickup;
+
+> Progressive Box; ; Two Left Turns; (to face wall); 
