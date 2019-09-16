@@ -2,7 +2,7 @@
 *Song by Rihanna (Album: Home (OST), Track 6)*
 
 * **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
-* **Rhythm**: Slow Two step
+* **Rhythm**: Slow Two Step
 * **Phase**: IV+1 (Triple Traveler)
 * **Difficulty**: medium
 * **Sequence**: Intro - A - B - A - B - C - Ending
