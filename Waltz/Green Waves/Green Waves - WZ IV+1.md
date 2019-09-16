@@ -20,7 +20,7 @@
 
 > Open Impetus; Through Chassé (to semi); Weave 6; (to semi);
 
-> Open Natural; Back and right turning chassé; Hove Telemark;
+> Open Natural; Back and right turning chassé; Hover Telemark;
 
 > Through to promenade sway; Change Sway; Fallaway Rondé & Slip;
 
@@ -34,7 +34,7 @@
 
 > Open Impetus; Through Chassé (to semi); Weave 6; (to semi);
 
-> Open Natural; Back and right turning chassé; Hove Telemark;
+> Open Natural; Back and right turning chassé; Hover Telemark;
 
 > Through to promenade sway; Change Sway; Fallaway Rondé & Slip;
 
@@ -56,7 +56,7 @@
 
 > Open Impetus; Through Chassé (to semi); Weave 6; (to semi);
 
-> Open Natural; Back and right turning chassé; Hove Telemark;
+> Open Natural; Back and right turning chassé; Hover Telemark;
 
 > Through to promenade sway; Change Sway; Fallaway Rondé & Slip;
 

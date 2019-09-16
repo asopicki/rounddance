@@ -46,11 +46,11 @@
 
 > Twirl Vine Cha (to open); Walk 2 & Cha; Circle away & together; ; Shoulder to Shoulder; (twice);
 
-> Sand steps; (twice);
+> Time Step; (twice);
 
 > Twirl Vine Cha (to open); Walk 2 & Cha; Circle away & together; ; Shoulder to Shoulder; (twice);
 
-> Sand steps; (twice);
+> Time Step; (twice);
 
 # A
 
