@@ -2,7 +2,7 @@
 *Song by Gotye (Album: Die ultimative Chartshow - Die erfolgreichsten Hits 2012 CD 2, Track 4, 4:05)*
 
 * **Choreographer**: Johanna und Stefan Burger
-* **Rhythm**: Twostep
+* **Rhythm**: Two Step
 * **Phase**: III
 * **Difficulty**: Average
 * **Sequence**: Intro - A - Bridge - A B C - A B* - Ending

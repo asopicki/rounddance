@@ -2,7 +2,7 @@
 *Song by Frank Sinatra (Album: Merry Christmas!, Track 7, 2:31)*
 
 * **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
-* **Rhythm**: Two step
+* **Rhythm**: Two Step
 * **Phase**: II
 * **Difficulty**: medium
 * **Sequence**: Intro - AB - Inter - AB - End

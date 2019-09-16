@@ -2,7 +2,7 @@
 *Song by The Drifters (, 2:27)*
 
 * **Choreographer**: Unknown
-* **Rhythm**: Twostep
+* **Rhythm**: Two Step
 * **Phase**: II
 * **Sequence**: Intro - AB - AB - Bridge1 - AB - Bridge2 - B - Ending
 * **Music**: Save the last dance for me; The Drifters

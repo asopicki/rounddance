@@ -2,7 +2,7 @@
 *Song by Faun (Album: Von den Elben, Track 4)*
 
 * **Choreographer**: Andrea Hilpert
-* **Rhythm**: Two step
+* **Rhythm**: Two Step
 * **Phase**: II
 * **Step Level**: C5
 * **Difficulty**: medium

@@ -2,7 +2,7 @@
 *Song by Katzenjammer (Album: A kiss before you go, Track 6)*
 
 * **Choreographer**: Susanne Hoppe
-* **Rhythm**: Two step
+* **Rhythm**: Two Step
 * **Phase**: II
 * **Step Level**: B
 * **Difficulty**: medium

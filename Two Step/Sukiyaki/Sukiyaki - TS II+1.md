@@ -2,7 +2,7 @@
 *Song by Kyu Sakamoto (Record: Capitol 6152, 3:02)*
 
 * **Choreographer**: Neale & Arthurlyn Brown
-* **Rhythm**: Twostep
+* **Rhythm**: Two Step
 * **Phase**: II+1
 * **Difficulty**:
 * **Sequence**: Intro - A - A - B - A - C - B - A - Ending
