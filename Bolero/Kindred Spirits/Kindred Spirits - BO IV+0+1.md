@@ -8,7 +8,7 @@
 * **Sequence**: Intro - ABC - BC - A(1-8) - Ending
 * **Music**: Kindred Spirits by Phil Coulter
 
-* Dance starts in low butterfly, facing wall, trail feet free*
+*Dance starts in low butterfly, facing wall, trail feet free*
 
 # Intro
 
