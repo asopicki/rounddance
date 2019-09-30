@@ -30,13 +30,13 @@
 
 # B 
 
-> Appel to the Press line, Face & Touch; ; Chassé Right & left; ; 
+> Appel to Aida Press line, Face & Touch; ; Chassé Right & left; ; 
 
 > Attack; Sur Place; Attack; Sur Place;
 
 # B 
 
-> Appel to the Press line, Face & Touch; ; Chassé Right & left; ; 
+> Appel to Aida Press line, Face & Touch; ; Chassé Right & left; ; 
 
 > Attack; Sur Place; Attack; Sur Place;
 
