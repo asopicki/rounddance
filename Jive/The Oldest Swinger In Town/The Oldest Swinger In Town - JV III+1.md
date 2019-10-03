@@ -28,7 +28,7 @@
 
 # Interlude (4 measures)
 
-> 4 Point Steps; ; Chassé Left & Right; Rock, Recover, Swivel 2;
+> 4 Point Steps; ; Chassé Left & Right; Rock, Recover, Side, Close;
 
 # A (16 measures)
 
@@ -44,7 +44,7 @@
 
 # Interlude (4 measures)
 
-> 4 Point Steps; ; Chassé Left & Right; Rock, Recover, Swivel 2;
+> 4 Point Steps; ; Chassé Left & Right; Rock, Recover, Side, Close;
 
 # A (16 measures)
 
