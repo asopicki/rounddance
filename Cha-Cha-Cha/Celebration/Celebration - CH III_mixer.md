@@ -32,6 +32,8 @@
 
 > Half basic; Underarm Turn; Lariat; ; 
 
+> Shoulder to Shoulder; (twice);
+
 > (Lady walking cha to new partner to reverse) Man cucaracha; Cucaracha for both;
 
 > New Yorker (to open); Walking Cha;
@@ -54,11 +56,15 @@
 
 > Open break; Whip; Fenceline; (twice);
 
+> Half Basic; Fan; Hockey Stick; ;
+
 > (Lady walking cha to new partner to reverse) Man cucaracha; Cucaracha for both; Basic; ;
 
 # B (16 measures) [02:04]
 
 > Half basic; Underarm Turn; Lariat; ; 
+
+> Shoulder to Shoulder; (twice);
 
 > (Lady walking cha to new partner to reverse) Man cucaracha; Cucaracha for both;
 
@@ -75,6 +81,8 @@
 > Half Basic; Whip; Shoulder to Shoulder; (twice);
 
 > Open break; Whip; Fenceline; (twice);
+
+> Half Basic; Fan; Hockey Stick; ;
 
 > (Lady walking cha to new partner to reverse) Man cucaracha; Cucaracha for both; Basic; ;
 
