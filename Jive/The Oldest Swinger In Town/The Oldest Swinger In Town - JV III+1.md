@@ -16,7 +16,7 @@
 
 # A (16 measures)
 
-> Basic;,,Change Places Right to Left; ; Change Hands behind the back;
+> Fallaway Rock;,,Change Places Right to Left; ; Change Hands behind the back;
 > , , Change Places Left to Right; ; Change Hands behind the back;,,Rock, Recover;
 > Swivel 2, Chassé Left & Right;,,Fallaway Throway; ;Shoulder Shove;
 > , , Change Places Left to Right;;Sailor Shuffles;Rock, Recover, Swivel 2;
@@ -32,7 +32,7 @@
 
 # A (16 measures)
 
-> Basic;,,Change Places Right to Left; ; Change Hands behind the back;
+> Fallaway Rock;,,Change Places Right to Left; ; Change Hands behind the back;
 > , , Change Places Left to Right; ; Change Hands behind the back;,,Rock, Recover;
 > Swivel 2, Chassé Left & Right;,,Fallaway Throway; ;Shoulder Shove;
 > , , Change Places Left to Right;;Sailor Shuffles;Rock, Recover, Swivel 2;
@@ -48,7 +48,7 @@
 
 # A (16 measures)
 
-> Basic;,,Change Places Right to Left; ; Change Hands behind the back;
+> Fallaway Rock;,,Change Places Right to Left; ; Change Hands behind the back;
 > , , Change Places Left to Right; ; Change Hands behind the back;,,Rock, Recover;
 > Swivel 2, Chassé Left & Right;,,Fallaway Throway; ;Shoulder Shove;
 > , , Change Places Left to Right;;Sailor Shuffles;Rock, Recover, Swivel 2;
