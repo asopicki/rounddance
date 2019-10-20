@@ -28,7 +28,7 @@
 
 > Alemana; ; Lariat; (to open line);
 
-> Kiki walks; ; Circle away & together; ;
+> Progressive walks; (twice); Circle away & together; ;
 
 # A (26 measures)
 
@@ -42,7 +42,7 @@
 
 > Alemana; ; Lariat; (to open line);
 
-> Kiki walks; ; Circle away & together; ;
+> Progressive walks; (twice); Circle away & together; ;
 
 # Bridge (4 measures)
 

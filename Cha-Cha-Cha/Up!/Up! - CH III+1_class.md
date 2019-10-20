@@ -48,7 +48,7 @@
 
 > Time Step; (twice);
 
-> Twirl Vine Cha (to open); Walk 2 & Cha; Circle away & together; ; Shoulder to Shoulder; (twice);
+> Back break (to open); Walk 2 & Cha; Circle away & together; ; Shoulder to Shoulder; (twice);
 
 > Time Step; (twice);
 
