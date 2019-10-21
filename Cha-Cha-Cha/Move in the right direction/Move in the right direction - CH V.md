@@ -81,3 +81,5 @@
 > Chase (half way, to tandem, facing center); ; Solo traveling door;
 
 > Lunge side & look at partner;
+
+<meta name="x:audio-file" content="g/Gossip/A Joyful Noise/Gossip - Move in the right direction.mp3">

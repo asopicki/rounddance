@@ -73,3 +73,5 @@
 > New Yorker (to open); Walk 2 & Cha; Circle away & together; ; Shoulder to Shoulder; (twice);
 
 > Step Apart & Point;
+
+<meta name="x:audio-file" content="s/Shania Twain/Shania Twain - Up! (red).mp3">

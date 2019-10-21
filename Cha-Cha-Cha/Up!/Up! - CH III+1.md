@@ -73,3 +73,5 @@
 > Twirl/Vine Cha; Walk 2 & Cha; Figure 8; ; ; ;
 
 > Twirl/Vine Cha;
+
+<meta name="x:audio-file" content="s/Shania Twain/Shania Twain - Up! (red).mp3">

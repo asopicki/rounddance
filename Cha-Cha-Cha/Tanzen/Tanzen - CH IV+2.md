@@ -88,3 +88,5 @@
 > Trade Places; (twice) ; Open break; Whip;
 
 > Reverse Underarm Turn; (to reverse) Aida in 3 and Hold;
+
+<meta name="x:audio-file" content="c/Christina Stürmer/Seite an Seite/Christina Stürmer - Tanzen.mp3">

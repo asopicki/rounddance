@@ -62,4 +62,6 @@
 
 # Ending (4 measures)
 
-> New Yorker; Whip; New Yorker; Through, Apart, Point; 
+> New Yorker; Whip; New Yorker; Through, Apart, Point;
+
+<meta name="x:audio-file" content="l/Linda Ronstadt/Linda Ronstadt - It's so Easy.mp3">
