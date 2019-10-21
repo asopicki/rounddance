@@ -62,3 +62,5 @@
 > Sur Place; Chassé Right; Chassé Left;
 
 > Through to the Aida Press Line;
+
+<meta name="x:audio-file" content="t/The Dancing Brass/The Dancing Brass - Clavelis.mp3">
