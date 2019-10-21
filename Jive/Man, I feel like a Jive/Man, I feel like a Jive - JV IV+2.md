@@ -10,6 +10,8 @@
 
 *Dance starts in overturned throwaway position, both facing line of dance, lead hands joined, lead feet free, wait 2 measures*
 
+#TODO: REWRITE NEEDED!!
+
 # Intro
 
 > Wait 2; (Lady turns); Chicken walks (2 slows); (4 quicks);
@@ -91,3 +93,5 @@
 > Flicks into breaks; ; ; ; ;
 
 > Throwaway; Chicken walks (two slows); (4 quicks); Jump apart & hold,,
+
+<meta name="x:audio-file" content="s/Shania Twain/Greatest Hits/Shania Twain - Man! I Feel Like a Woman!.mp3">

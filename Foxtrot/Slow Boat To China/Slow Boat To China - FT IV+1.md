@@ -23,6 +23,15 @@
 
 > Telemark (to banjo); Natural Weave; ; Change of Direction;
 
+# A (16 measures)
+
+> Reverse Turn; ; Three Step; Feather;
+
+> Three Step; Half Natural; Closed Impetus; Feather Finish;
+
+> Diamond Turn; ; ; ;
+
+> Telemark (to banjo); Natural Weave; ; Change of Direction;
 
 #  B (16 measures)
 
@@ -34,7 +43,18 @@
 
 > Three Step; Half Natural; Closed Impetus; Feather Finish;
 
+# A(1-15) (15 measures)
+
+> Reverse Turn; ; Three Step; Feather;
+
+> Three Step; Half Natural; Closed Impetus; Feather Finish;
+
+> Diamond Turn; ; ; ;
+
+> Telemark (to banjo); Natural Weave; ;
+
 # Ending (1 measure)
 
 > Forward to a Right Lunge & Hold;
 
+<meta name="x:audio-file" content="r/Ross Mitchell/Ross Mitschel, His Band & Singers - Dansan Volume 3/Ross Mitschel, His Band & Singers -On A Slow Boat To China (Slowfox 29).mp3">
