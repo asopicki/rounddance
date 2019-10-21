@@ -59,3 +59,5 @@
 > Open Hip Twist; Fan; Alemana preparation; (Through) Aida;
 
 > Switch Rock; Underarm turn; Back corté;
+
+<meta name="x:audio-file" content="h/Helmut Licht/Helmut Licht - Slow Rumba.mp3">

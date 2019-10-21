@@ -2,7 +2,7 @@
 *Song by Katzenjammer (Album: A kiss before you go, Track 3)*
 
 * **Choreographer**: Andrea Fartmann, [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
-* **Rhythm**: Quickstep / Two Step
+* **Rhythm**: Quickstep
 * **Phase**: V+1 (V6)
 * **Difficulty**: medium
 * **Sequence**: Intro - A - B - C - B - D - Ending
@@ -72,11 +72,11 @@
 
 <!-- QQQQ; QQS; SQQ; SS; SS; QQS;  -->
 
-> Running forward locks; ; Maneuver, side, close; Spin turn;,, Box finish;,, Hold;
+> Running forward locks; ; Maneuver, side, close; Spin turn;,, Box finish;,, Point;
 
 <!-- SQQ; SQQ; SS; SS; QQS; QQS; QQS; QQS;-->
 
-> 2 left turns ;; Slow Twisty vine 4; ; Double Hitch ;;  2 Turning 2’s ; /to pickup);
+> 2 left turns ;; Slow Twisty vine 4; ; Double Hitch ;;  2 Turning 2’s ; (to pickup);
 
 <!-- SS; QQS; QQS; -->
 
@@ -144,3 +144,5 @@
 <!-- SS; SS; S,-; -->
 
 > Open Impetus; ,,Through; Explode,,;
+
+<meta name="x:audio-file" content="k/Katzenjammer/Katzenjammer - Cherry pie.mp3">

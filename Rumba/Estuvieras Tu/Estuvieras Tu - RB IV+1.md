@@ -6,7 +6,7 @@
 * **Phase**: IV+1
 * **Difficulty**: Average
 * **Sequence**: A - B - A - Ending
-* **Music**: Moonshine, Katie Melua
+* **Music**: ???
 
 *Dance starts in back-to-back position, man facing center, trail feet free, wait one measure.*
 
