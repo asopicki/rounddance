@@ -86,3 +86,5 @@
 > Half Basic; Underarm Turn (to cuddle position); Cucaracha; (twice);
 
 > Basic; ; Cucaracha in 4; & Quick dip back;
+
+<meta name="x:audio-file" content="c/Caro Emerald/Caro Emerald - A night like this.mp3">

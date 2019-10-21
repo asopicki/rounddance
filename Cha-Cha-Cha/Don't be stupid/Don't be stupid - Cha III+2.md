@@ -102,3 +102,5 @@
 # Ending (4 measures)
 
 > Twirl 2, Cha; Wrap 2, Cha; Hold; Rock apart, Point;
+
+<meta name="x:audio-file" content="s/Shania Twain/Come on over/Shania Twain - Don't be stupid (you know I love you).mp3">

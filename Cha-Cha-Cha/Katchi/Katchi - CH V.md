@@ -26,13 +26,13 @@
 
 > Travelling Door; (twice); Side Walks; New Yorker;
 
-# A (10 measures)
+# A (9 measures)
 
 > Double Cuban Breaks; ; (to reverse) Front vine 4; Spot turn;
 
 > Double Cuban Breaks; ; (to line) Front vine 4; Fence Line;
 
-> Two Single Cubans; ; Side break & Hold;
+> Two Single Cubans; Side break & Hold;
 
 # C (8 measures)
 
@@ -46,13 +46,13 @@
 
 > Travelling Door; (twice); Side Walks; New Yorker;
 
-# A (10 measures)
+# A (9 measures)
 
 > Double Cuban Breaks; ; (to reverse) Front vine 4; Spot turn;
 
 > Double Cuban Breaks; ; (to line) Front vine 4; Fence Line;
 
-> Two Single Cubans; ; Side break & Hold;
+> Two Single Cubans; Side break & Hold;
 
 # B (8 measures)
 
@@ -69,3 +69,5 @@
 # Ending (2 measures)
 
 > Two Single Cubans; Side Break & Arms Up; 
+
+<meta name="x:audio-file" content="o/Ofenbach/Ofenbach & Nick Waterhouse - Katchi (Ofenbach vs. Nick Waterhouse).mp3">

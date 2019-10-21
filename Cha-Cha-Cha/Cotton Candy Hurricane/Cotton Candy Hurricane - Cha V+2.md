@@ -114,3 +114,5 @@
 > Flirt; ; One Sweetheart in 4  (Lady to face); Forward Basic;
 
 > Whip (and Lady twirl);
+
+<meta name="x:audio-file" content="m/MarieMarie/MarieMarie - Cotton Candy Hurricane (single edit).mp3">

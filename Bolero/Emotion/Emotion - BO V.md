@@ -75,3 +75,5 @@
 # Ending (4 measures)
 
 > Shoulder to shoulder; Side, Close (twice); Side to High Line, Change Sway; Embrace;
+
+<meta name="x:audio-file" content="d/Destiny's Child/Destiny’s Child - Emotion.mp3">

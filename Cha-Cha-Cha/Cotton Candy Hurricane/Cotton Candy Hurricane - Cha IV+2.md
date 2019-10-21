@@ -97,3 +97,5 @@
 > Half Basic (Lady wrap); Wheel Cha (to face center); Man wheel / Lady unwrap (to face wall);
 
 > New Yorker; Aida (to reverse) and Hold;
+
+<meta name="x:audio-file" content="m/MarieMarie/MarieMarie - Cotton Candy Hurricane (single edit).mp3">
