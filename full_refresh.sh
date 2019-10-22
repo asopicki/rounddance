@@ -18,3 +18,4 @@ export DATABASE_URL='/home/alex/.local/share/library.db'
 #export DATABASE_URL='/home/alex/.library.db'
 export RUST_LOG=info
 /home/alex/cuer_manager/cuecard_indexer $basedir
+#/home/alex/projects/CuerManager/target/debug/cuecard_indexer $basedir

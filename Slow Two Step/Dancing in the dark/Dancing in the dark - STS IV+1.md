@@ -76,3 +76,5 @@
 > Sweetheart run (twice); ; Sweetheart switch;  (to face, man face wall);
 
 > Lunge basics; ; Side to an Aida; Aida line, Switch to face and Smile;
+
+<meta name="x:audio-file" content="r/Rihanna/Rihanna - Dancing in the dark.mp3">

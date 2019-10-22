@@ -10,9 +10,9 @@
 
 *Dance starts in left open position, man facing diagonal line and wall, lead feet free, waiting two measures*
 
-#Intro
+# Intro
 
-> Pickup ; notes; Wait 2; ; 
+> Wait for pickup notes and Wait 2; ; 
 
 # A (10 measures) [00:07]
 
@@ -57,3 +57,5 @@
 
 ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; 
 ; ; ; ; ; ; ; ; ; ; 
+
+<meta name="x:audio-file" content="h/Hollywood Movie Strings/Hollywood Movie Strings - You'll Never Tango (from 'Ice Age') (TG 32).mp3" >

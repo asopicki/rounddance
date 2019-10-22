@@ -8,7 +8,7 @@
 * **Sequence**: Intro - ABC - C* - A - B* - Ending
 * **Music**: Blues in '42 by Paul Freitas
 
-* Dance starts nothing touching, facing partner and diagonal wall*
+*Dance starts nothing touching, facing partner and diagonal wall*
 
 # Intro
 
@@ -55,3 +55,5 @@
 # Ending
 
 > Corté & Hold; Quick Leg Crawl, Quick right Lunge;
+
+<meta name="x:audio-file" content="p/Paul Freitas/Paul Freitas - Blues in '42.mp3" >
