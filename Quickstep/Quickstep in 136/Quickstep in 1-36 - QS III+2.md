@@ -3,7 +3,7 @@
 *Song by Prandi Sound Swing Orchestra (Album: Wonderful Dancing Vol. 5, 1:36)*
 
 * **Choreographer**: Jim and Bobbie Childers
-* **Rhythm**: Quickstep / Single Swing
+* **Rhythm**: Quickstep
 * **Phase**: III+2
 * **Difficulty**: Average
 * **Sequence**: Intro - AA - - Inter1 - AA - B - Inter2 - CA - Ending
@@ -72,3 +72,5 @@
 # Ending
 
 > X-Line;
+
+<meta name="x:audio-file" content="p/Prandi Sound Swing Orchestra/Prandi Sound Swing Orchestra - The Return Of Blackman (QS 50).mp3">

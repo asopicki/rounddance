@@ -49,3 +49,5 @@
 > Open Telemark; Curved Feather Check; Back Passing Change; Back turn left & Chassé (to banjo);
 
 > Maneuver; Open Impetus; Through to promenade sway; Slow change to oversway;
+
+<meta name="x:audio-file" content="s/Stefano Nanni/Stefano Nanni - Per Elisa (SW 29).mp3">

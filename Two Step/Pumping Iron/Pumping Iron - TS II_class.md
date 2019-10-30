@@ -32,7 +32,7 @@
 
 > Solo left turning box; ; ; ;
 
-> Face to face; Back to back; ; Basketball turn; ;
+> Face to face; Back to back; Basketball turn; ;
 
 # Interlude
 
@@ -70,7 +70,7 @@
 
 > Solo left turning box; ; ; ;
 
-> Face to face; Back to back; ; Basketball turn; ;
+> Face to face; Back to back; Basketball turn; ;
 
 # Ending
 

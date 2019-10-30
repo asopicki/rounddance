@@ -72,3 +72,5 @@
 # Ending
 
 > Diamond Turn (three quarters); ; ; Hinge (& extend left arms);
+
+<meta name="x:audio-file" content="h/Hang Shuen Lee/Hang Shuen Lee - Let It Go (from 'Frozen') (SW 29).mp3">
