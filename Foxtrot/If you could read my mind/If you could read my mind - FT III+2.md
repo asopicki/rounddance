@@ -1,8 +1,9 @@
 # If you could read my mind
 *Song by Gordon Lightfoot (Album: If You Could Read My Mind, Track 8, 3:48)*
 
+
 * **Choreographer**: Ron & Jan Betzelberger
-* **Rhythm**: Foxtrott
+* **Rhythm**: Foxtrot
 * **Phase**: III+2 (Diamond Turn, Telemark)
 * **Difficulty**: Average
 * **Sequence**: Intro - ABCD - BD - ACD - Ending
@@ -93,3 +94,5 @@
 # End
 
 > Side Canter; Side Corté;
+
+<meta name="x:audio-file" content="g/Gordon Lightfoot/Gordon Lightfoot - If You Could Read My Mind.mp3">

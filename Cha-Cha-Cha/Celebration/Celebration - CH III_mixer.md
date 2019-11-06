@@ -32,15 +32,13 @@
 
 > Half basic; Underarm Turn; Lariat; ; 
 
-> Shoulder to Shoulder; (twice);
+> New Yorker; (twice);
 
 > (Lady walking cha to new partner to reverse) Man cucaracha; Cucaracha for both;
 
 > New Yorker (to open); Walking Cha;
 
 > Sliding door; (twice); Circle away & together; ; New Yorker; (twice);
-
-> Half Basic; Underarm Turn;
 
 # Interlude (6 measures) [01:20]
 
@@ -56,23 +54,19 @@
 
 > Open break; Whip; Fenceline; (twice);
 
-> Half Basic; Fan; Hockey Stick; ;
-
 > (Lady walking cha to new partner to reverse) Man cucaracha; Cucaracha for both; Basic; ;
 
 # B (16 measures) [02:04]
 
 > Half basic; Underarm Turn; Lariat; ; 
 
-> Shoulder to Shoulder; (twice);
+> New Yorker; (twice);
 
 > (Lady walking cha to new partner to reverse) Man cucaracha; Cucaracha for both;
 
 > New Yorker (to open); Walking Cha;
 
 > Sliding door; (twice); Circle away & together; ; New Yorker; (twice);
-
-> Half Basic; Underarm Turn;
 
 # A (16 measures) [02:35]
 
@@ -81,8 +75,6 @@
 > Half Basic; Whip; Shoulder to Shoulder; (twice);
 
 > Open break; Whip; Fenceline; (twice);
-
-> Half Basic; Fan; Hockey Stick; ;
 
 > (Lady walking cha to new partner to reverse) Man cucaracha; Cucaracha for both; Basic; ;
 
@@ -100,4 +92,4 @@
 
 > Through, Apart, Point,,
 
-<meta name="x:audio-file" content="k/Kool & The Gang/Kool & The Gang - Celebration.mp3">
+<meta name="x:audio-file" content="k/Kool & The Gang/Kool and The Gang - Celebration (Single Version).mp3">

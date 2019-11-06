@@ -1,4 +1,5 @@
 .de.sopicki.*.md
+*.meta.json
 .vscode
 *.xls
 *.mp4

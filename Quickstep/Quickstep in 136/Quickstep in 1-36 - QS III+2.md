@@ -1,6 +1,16 @@
 # Quickstep in 1:36
-
 *Song by Prandi Sound Swing Orchestra (Album: Wonderful Dancing Vol. 5, 1:36)*
+
+<!-- CUECARD METADATA 
+    {
+        "choreographer": "Jim and Bobbie Childers",
+        "phase": "III+2"
+        "difficulty": "Average"
+        "rhythm": "Quickstep"
+    }
+ CUECARD METADATA END -->
+
+
 
 * **Choreographer**: Jim and Bobbie Childers
 * **Rhythm**: Quickstep

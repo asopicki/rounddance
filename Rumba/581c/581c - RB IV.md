@@ -73,6 +73,3 @@
 > Spot Turn; (twice); Half Basic; Underarm Turn;
 
 > Reverse Underam Turn; Cucaracha & Point;
-
-
-<meta name="x:audio-file" content="l/Laura Põldvere/Laura Põldvere - 581c (RB 25).mp3">

@@ -92,4 +92,4 @@
 
 > Through, Apart, Point,,
 
-<meta name="x:audio-file" content="k/Kool & The Gang/Kool & The Gang - Celebration.mp3">
+<meta name="x:audio-file" content="k/Kool & The Gang/Kool and The Gang - Celebration (Single Version).mp3">
