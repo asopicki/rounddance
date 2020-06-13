@@ -73,5 +73,3 @@
 # Ending (4 measures) []
 
 > Basic; ; Aida preparation & step back hold-trail arms up
-
-<meta name="x:audio-file" content="e/Emilia/Emilia - Big big world (album version).mp3">

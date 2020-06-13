@@ -83,5 +83,3 @@
 # Ending []
 
 > Open break; Spot turn; Open break one & hold;
-
-<meta name="x:audio-file" content="a/Annie Lennox/Annie Lennox - Walking on broken glass.mp3">

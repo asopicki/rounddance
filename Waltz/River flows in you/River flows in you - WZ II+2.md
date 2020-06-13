@@ -8,7 +8,7 @@
 * **Sequence**: Intro - AB - Inter - ABC - Ending
 * **Music**: River flows in you by DJ Ice
 
-*Dance starts in Butterfly position, man facing, lead feet free, waiting 2 measures*
+*Dance starts in Butterfly position, man facing wall, lead feet free, waiting 2 measures*
 
 # Intro
 

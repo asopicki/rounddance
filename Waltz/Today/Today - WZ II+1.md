@@ -8,7 +8,7 @@
 * **Sequence**: Intro - AB - A(9)B - A20 - Ending
 * **Music**: Today, The New Christy Minstrels
 
-*Dance starts in butterfly position, lead feet free, waiting 2 measures*
+*Dance starts in butterfly position, lead feet free, waiting one measure*
 
 # Intro (5 measures)
 
@@ -30,11 +30,11 @@
 
 > Waltz away; Spin maneuver; Two right turns; (to face line);
 
-> Two left turns; (to face wall): Balance left & right; ;
+> Two left turns; (to face wall); Balance left & right; ;
 
 > Waltz away; Spin maneuver; Two right turns; (to face line);
 
-> Two left turns; (to face wall): Balance left & right; ;
+> Two left turns; (to face wall); Balance left & right; ;
 
 # A9 (9 measures)
 
@@ -46,11 +46,11 @@
 
 > Waltz away; Spin maneuver; Two right turns; (to face line);
 
-> Two left turns; (to face wall): Balance left & right; ;
+> Two left turns; (to face wall); Balance left & right; ;
 
 > Waltz away; Spin maneuver; Two right turns; (to face line);
 
-> Two left turns; (to face wall): Balance left & right; ;
+> Two left turns; (to face wall); Balance left & right; ;
 
 # A (20 measures)
 
@@ -68,4 +68,3 @@
 
 > Dip back; Twist & Hold;
 
-<meta name="x:audio-file" content="t/The New Christy Minstrels/The New Christy Minstrels - Today.mp3">

@@ -36,7 +36,7 @@
 
 # D
 
-> Walk & Pick Up; Progressive Scissors (to sidecard); (to banjo);
+> Walk & Pick Up; Progressive Scissors (to sidecar); (to banjo);
 
 > Forward hitch; Hitch & Scissors; Two forward two steps; ; Twirl 2;
 
@@ -65,11 +65,23 @@
 
 # D
 
-> Walk & Pick Up; Progressive Scissors (to sidecard); (to banjo);
+> Walk & Pick Up; Progressive Scissors (to sidecar); (to banjo);
 
-> Forward hitch; Hitch & Scissors; Two forward two steps; ; Twirl 2; (to open);
+<!-- Forward hitch; Hitch & Scissors; Two forward two steps; ; Twirl 2 (to open);-->
+
+> Forward hitch; Hitch & Scissors; Two forward two steps; ; Twirl 2;
 
 # F
+
+> Face to face; Back to back; Basket ball turn; (to closed);
+
+> Box; ; Reverse Box; ;
+
+> Twirl 2; Walk 2; Circle away & together; (to butterfly);
+
+> Face to face; Back to back; Side, Draw, Close; (twice);
+
+<!--# F
 
 > Step, Clap (twice); ; Circle away & together; (to semi);
 
@@ -78,6 +90,7 @@
 > Step, Clap (twice); ; Circle away & together; (to semi);
 
 > Rock the Boat; (twice); Circle away & together; (to face);
+-->
 
 # G
 
@@ -98,5 +111,3 @@
 > Walk & Pick Up; Progressive Scissors (to sidecar); (to banjo);
 
 > Forward Hitch; Hitch & Scissors; Walk 2; Open Vine 3 and Point on 4; ;
-
-<meta name="x:audio-file" content="m/Mrs. Greenbird/Mrs. Greenbird - Shooting stars & fairy tales.mp3" >

@@ -24,13 +24,13 @@
 
 > Break to open; Bolero walk; Through & Swivel to face, Fence line with arm sweep;
 
-> Aida; Aida line to switch rock; Through & Swivel to face, Spot turn;
+> Prepare the Aida; Aida line to switch rock; Through & Swivel to face, Spot turn;
 
 > Lunge break; Underarm turn (to butterfly);
 
 # C (14 measures)
 
-> Opening out; (twice); Basic ending; Right pass; New Yorker; New Yorker in 4; ;
+> Opening out; (twice); Basic ending; Right pass; New Yorker; New Yorker in 4;
 
 > Riff turn; New Yorker; Reverse Underarm Turn; Left pass;
 
@@ -46,13 +46,13 @@
 
 > Break to open; Bolero walk; Through & Swivel to face, Fence line with arm sweep;
 
-> Aida; Aida line to switch rock; Through & Swivel to face, Spot turn;
+> Prepare the Aida; Aida line to switch rock; Through & Swivel to face, Spot turn;
 
 > Lunge break; Underarm turn (to butterfly);
 
 # C (12 measures)
 
-> Opening out; (twice); Basic ending; Right pass; New Yorker; New Yorker in 4; ;
+> Opening out; (twice); Basic ending; Right pass; New Yorker; New Yorker in 4;
 
 > Riff turn; New Yorker; Reverse Underarm Turn; Left pass;
 
@@ -62,18 +62,16 @@
 
 > Break to open; Bolero walk; Through & Swivel to face, Fence line with arm sweep;
 
-> Aida; Aida line to switch rock; Through & Swivel to face, Spot turn;
+> Prepare the Aida; Aida line to switch rock; Through & Swivel to face, Spot turn;
 
 > Lunge break; Underarm turn (to butterfly);
 
 # C (12 measures)
 
-> Opening out; (twice); Basic ending; Right pass; New Yorker; New Yorker in 4; ;
+> Opening out; (twice); Basic ending; Right pass; New Yorker; New Yorker in 4;
 
 > Riff turn; New Yorker; Reverse Underarm Turn; Left pass;
 
 # Ending (4 measures)
 
 > Shoulder to shoulder; Side, Close (twice); Side to High Line, Change Sway; Embrace;
-
-<meta name="x:audio-file" content="d/Destiny's Child/Destiny’s Child - Emotion.mp3">

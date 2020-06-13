@@ -3,7 +3,7 @@
 
 * **Choreographer**: Randy & Marie Preskitt
 * **Rhythm**: Cha-Cha-Cha
-* **Phase**: V+2+2 (Double Cuban Breaks, Stop & Go, Circular Cross Body)
+* **Phase**: V+2+2 (Double Cuban Breaks, Stop & Go, Circular Cross Body, Swith with Cuban Break)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - Inter - AB* - B - Ending
 * **Music**: Cuando Me Enamoro by Enrique Iglesias
@@ -84,4 +84,3 @@
 
 > Circular Cross Body (to face wall); ; ; ; Lunge Apart (with arm sweep);
 
-<meta name="x:audio-file" content="e/Enrique Iglesias/Enrique Iglesias - Cuando Me Enamoro [feat. Juan Luis Guerra].mp3">

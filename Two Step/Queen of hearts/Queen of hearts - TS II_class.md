@@ -16,51 +16,51 @@
 
 > Box; (to semi); Two forward two steps; ;
 
-> Walk 2;
+> Walk & pick up;
 
 # A
 
-> Two forward two steps; ; Two turning two steps; ;
+> Two forward two steps; ; Progressive Box; ;
 
-> Face to face; Back to back; Basketball turn; ;
+> Progressive Scissors; ; Two turning two steps; (to face the wall);
 
-> Left Turning Box; ; ; ;
+> Broken Box; ; ; ;
 
-> Open vine 4; ; Twirl 2; Walk & Face;
+> Vine 8; ; Box; ;
 
 # B
 
-> Two turning two steps; ; Twirl 2; Walk 2;
+> Vine 3; Wrap; Unwrap; Change sides;
 
-> Lace up; ; ; ;
+> Vine 3; Wrap; Unwrap; Change sides;
 
 # C
 
-> Side two steps left & right; ; Open vine 4; ;
+> Half Box; Scissor through; Two turning two steps; ;
 
 > Traveling box; ; ; ;
 
-> Walk 2;
+> Walk & pickup;
 
 # A
 
-> Two forward two steps; ; Two turning two steps; ;
+> Two forward two steps; ; Progressive Box; ;
 
-> Face to face; Back to back; Basketball turn; ;
+> Progressive Scissors; ; Two turning two steps; (to face the wall);
 
-> Left Turning Box; ; ; ;
+> Broken Box; ; ; ;
 
-> Open vine 4; ; Twirl 2; Walk & Face;
+> Vine 8; ; Box; ;
 
 # B
 
-> Two turning two steps; ; Twirl 2; Walk 2;
+> Vine 3; Wrap; Unwrap; Change sides;
 
-> Lace up; ; ; ;
+> Vine 3; Wrap; Unwrap; Change sides;
 
 # C(1-8)
 
-> Side two steps left & right; ; Open vine 4; ;
+> Half Box; Scissor through; Two turning two steps; ;
 
 > Traveling box; ; ; ;
 
@@ -70,27 +70,27 @@
 
 > Face to face; Back to back; Basketball turn; ;
 
-> Side two step left & right; ;
+> One forward two step; Pick up, side, close;
 
 # A
 
-> Two forward two steps; ; Two turning two steps; ;
+> Two forward two steps; ; Progressive Box; ;
 
-> Face to face; Back to back; Basketball turn; ;
+> Progressive Scissors; ; Two turning two steps; (to face the wall);
 
-> Left Turning Box; ; ; ;
+> Broken Box; ; ; ;
 
-> Open vine 4; ; Twirl 2; Walk & Face;
+> Vine 8; ; Box; ;
 
 # B
 
-> Two turning two steps; ; Twirl 2; Walk 2;
+> Vine 3; Wrap; Unwrap; Change sides;
 
-> Lace up; ; ; ;
+> Vine 3; Wrap; Unwrap; Change sides;
 
 # C
 
-> Side two steps left & right; ; Open vine 4; ;
+> Half Box; Scissor through; Two turning two steps; ;
 
 > Traveling box; ; ; ;
 

@@ -59,7 +59,7 @@
 
 > Face to Face; Back to Back; Open Vine 4; ;
 
-> Circle Away and Together; ; Walk 2;
+> Circle Away and Together; ; Walk 2 (to face);
 
 # Bridge
 

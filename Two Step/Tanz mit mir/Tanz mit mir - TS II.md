@@ -79,8 +79,8 @@
 
 > Face to face; Back to back; Face to face; Back to back (to open);
 
-> Double Hitch; ; Basket ball turn; (to closed);
+> Double Hitch; ; Basket ball turn; ;
 
 # End
 
-<meta name="x:audio-file" content="f/Faun/Tanz mit mir/Faun - Tanz mit mir (Duett mit Santiano).mp3" >
+> & Bow;

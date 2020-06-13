@@ -12,7 +12,7 @@
 
 ## Intro (2 measures) [00:00]
 
-Wait 2;;
+> Wait 2;;
 
 ## Part A (8 measures) [00:04]
 

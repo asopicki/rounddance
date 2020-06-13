@@ -71,5 +71,3 @@
 > Swivel to Fence Line; (slow down) Hip lift; Riff turns;
 
 > New Yorker; (twice); Aida; Aida line & face (for caress);
-
-<meta name="x:audio-file" content="h/Helen Sjöholm/Helen Sjöholm, Stefan Nilsson, Backa Hans Ericsson & Johan Löfcrantz - Gabriella's Song.mp3">

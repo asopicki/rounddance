@@ -9,7 +9,7 @@
 * **Sequence**: Intro - AB - AC - A* - CD - A** - Ending
 * **Music**: Walking on broken glass, Annie Lennox
 
-*Dance starts in open position, man facing wall, lead feet free, waiting 4 measures*
+*Dance starts in open position, both facing line of dance, lead feet free, waiting 4 measures*
 
 # Intro
 
@@ -17,25 +17,25 @@
 
 # A [0:08]
 
-> Traveling door; ; Cucaracha left & right; ; New Yorker; (twice);
+> Circle away & together; ; Basic; ; New Yorker; (twice);
 
-> Chase; ; ; ;
+> Chase (man turns); Chase (both turn); Peek-a-Boo; (twice);
 
-> Hand to hand; (twice); New Yorker; Spot turn; (twice); New Yorker;
+> Finish chase; ; New Yorker; Crab walks; ; New Yorker;
 
 # B [0:42]
 
 > Cucaracha; (twice); Half basic; Underarm turn; Lariat; ;
 
-> Open break; Whip;
+> Back break (to open); Walk 2 & forward cha;
 
 # A [0:58]
 
-> Traveling door; ; Cucaracha left & right; ; New Yorker; (twice);
+> Circle away & together; ; Basic; ; New Yorker; (twice);
 
-> Chase; ; ; ;
+> Chase (man turns); Chase (both turn); Peek-a-Boo; (twice);
 
-> Hand to hand; (twice); New Yorker; Spot turn; (twice); New Yorker;
+> Finish chase; ; New Yorker; Crab walks; ; New Yorker;
 
 # C [1:31]
 
@@ -45,13 +45,13 @@
 
 # A* [1:43]
 
-> Back break (to open, face reverse); Walk 2 & forward cha;
+> Back break (to open); Walk 2 & forward cha;
 
-> Circle away & together; ; Traveling door; (twice); Cucaracha left & right; ;
+> Circle away & together; ; Basic; ; New Yorker; (twice);
 
-> Chase; ; ; ;
+> Chase (man turns); Chase (both turn); Peek-a-Boo; (twice);
 
-> Open Break; Whip; New Yorker; Spot turn; (twice); New Yorker;
+> Finish chase; ; New Yorker; Crab walks; ; New Yorker;
 
 # C []
 
@@ -61,28 +61,26 @@
 
 # D []
 
-> Basic; ; Spot turn; (twice); Time step; (twice);
+> Basic; ; Spot turn; (twice); Half basic; Fan;
 
-> New Yorker in 4; New Yorker with a side close; Basic; ;
+> Hockey stick; ; New Yorker; Whip;
 
-> Half basic; Underarm turn; Time step; (twice); ;
+> Half basic; Fan; Hockey stick; ;
 
-> New Yorker in 4; New Yorker with a side close;
+> New Yorker; Whip;
 
 # A** []
 
-> Shoulder to shoulder; (twice); Fence line; (twice);
+> Shoulder to shoulder; (twice); New Yorker; (twice);
 
 > Back break (to open); Walk 2 & forward cha;
 
-> Circle away & together; ;  Traveling door; (twice); Cucaracha left & right; ;
+> Circle away & together; ; Basic; ; New Yorker; (twice);
 
-> Chase; ; ; ;
+> Chase (man turns); Chase (both turn); Peek-a-Boo; (twice);
 
-> Hand to hand; (twice); New Yorker; Spot turn; (twice); New Yorker;
+> Finish chase; ; New Yorker; Crab walks; ; New Yorker;
 
 # Ending []
 
-> Time step; (twice); Open break one & hold;
-
-<meta name="x:audio-file" content="a/Annie Lennox/Annie Lennox - Walking on broken glass.mp3">
+> Open break; Spot turn; Open break one & hold;

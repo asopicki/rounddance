@@ -13,7 +13,7 @@
 
 ## Intro (8 measures) [00:00]
 
-> ; ; Apart and point; Together touch (to pickup);
+> Wait 2; ; Apart and point; Together touch (to pickup);
 
 > Travelling cross chassés (twice); ; ; (to face);
 

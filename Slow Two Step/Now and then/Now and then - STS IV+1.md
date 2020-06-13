@@ -64,7 +64,7 @@
 
 > Basic ; ; Underarm Turn ; Basic Ending (to half open) ;
 
-> Switches ; ; Basic; ;  Slow rock side and recover in 4; ;
+> Switches ; ; Basic; ; Slow rock side and recover in 4;
 
 ## Ending (CP COH)  
 > Lunch Basic (lady wraps); Rock back, recover, forward; Sweetheart runs ; (to pickup);  
@@ -72,5 +72,3 @@
 > Triple Traveler (to reverse) ( slow down ); ; ; Basic Ending ;
 
 > Slow step apart & point ;
-
-<meta name="x:audio-file" content="b/Blackmore's Night/Under a Violet Moon/15 Blackmore's Night - Now and Then.mp3">

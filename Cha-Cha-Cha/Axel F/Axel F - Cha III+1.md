@@ -74,5 +74,3 @@
 > Basic; ; Fence Line (twice); ;
 
 > Alemana; ; New Yorker; Spot Turn; Rock Apart;
-
-<meta name="x:audio-file" content="h/Harold Faltermeyer/Harold Faltermeyer - Axel F.mp3">

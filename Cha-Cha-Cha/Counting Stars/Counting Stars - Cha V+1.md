@@ -10,7 +10,7 @@
 
 *Dance starts with Rumba in open facing position, man facing wall, lead feet free, waiting two measures.*
 
-# Intro  () []
+# Intro () []
 
 > Wait; ; Apart point; Together touch; (Rumba) Half basic;
 
@@ -22,7 +22,7 @@
 
 # A () []
 
-> Chase Peek-a-Boo; ; ; ;  2 Cuban breaks;
+> Chase Peek-a-Boo; ; ; ; 2 Cuban breaks;
 
 > New Yorker; New Yorker in 4; Spot turn;
 
@@ -47,7 +47,7 @@
 
 # A1 () []
 
-> Chase Peek-a-Boo; ; ; ;  2 Cuban breaks;
+> Chase Peek-a-Boo; ; ; ; 2 Cuban breaks;
 
 > New Yorker; New Yorker in 4; Spot turn;
 
@@ -79,7 +79,7 @@
 
 # B2 () []
 
-> Half basic; Fan; Stop and Go Hockeystick; ;
+> (Cha-Cha) Half basic; Fan; Stop and Go Hockeystick; ;
 
 > Alemana preparation; Aida; Switch Cross; Side walks;
 
