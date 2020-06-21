@@ -97,8 +97,6 @@
 
 > Double Cuban Breaks; ; Time Step; (twice);
 
-# Ending (6 Measures)
+# Ending (4 Measures)
 
-> Chase; ; ; ;
-
-> Half Basic; (Rumba) Aida & Arms up;
+> Half Basic; Crab Walks; ; (Rumba) Aida & trail hands up;
