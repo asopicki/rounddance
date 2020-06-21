@@ -23,7 +23,7 @@
 
 # Part B (8 measures)
 
-> Cross Body to Handshake; Half Moon; ; Fwd Break;
+> Cross Body to Handshake; Half Moon; ; (lead hands) Fwd Break;
 
 > Shoulder to Shoulder; Aida; Aida Line & Hip Rocks; Swivel to face & Spot Turn;
 
@@ -37,7 +37,7 @@
 
 # Part B (8 measures)
 
-> Cross Body to Handshake; Half Moon; ; Fwd Break;
+> Cross Body to Handshake; Half Moon; ; (lead hands) Fwd Break;
 
 > Shoulder to Shoulder; Aida; Aida Line & Hip Rocks; Swivel to face & Spot Turn;
 
@@ -49,13 +49,13 @@
 
 # Part B (8 measures)
 
-> Cross Body to Handshake; Half Moon; ; Fwd Break;
+> Cross Body to Handshake; Half Moon; ; (lead hands) Fwd Break;
 
 > Shoulder to Shoulder; Aida; Aida Line & Hip Rocks; Swivel to face & Spot Turn;
 
 # Part B (8 measures)
 
-> Cross Body to Handshake; Half Moon; ; Fwd Break;
+> Cross Body to Handshake; Half Moon; ; (lead hands) Fwd Break;
 
 > Shoulder to Shoulder; Aida; Aida Line & Hip Rocks; Swivel to face & Spot Turn;
 

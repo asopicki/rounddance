@@ -18,26 +18,26 @@
 
 # A (20 measures)
 
-> 2 left turns; ; Whisk; Syncopated Vine; 
+> 2 left turns; ; Whisk; Syncopated Vine;
 
-> Semi chassé; Wing; Open Telemark; Natural Hover Fallaway; 
+> Through Semi chassé; Wing; Open Telemark; Natural Hover Fallaway;
 
-> Slip Pivot (to banjo); Maneuver, Side, Close; Spin Turn; Box Finish;
+> Slip Pivot (to banjo); Maneuver; Spin Turn; Box Finish;
 
-> Open Telemark; In & Out runs; ; Maneuver, Side, Close;
-	
+> Open Telemark; In & Out runs; ; Maneuver;
+
 > Impetus Turn (to semi); Through,Side, Behind; Roll 3; Chair & Slip;
-	
+
 # A (20 measures)
 
-> 2 left turns; ; Whisk; Syncopated Vine; 
+> 2 left turns; ; Whisk; Syncopated Vine;
 
-> Semi chassé; Wing; Open Telemark; Natural Hover Fallaway; 
+> Through Semi chassé; Wing; Open Telemark; Natural Hover Fallaway;
 
-> Slip Pivot (to banjo); Maneuver, Side, Close; Spin Turn; Box Finish;
+> Slip Pivot (to banjo); Maneuver; Spin Turn; Box Finish;
 
-> Open Telemark; In & Out runs; ; Maneuver, Side, Close;
-	
+> Open Telemark; In & Out runs; ; Maneuver;
+
 > Impetus Turn (to semi); Through,Side, Behind; Roll 3; Chair & Slip;
 
 # B (14 measures)
@@ -48,7 +48,7 @@
 
 > Impetus Turn (to semi); Syncopated Vine; Weave; (to semi);
 
-> Maneuver, Side, Close; Hesitation Change;
+> Maneuver; Hesitation Change;
 
 # B* (13 measures)
 
@@ -58,7 +58,7 @@
 
 > Impetus Turn (to semi); Syncopated Vine; Weave; (to semi);
 
-> Maneuver, Side, Close;
+> Maneuver;
 
 # Ending (7 measures)
 
