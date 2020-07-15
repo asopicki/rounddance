@@ -4,7 +4,7 @@
 * **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
 * **Rhythm**: Rumba
 * **Phase**: III+2 (Aida, Switch Rock)
-* **Steplevel**: B+2 (Aida, Switch Rock)
+* **Steplevel**: C1+1 (Switch Rock)
 * **Difficulty**: Easy
 * **Sequence**: Intro - ABC - AB - BC - Inter - B - Ending
 * **Music**: Perfect, One Direction

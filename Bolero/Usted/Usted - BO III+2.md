@@ -3,7 +3,7 @@
 
 * **Choreographer**: Gabriele Langer
 * **Rhythm**: Bolero
-* **Phase**: IV + 2 (Cross Body, Hip Rocks)
+* **Phase**: III + 2 (Cross Body, Hip Rocks)
 * **Difficulty**: Average
 * **Sequence**: Intro - ABC - AB - Ending
 * **Music**: Usted, Luis Miguel
