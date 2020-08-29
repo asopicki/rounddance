@@ -15,7 +15,7 @@
 ## Intro (Rumba) (18 measures) [00:03]
 
 
-> ; ; (Rumba) Half Basic; Fan;
+> Wait 2; ; (Rumba) Half Basic; Fan;
 
 > Alemana; ; Aida (to reverse); Back Basic;
 
@@ -27,13 +27,13 @@
 
 ## Part A (16 measures) [00:34]
 
- > (Cha-Cha-Cha) Basic Cha to Fan; ; Hockey Stick; (to diagonal reverse and wall);
+> (Cha-Cha-Cha) Basic Cha to Fan; ; Hockey Stick; (to diagonal reverse and wall);
 
- > Forward Basic to Back Triple Cha; ; Back Basic to Forward Triple Cha; ;
+> Forward Basic to Back Triple Cha; ; Back Basic to Forward Triple Cha; ;
 
- > Half Basic; Whip ; New Yorker; Spot turn;
+> Half Basic; Whip ; New Yorker; Spot turn;
 
- > Hand to Hand (twice); ; Chase Underarm Pass; ;
+> Hand to Hand (twice); ; Chase Underarm Pass; ;
 
 ## Part B (8 measures) [01:05]
 
@@ -47,7 +47,7 @@
 
 > Alemana; ; Cross Body; (to butterfly);
 
-> Double Cuban Breaks; ;  Cross check, Recover, Side Cha; Spot turn (to handshake);
+> Double Cuban Breaks; ; Cross check, Recover, Side Cha; Spot turn (to handshake);
 
 > Flirt; (Lady to a Fan); Alemana Preparation; Fence Line; Cucaracha and Point;
 
@@ -96,6 +96,6 @@
 
 > Half Basic (Lady wrap); Wheel Cha (to face center); Man wheel / Lady unwrap (to face wall);
 
-> New Yorker; Aida (to reverse) and Hold;
+> Cucaracha; Aida (to reverse) and Hold;
 
-<meta name="x:audio-file" content="m/MarieMarie/MarieMarie - Cotton Candy Hurricane (single edit).mp3">
+

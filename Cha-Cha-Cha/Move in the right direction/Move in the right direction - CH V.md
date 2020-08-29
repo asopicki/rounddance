@@ -14,13 +14,13 @@
 
 > Wait 2; ; Cucaracha left & right; ;
 
-> Chase (Lady turn); Chase (no turns); Time & turn; Turn & Time;
+> Chase (Lady turn); Chase (no turn); Time & turn; Turn & Time;
 
 # A
 
-> Open hip twist; Fan; Stop & go hockeystick; ;
+> Open hip twist; Fan; Stop & Go Hockeystick; ;
 
-> Alemana preperation; Spot turn; Double cuban breaks; ;
+> Alemana preperation; Spot turn; Double Cuban breaks; ;
 
 # B
 
@@ -30,7 +30,7 @@
 
 > Flirt; ; Sweethearts; (twice, to tandem/wall); Solo spot turn; (twice);
 
-> Chase (lady turns); Chase (no turns);
+> Chase (lady turns); Chase (no turn);
 
 # Interlude
 
@@ -38,9 +38,9 @@
 
 # A
 
-> Open hip twist; Fan; Stop & go hockeystick; ;
+> Open hip twist; Fan; Stop & Go Hockeystick; ;
 
-> Alemana preperation; Spot turn; Double cuban breaks; ;
+> Alemana preperation; Spot turn; Double Cuban breaks; ;
 
 # B
 
@@ -50,7 +50,7 @@
 
 > Flirt; ; Sweethearts; (twice, to tandem/wall); Solo spot turn; (twice);
 
-> Chase (lady turns); Chase (no turns);
+> Chase (lady turns); Chase (no turn);
 
 # C
 
@@ -70,7 +70,7 @@
 
 > Flirt; ; Sweethearts; (twice, to tandem/wall); Solo spot turn; (twice);
 
-> Chase (lady turns); Chase (no turns);
+> Chase (lady turns); Chase (no turn);
 
 # Ending
 
@@ -82,4 +82,3 @@
 
 > Lunge side & look at partner;
 
-<meta name="x:audio-file" content="g/Gossip/A Joyful Noise/Gossip - Move in the right direction.mp3">

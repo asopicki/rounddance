@@ -11,7 +11,7 @@
 
 ## Intro (8 measures) [00:00]
 
-> ; Explode apart with arms; Together point; Roll 3;
+> Wait ; Explode apart with arms; Together point; Roll 3;
 
 > Semi Chassé; Through Promenade Sway & Change Sway;
 
