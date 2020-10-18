@@ -12,13 +12,13 @@
 
 ## INTRO (cuddle pos)
 
-> Wait in cuddle/wall lead feet free; ;  Open Basics ; ;
+> Wait in cuddle/wall lead feet free; ; Open Basics ; ;
 
 > Switches ; ; Basic ; (to pickup);
 
-> Left Turn with inside roll ; Basic Ending (to pickup) ; Left Turn  with inside roll ; Basic Ending ;
+> Left Turn (lady inside roll); Basic Ending (to pickup) ; Left Turn (lady inside roll); Basic Ending ;
 
-> Slow rock, side and recover;
+> Slow rock side and recover;
 
 ## PART A (Bfly)
 > Lunch Basics ; ; Underarm Turn ; Basic Ending (to half open) ;
@@ -37,7 +37,7 @@
 
 > Basic ; ; Underarm Turn ; Basic Ending (to half open) ;
 
-> Switches ; ; Basic; ; Slow rock, side and recover;  
+> Switches ; ; Basic; ; Slow rock side and recover;
 
 
 ## Interlude (CP COH)
@@ -64,10 +64,10 @@
 
 > Basic ; ; Underarm Turn ; Basic Ending (to half open) ;
 
-> Switches ; ; Basic; ; Slow rock side and recover in 4;
+> Switches ; ; Basic; ; Rock side and recover in 4;
 
-## Ending (CP COH)  
-> Lunch Basic (lady wraps); Rock back, recover, forward; Sweetheart runs ; (to pickup);  
+## Ending (CP COH)
+> Lunch Basic (lady wraps); Rock back, recover, forward; Sweetheart runs ; (to pickup);
 
 > Triple Traveler (to reverse) ( slow down ); ; ; Basic Ending ;
 

@@ -12,17 +12,17 @@
 
 # Intro
 
-> ; ; ; ;
+> Wait 4; ; ; ;
 
 # A
 
-> Open Hip Twist; Fan; Stop'n'Go Hockeystick; ; Alemana preperation;
+> Open Hip Twist; Fan; ***Stop'n'Go Hockeystick; ; Alemana preperation***;
 
 > Aida; Switch rock; Spot turn; Chase with underarm pass; ; (twice); ;
 
 > New Yorker (to open); Progressive Walk 6; ; Spot turn;
 
-> Alternative basic 4 times; ; ; ;
+> ***Alternative basic 4 times***; ; ; ;
 
 # B
 
@@ -48,9 +48,9 @@
 
 # Inter
 
-> Half basic; Fan to face; New Yorker (to wall); Underarm turn (to tamara);
+> ***Half basic; Fan to face; New Yorker (to wall); Underarm turn (to tamara)***;
 
-> Wheel 3; Unwrap (to butterfly); Fence line; (twice);
+> ***Wheel 3; Unwrap (to butterfly)***; Fence line; (twice);
 
 # A*
 
@@ -70,8 +70,7 @@
 
 # Ending
 
-> Open Hip Twist; Fan; Hockeystick; (to right handshake); Flirt; ;
+> Open Hip Twist; Fan; ***Hockeystick; (to right handshake); Flirt***; ;
 
-> Sweetheart; (twice, to face); Alternative Basic; (2 times); Step Apart;
+> ***Sweetheart; (twice, to face); Alternative Basic; (2 times); Step Apart***;
 
-<meta name="x:audio-file" content="g/George Ezra/George Ezra - Budapest.mp3">

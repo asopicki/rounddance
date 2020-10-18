@@ -11,7 +11,7 @@
 
 ## Intro (12 measures) [00:00]
 
-> ; ; Slow walk together in 4; Slow twirl 2; Slow walk 2;
+> Wait 2; ; Slow walk together in 4; Slow twirl 2; Slow walk 2;
 
 > Slow apart & point; Together touch (to Butterfly); Cucaracha left & right; ;
 

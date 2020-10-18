@@ -79,6 +79,10 @@
 # Ending (8 measures)
 
 
+
+> Forearm Spin ~ Sugar Tuck and Twirl (with man's hook turn); ; ;
+
+
 > Right Side Pass (with Inside Turn, join lead hands); Rock Whip ~ (with Double Roundé) ~ Inside Turn (to wrap wall) ~ Press lead foot; ; ; ; -
 
 

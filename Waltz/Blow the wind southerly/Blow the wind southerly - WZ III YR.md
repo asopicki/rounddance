@@ -1,4 +1,4 @@
-# Blow the wind southerly
+# Blow the wind southerly (YR)
 *Song by Bryan Smith and His Festival Orchestra (Album: Everbody Dance, Track: 26, 3:03, available on Casa Musica)*
 
 * **Choreographer**: Karen and Ed Gloodt
@@ -18,23 +18,23 @@
 
 > Waltz away; Lady wrap; Forward waltz; Pickup;
 
-> One left turn; Hover Corté; Back hover (to semi); Pickup;
+> Two left turns; (to face wall); Whisk; Pickup;
 
 # B (8 measures) [0:25]
 
-> Turn left & chassé (to banjo); Open Impetus; Through Hover (to banjo); Back Hover (to semi); 
+> Turn left & chassé (to banjo); Open Impetus; Through Hover (to banjo); Back Hover (to semi);
 
-> Through Chassé (to banjo); Maneuver; Two quarter right turns (to line); ; 
+> Through Chassé (to banjo); Maneuver; Two quarter right turns (to line); ;
 
 # C (16 measures) [0:43]
 
-> Interrupted Box; ; ; ;
+> Diamond Turn; ; ; ;
 
-> Forward Waltz; Drift Apart; Through Twinkle; Through Twinkle (to sidecar);
+> ***Forward Waltz; One Quarter Right Turn***; Twinkle Through; (twice);
 
-> Three Progressive Twinkles; ; ; Maneuver;
+> Waltz away & together; ; Hover; Maneuver;
 
-> Overspin Turn; Half Box back (to butterfly); Solo turn in 6; (to butterfly);
+> Overspin Turn (to face wall); Half Box back (to butterfly); Solo turn in 6; (to butterfly);
 
 # Interlude (8 measures) [1:16]
 
@@ -46,23 +46,23 @@
 
 > Waltz away; Lady wrap; Forward waltz; Pickup;
 
-> One left turn; Hover Corté; Back hover (to semi); Pickup;
+> Two left turns; (to face wall); Whisk; Pickup;
 
 # C (16 measures) [1:50]
 
-> Interrupted Box; ; ; ;
+> Diamond Turn; ; ; ;
 
-> Forward Waltz; Drift Apart; Through Twinkle; Through Twinkle (to sidecar);
+> ***Forward Waltz; One Quarter Right Turn***; Twinkle Through; (twice);
 
-> Three Progressive Twinkles; ; ; Maneuver;
+> Waltz away & together; ; Hover; Maneuver;
 
-> Overspin Turn; Half Box back (to butterfly); Solo turn in 6; (to butterfly);
+> Overspin Turn (to face wall); Half Box back (to butterfly); Solo turn in 6; (to butterfly);
 
 # A* (8 measures) [2:25]
 
 > Waltz away; Lady wrap; Forward waltz; Pickup;
 
-> One left turn; Hover Corté; Back hover (to semi); Through, Side, Close;
+> Two left turns; (to face wall); Box; ;
 
 # Ending (8 measures) [2:42]
 

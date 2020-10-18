@@ -23,7 +23,7 @@
 
 > Change Hands Behind the Back ,,; Shoulder Shove (to Butterfly) ,,;
 
->  Windmill (twice); ; ; Double Rock into Spanish Arms (twice) ,,;;; Link Rock ,,;
+> Windmill (twice); ; ; Double Rock into Spanish Arms (twice) ,,;;; Link Rock ,,;
 
 # B (16 measures)
 
@@ -33,7 +33,7 @@
 
 > Kick Ball Change (twice); Throwaway; Change Hands behind the Back (twice); ; ;
 
-> Change Left to Right ,,; Shoulder Shove ,,;
+> Change Left to Right ,,; Shoulder Shove ,, (to semi closed);
 
 # A (16 measures)
 
@@ -41,7 +41,7 @@
 
 > Change Hands Behind the Back ,,; Shoulder Shove (to Butterfly) ,,;
 
->  Windmill (twice); ; ; Double Rock into Spanish Arms (twice) ,,;;; Link Rock ,,;
+> Windmill (twice); ; ; Double Rock into Spanish Arms (twice) ,,;;; Link Rock ,,;
 
 # B (16 measures)
 
@@ -67,6 +67,6 @@
 
 > Change Hands Behind the Back ,,; Shoulder Shove (to Butterfly) ,,;
 
->  Basic Rock ,,; American Spin ,,; American Both Spin ,,;
+> Basic Rock ,,; American Spin ,,; American Both Spin ,,;
 
 > Link Rock ,,; Fallaway Rock ,,; Rock, Recover - Jump Apart;

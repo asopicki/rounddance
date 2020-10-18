@@ -36,9 +36,9 @@
 
 # B (8 measures)
 
-> 4 Point Steps; ; Chassé Left and Right; Double Rock (to semi);
+> 4 Point Steps; ; Two Forward Triples; Swivel Walk 4;
 
-> 4 Point Steps; ; Chassé Left and Right; Double Rock (to semi);
+> 4 Point Steps; ; Two Forward Triples; Swivel Walk 4;
 
 # A** (12 measures)
 
@@ -56,4 +56,3 @@
 
 > Rock Apart;
 
-<meta name="x:audio-file" content="b/Beach Boys/Beach Boys - Little Deuce Coupe.mp3">

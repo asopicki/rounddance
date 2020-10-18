@@ -42,9 +42,9 @@
 
 # B (16 measures)
 
-> Mini Telespin; ; Contra Check & Switch; Natural Telemark (to sidecar);
+> ***Mini Telespin; ; Contra Check & Switch; Natural Telemark (to sidecar);***
 
-> Twinkle (to banjo reverse); Forward & Point; Impetus (to semi); Pickup, Side, Close;
+> ***Twinkle (to banjo reverse); Forward & Point; Impetus (to semi); Pickup, Side, Close;***
 
 > Diamond Turn; ; ; ;
 

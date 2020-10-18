@@ -32,7 +32,7 @@
 
 > New Yorker; (twice); Timestep; (twice);
 
-> Spot turn (to open); Walk 2 & forward cha; Sliding door; ;
+> Spot turn (to open); Walk 2 & forward cha; Sliding doors; ;
 
 > Circle cha; ; Travelling Door; (twice);
 
@@ -63,5 +63,3 @@
 > New Yorker (to open); Walk 2 & forward cha;
 
 > Circle cha; ; Fence line; (twice); Step apart & point;
-
-<meta name="x:audio-file" content="a/Al Bano & Romina Power/Sempre sempre/Al Bano & Romina Power - Sempre sempre.mp3">

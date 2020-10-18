@@ -33,9 +33,9 @@
 
 > Triple traveler; ; ; (tunnel exit);
 
-> Outside roll; Basic ending;Side basic; Sweetheart wrap;
+> Outside roll; Basic ending;Side basic; Sweetheart wrap (lady in two);
 
-> Sweetheart run (twice); ; Sweetheart switch; (to face, man face wall) ;
+> Sweetheart run (twice); ; Sweetheart switch; (to face, lady in 2, man face wall);
 
 > Lunge basics; ; Cross body; Reverse underarm turn;
 
@@ -55,9 +55,9 @@
 
 > Triple traveler; ; ; (tunnel exit);
 
-> Outside roll; Basic ending; Side basic; Sweetheart wrap;
+> Outside roll; Basic ending;Side basic; Sweetheart wrap (lady in two);
 
-> Sweetheart run (twice); ; Sweetheart switch; (to face, man face center) ;
+> Sweetheart run (twice);(lady in two); Sweetheart switch; (to face, lady in 2, man face wall);
 
 > Lunge basics; ; Cross body; Open Basic;
 
@@ -71,10 +71,9 @@
 
 > Triple traveler; ; ; (tunnel exit);
 
-> Outside roll; Basic ending; Side basic; Sweetheart wrap;
+> Outside roll; Basic ending;Side basic; Sweetheart wrap (lady in two);
 
-> Sweetheart run (twice); ; Sweetheart switch;  (to face, man face wall);
+> Sweetheart run (twice);(lady in two); Sweetheart switch; (to face, lady in 2, man face wall);
 
 > Lunge basics; ; Side to an Aida; Aida line, Switch to face and Smile;
 
-<meta name="x:audio-file" content="r/Rihanna/Rihanna - Dancing in the dark.mp3">

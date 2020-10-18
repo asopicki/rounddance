@@ -12,7 +12,7 @@
 
 # Intro (4 measures) []
 
-> ; ; Cucaracha left & right; ;
+> Wait 2; ; Cucaracha left & right; ;
 
 # A (8 measures) []
 
@@ -70,6 +70,4 @@
 
 > Challenge Chase; ; Half Basic; Aida (to back tripple cha); ;
 
-> Switch rock; Spot turn; Half basic (to butterfly); Aida in 3 & Hold;
-
-<meta name="x:audio-file" content="f/Felix Jaehn/Felix Jaehn & Hight & Alex Aiono - Hot2Touch.mp3">
+> Switch rock; Spot turn; Half basic (to butterfly); Aida in 3 & Explode;
