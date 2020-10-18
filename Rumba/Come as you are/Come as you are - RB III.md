@@ -9,7 +9,7 @@
 * **Music**: Come as you are, Jaci Velasquez
 * **Steplevel** A17 (including Dip Back)
 
-*Note: Play at approx 106%*
+***Note***: Play at approx 106%*
 
 *Dance starts in butterfly position, man facing wall, lead feet free, waiting two measures*
 

@@ -8,7 +8,12 @@
 * **Sequence**: Intro - ABCD - ABCD - A - Ending
 * **Music**: Rachel's Song, Gary Prim
 
+
 *Dance starts in open facing position, lead feet free, waiting 2 measures*
+
+
+***Note:*** Speed up about 10%.
+
 
 # Intro
 

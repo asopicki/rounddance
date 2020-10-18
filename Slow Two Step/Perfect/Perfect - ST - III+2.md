@@ -16,7 +16,7 @@
 
 > Wait 2 (start on "me"); ; Basic; ;
 
-> Open Basice; (twice); Basic; ;
+> Open Basic; (twice); Basic; ;
 
 > Underarm Turn; Basic Ending; Lunge Basic; (twice);
 
@@ -24,7 +24,7 @@
 
 # A (16 measures)
 
-> Basic; ; Underarm Turn; Sweatheart Wrap (to face line); 
+> Basic; ; Underarm Turn; Sweatheart Wrap (to face line);
 
 > Sweatheart Run; (twice, to face); Basic; ;
 
@@ -40,7 +40,7 @@
 
 > Traveling Cross Chassé (4 times); ; ; (to face);
 
-> Basic; ; Side Basic; Open Baic;
+> Basic; ; Side Basic; Open Basic;
 
 # C (4 measures)
 
@@ -48,7 +48,7 @@
 
 # A (16 measures)
 
-> Basic; ; Underarm Turn; Sweatheart Wrap (to face line); 
+> Basic; ; Underarm Turn; Sweatheart Wrap (to face line);
 
 > Sweatheart Run; (twice, to face); Basic; ;
 
@@ -58,7 +58,7 @@
 
 # D (16 measures)
 
-> Open Baisc; (twice); Basic; (to pickup, low butterfly);
+> Open Basic; (twice); Basic; (to pickup, low butterfly);
 
 > Traveling Cross Chassé (4 times); ; ; (to face);
 
@@ -74,7 +74,7 @@
 
 > Traveling Cross Chassé (4 times); ; ; (to face);
 
-> Basic; ; Side Basic; Open Baic;
+> Basic; ; Side Basic; Open Basic;
 
 # Ending (3 measures)
 

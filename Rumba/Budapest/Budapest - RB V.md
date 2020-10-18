@@ -16,7 +16,7 @@
 
 # A
 
-> Open Hip Twist; Fan; ***Stop'n'Go Hockeystick; ; Alemana preperation***;
+> Open Hip Twist; Fan; ***Stop'n'Go Hockeystick; ; Alemana preparation***;
 
 > Aida; Switch rock; Spot turn; Chase with underarm pass; ; (twice); ;
 
@@ -32,7 +32,7 @@
 
 # A*
 
-> Open Hip Twist; Fan; Stop'n'Go Hockeystick; ; Alemana preperation;
+> Open Hip Twist; Fan; Stop'n'Go Hockeystick; ; Alemana preparation;
 
 > Aida; Switch rock; Spot turn; Chase with underarm pass; ; (twice); ;
 
@@ -54,7 +54,7 @@
 
 # A*
 
-> Open Hip Twist; Fan; Stop'n'Go Hockeystick; ; Alemana preperation;
+> Open Hip Twist; Fan; Stop'n'Go Hockeystick; ; Alemana preparation;
 
 > Aida; Switch rock; Spot turn; Chase with underarm pass; ; (twice); ;
 
