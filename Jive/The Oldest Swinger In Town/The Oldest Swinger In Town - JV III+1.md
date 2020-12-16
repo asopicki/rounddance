@@ -16,15 +16,25 @@
 
 # A (16 measures)
 
+
 > Fallaway Rock;,,Change Places Right to Left; ; Change Hands behind the back;
+
+
 > , , Change Places Left to Right; ; Change Hands behind the back;,,Rock, Recover;
+
+
 > Swivel 2, Chassé Left & Right;,,Fallaway Throway; ;Shoulder Shove;
+
+
 > , , Change Places Left to Right;;Sailor Shuffles;Rock, Recover, Swivel 2;
 
 # B (8 measures)
 
+
 > Throwaway; Stop & Go; ;Change Places Left to Right;
-> ,,Shoulder Shove; ; Chassé Left & Right; Rock, Recover, Swivel 2;
+
+
+> ,,Shoulder Shove; ; Rock, Recover, Swivel 6; ;
 
 # Interlude (4 measures)
 
@@ -32,15 +42,25 @@
 
 # A (16 measures)
 
+
 > Fallaway Rock;,,Change Places Right to Left; ; Change Hands behind the back;
+
+
 > , , Change Places Left to Right; ; Change Hands behind the back;,,Rock, Recover;
+
+
 > Swivel 2, Chassé Left & Right;,,Fallaway Throway; ;Shoulder Shove;
+
+
 > , , Change Places Left to Right;;Sailor Shuffles;Rock, Recover, Swivel 2;
 
 # B (8 measures)
 
+
 > Throwaway; Stop & Go; ;Change Places Left to Right;
-> ,,Shoulder Shove; ; Chassé Left & Right; Rock, Recover, Swivel 2;
+
+
+> ,,Shoulder Shove; ; Rock, Recover, Swivel 6; ;
 
 # Interlude (4 measures)
 
@@ -48,21 +68,35 @@
 
 # A (16 measures)
 
+
 > Fallaway Rock;,,Change Places Right to Left; ; Change Hands behind the back;
+
+
 > , , Change Places Left to Right; ; Change Hands behind the back;,,Rock, Recover;
+
+
 > Swivel 2, Chassé Left & Right;,,Fallaway Throway; ;Shoulder Shove;
+
+
 > , , Change Places Left to Right;;Sailor Shuffles;Rock, Recover, Swivel 2;
 
 # B (8 measures)
 
+
 > Throwaway; Stop & Go; ;Change Places Left to Right;
-> ,,Shoulder Shove; ; Chassé Left & Right; Rock, Recover, Swivel 2;
+
+
+> ,,Shoulder Shove; ; Rock, Recover, Swivel 6; ;
 
 
 # Ending (10 measures) [2:37]
 
+
 > Throwaway; Stop & Go; ; Link Rock;
+
+
 > ,,Rock, Recover; Swivel 4; 4 Point Steps (slow down); ;
+
+
 > Apart & Point; Hold;
 
-<meta name="x:audio-file" content="f/Foster Allen/Foster & Allen - The Oldest Swinger In Town.mp3">

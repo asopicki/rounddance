@@ -20,7 +20,7 @@
 
 > Open hip twist; Fan; Stop & Go Hockeystick; ;
 
-> Alemana preperation; Spot turn; Double Cuban breaks; ;
+> Alemana preparation; Spot turn; Double Cuban breaks; ;
 
 # B
 
@@ -40,7 +40,7 @@
 
 > Open hip twist; Fan; Stop & Go Hockeystick; ;
 
-> Alemana preperation; Spot turn; Double Cuban breaks; ;
+> Alemana preparation; Spot turn; Double Cuban breaks; ;
 
 # B
 

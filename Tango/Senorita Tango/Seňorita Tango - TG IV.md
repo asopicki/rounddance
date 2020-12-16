@@ -26,7 +26,7 @@
 
 # B (8 measures)
 
-> Slow forward & maneuver; Pivot 3 (to semi); Promenade rocks; Lunge side & twist;
+> Slow forward & maneuver; Pivot 3 (to semi); Promenade rocks; Lunge forward & twist;
 
 > Behinde, Side, Through (Lady swivel to banjo); Outside Swivel, -, Pickup touch,-; Gaucho turn 4 (to face wall); Turning Tango Draw;
 
@@ -41,7 +41,7 @@
 
 # B (8 measures)
 
-> Slow forward & maneuver; Pivot 3 (to semi); Promenade rocks; Lunge side & twist;
+> Slow forward & maneuver; Pivot 3 (to semi); Promenade rocks; Lunge forward & twist;
 
 > Behinde, Side, Through (Lady swivel to banjo); Outside Swivel, -, Pickup touch,-; Gaucho turn 4 (to face wall); Turning Tango Draw;
 
@@ -55,4 +55,3 @@
 
 > Double Gancho; Outside Swivel & Through, Tap; Slow forward, -, Slow chair,-; Rec to X-Line;
 
-<meta name="x:audio-file" content="h/Hollywood Movie Strings/Hollywood Movie Strings - Miss Moorhead's Tango (from 'Soapdish') (TG 32).mp3" >

@@ -57,7 +57,7 @@
 
 > Outside roll; Basic ending;Side basic; Sweetheart wrap (lady in two);
 
-> Sweetheart run (twice);(lady in two); Sweetheart switch; (to face, lady in 2, man face wall);
+> Sweetheart run (twice); ; Sweetheart switch; (to face, lady in 2, man face center);
 
 > Lunge basics; ; Cross body; Open Basic;
 
@@ -73,7 +73,7 @@
 
 > Outside roll; Basic ending;Side basic; Sweetheart wrap (lady in two);
 
-> Sweetheart run (twice);(lady in two); Sweetheart switch; (to face, lady in 2, man face wall);
+> Sweetheart run (twice); ; Sweetheart switch; (to face, lady in 2, man face wall);
 
 > Lunge basics; ; Side to an Aida; Aida line, Switch to face and Smile;
 

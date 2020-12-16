@@ -1,5 +1,5 @@
 # All I Want For Christmas (Is A Real Good Tan)
-*Song by Déjà Vu  (Album: A Very Country Christmas, Track 8, 4:44)
+*Song by Déjà Vu (Album: A Very Country Christmas, Track 8, 4:44)
 
 * **Choreographer**: Alexander Sopicki
 * **Rhythm**: Rumba
@@ -34,7 +34,7 @@
 
 # C
 
-> Chase Double Peek-a-Boo; ; ; ; 
+> Chase Double Peek-a-Boo; ; ; ;
 
 > ; ; ; ;
 
@@ -72,9 +72,9 @@
 
 # Ending
 
-> Chase Double Peek-a-Boo; ; ; ; 
+> Chase; ; ; ;
 
-> ; ; ; ;
+> Time Step; (twice); Alemana; ;
 
 > New Yorker; Aida; Switch Cross; Cucaracha Cross;
 
@@ -82,7 +82,7 @@
 
 > New Yorker (to open); Progressive Walks; Circle away & together; ;
 
-> Fence Line; Through, Apart & Point (fade out); ; ; 
+> Fence Line; Through, Apart & Point (fade out); ; ;
 
 > ; ; ; ;
 

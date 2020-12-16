@@ -1,7 +1,7 @@
-# I can see clearly now
+# I can see clearly now (YR)
 *Song by Jimmy Cliff (Album: We are all one, The Best of Jimmy Cliff, 2:49)*
 
-* **Choreographer**: Ron & Ree Rumble
+* **Choreographer**: Ron & Ree Rumble (part B adjusted)
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: III+1
 * **Difficulty**: Average
@@ -38,13 +38,13 @@
 
 # B
 
-> Open break; Underarm turn; Lariat (to both facing line); Forward 2 & Cha;
+> Open break; Underarm turn; Lariat; ;
 
-> Turn in 2 and back cha; Back basic; Sliding door; (twice);
+> Chase ; ; ; ;
 
-> Figure 8; ; ; ;
+> Shoulder to Shoulder; (twice); Lariat; ;
 
-> Merengue Basic; Cucaracha; (twice);
+> Fence Line in 4; Cucaracha; (twice);
 
 # A
 
@@ -63,3 +63,4 @@
 > Chase; (to tandem wall); Cucaracha; (twice, to cuddle position);
 
 > Point side and hold,-,-,-;
+

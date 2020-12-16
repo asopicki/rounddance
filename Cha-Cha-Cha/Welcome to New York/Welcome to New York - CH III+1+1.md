@@ -1,15 +1,15 @@
 # Welcome to New York
 *Song by Taylor Swift (Album: 1989, Track 1, 3:31)*
- 
+
 * **Choreographer**: Randy & Marie Preskitt
 * **Rhythm**: Cha-Cha-Cha / Rumba
 * **Phase**: III+1+1 (Alemana) + (Chase Full Turn)
 * **Difficulty**: Average
 * **Sequence**: Intro - ABC - Bridge - A*BC - DBC - Ending
 * **Music**: Welcome to New York, Taylor Swift
- 
+
 *Dance starts in facing position, man facing wall, 8 feet apart, lead feet free, waiting two measures*
- 
+
 # Intro (12 measures) [00:00]
 
 > Wait 2; ; Cross Point 4 (with claps); ;
@@ -62,7 +62,7 @@
 
 > Chase with Full Turn; (twice); ; ;
 
-# D (10 measures) []
+# D (10 measures) [] (Rumba)
 
 > Alemana; ; Lariat; ;
 
@@ -70,7 +70,7 @@
 
 > Quick Cucarachas; Merengue 4;
 
-# B (8 measures) []
+# B (8 measures) [] (Cha-Cha)
 
 > Chase with underarm pass; ; New Yorker; Spot Turn;
 
