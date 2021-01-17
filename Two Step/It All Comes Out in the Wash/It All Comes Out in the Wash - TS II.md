@@ -18,21 +18,21 @@
 
 # A
 
-> Twirl 2; Walk 2; Two Turning Two Steps; ; 
+> Twirl 2; Walk 2; Two Turning Two Steps; ;
 
-> Box; ; Reverse Box; ; 
+> Box; ; Reverse Box; ;
 
-> Twirl 2; Walk 2; Face to Face; Back to Back; 
+> Twirl 2; Walk 2; Face to Face; Back to Back;
 
 > Basket Ball Turn; ; Open Vine 4; (to open);
 
-> Double Hitch; ; 
+> Double Hitch; ;
 
 # B
 
-> Lace up; ; ; ; 
+> Lace up; ; ; ;
 
-> Two Forward Two Steps; ; Two Turning Two Steps; ; 
+> Two Forward Two Steps; ; Two Turning Two Steps; ;
 
 > Face to Face; Back to Back; Open Vine 4; ;
 
@@ -40,52 +40,52 @@
 
 # A
 
-> Twirl 2; Walk 2; Two Turning Two Steps; ; 
+> Twirl 2; Walk 2; Two Turning Two Steps; ;
 
-> Box; ; Reverse Box; ; 
+> Box; ; Reverse Box; ;
 
-> Twirl 2; Walk 2; Face to Face; Back to Back; 
+> Twirl 2; Walk 2; Face to Face; Back to Back;
 
 > Basket Ball Turn; ; Open Vine 4; (to open);
 
-> Double Hitch; ; 
+> Double Hitch; ;
 
 
 # B*
 
-> Lace up; ; ; ; 
+> Lace up; ; ; ;
 
-> Two Forward Two Steps; ; Two Turning Two Steps; ; 
+> Two Forward Two Steps; ; Two Turning Two Steps; ;
 
 > Face to Face; Back to Back; Open Vine 4; ;
 
-> Circle Away and Together; ; Walk 2 (to face);
+> Circle Away and Together; ; Walk & Face;
 
 # Bridge
 
 > Side, Draw, Close; (twice); Side Two Steps left & right; ;
 
-> Back away 3 and Touch; (twice); Walk together in 4; (to closed);
+> Back away two Two Steps; ; Walk together in 4; (to closed);
 
 # C
 
-> Two Turning Two Steps; ; Two Forward Two Steps; ; 
+> Two Turning Two Steps; ; Two Forward Two Steps; ;
 
-> Box; ; Reverse Box; ; 
+> Box; ; Reverse Box; ;
 
-> Left Turning Box; ; ; ; 
+> Left Turning Box; ; ; ;
 
 > Traveling Box; ; ; (to semi);
 
 # D
 
-> Lace up; ; ; ; 
+> Lace up; ; ; ;
 
-> Two Forward Two Steps; ; Two Turning Two Steps; ; 
+> Two Forward Two Steps; ; Two Turning Two Steps; ;
 
 > Face to Face; Back to Back; Open Vine 4; ;
 
-> Twirl 2; Walk 2; Two Forward Two Steps; ; 
+> Twirl 2; Walk 2; Two Forward Two Steps; ;
 
 > Twirl 2; Walk 2; Left Turning Box; ;
 
@@ -93,12 +93,12 @@
 
 # Ending
 
-> Two Forward Two Steps; (to semi); Side Two Steps apart & together; ; 
+> Two Forward Two Steps; (to semi); Side Two Steps apart & together; ;
 
-> Two Forward Two Steps; ; Two Turning Two Steps; ; 
+> Two Forward Two Steps; ; Two Turning Two Steps; ;
 
 > Box; ; Two Turning Two Steps ;
-> 
+>
 > Twirl 2; Walk 2; Twirl 2; Side, Draw, Close;
 
 > (twice); Slow Twisty Vine 4; ; Side Lunge;

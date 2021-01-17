@@ -24,11 +24,11 @@
 
 > Circle away & together; ; New Yorker; Aida;
 
-> Rock 3; Cucaracha (to butterfly); Chase; ; ; ;
+> Rock 3 (to face); Cucaracha (to butterfly); Chase; ; ; ;
 
 # C
 
-> Half basic; Twirl (to tamara); Wheel 3; Unwind;
+> Half basic; Underarm Turn (to tamara); Wheel 3; Unwind;
 
 > Shoulder to shoulder; Crab walks; ; New Yorker;
 
@@ -42,7 +42,7 @@
 
 > Finish chase; ; New Yorker; (twice);
 
-> Serpiente; ; Fence line; Cucaracha;
+> Through Serpiente; ; Fence line; Cucaracha;
 
 # B
 
@@ -50,7 +50,7 @@
 
 > Circle away & together; ; New Yorker; Aida;
 
-> Rock 3; Cucaracha (to butterfly); Chase; ; ; ;
+> Rock 3 (to face); Cucaracha (to butterfly); Chase; ; ; ;
 
 # D
 
@@ -58,7 +58,7 @@
 
 > Finish chase; ; New Yorker; (twice);
 
-> Serpiente; ; Fence line; Cucaracha;
+> Through Serpiente; ; Fence line; Cucaracha;
 
 # A
 
@@ -66,7 +66,7 @@
 
 # C
 
-> Half basic; Twirl (to tamara); Wheel 3; Unwind;
+> Half basic; Underarm Turn (to tamara); Wheel 3; Unwind;
 
 > Shoulder to shoulder; Crab walks; ; New Yorker;
 
@@ -80,11 +80,10 @@
 
 > Finish chase; ; New Yorker; (twice);
 
-> Serpiente; ; Fence line; Cucaracha;
+> Through Serpiente; ; Fence line; Cucaracha;
 
 
 # Ending
 
 > Slow apart & point;
 
-<meta name="x:audio-file" content="g/Gordon Lightfoot/Gordon Lightfoot - If You Could Read My Mind.mp3">

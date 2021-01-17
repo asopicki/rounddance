@@ -1,16 +1,19 @@
-# Queen of hearts (Class)
+# Queen of hearts (Class, B20)
 *Song by Juice Newton (Album: Juice, Track 4, 3:27)*
 
 * **Choreographer**: Chris Burdick
 * **Rhythm**: Two Step
 * **Phase**: II
+
 * **Difficulty**: Easy
+* **Steplevel**: B (B20)
+
 * **Sequence**: Intro - ABC - ABC(1-8) - D - ABC - Ending
 * **Music**: Queen of hearts, Juice Newton
 
 *Dance starts in semi closed position, lead feet free, waiting 2 measures*
 
-# Intro     
+# Intro
 
 > Wait 2; ; Two forward two steps; ;
 
@@ -70,7 +73,7 @@
 
 > Face to face; Back to back; Basketball turn; ;
 
-> One forward two step; Pick up, side, close;
+> Twirl 2; Walk & Pickup;
 
 # A
 

@@ -20,7 +20,7 @@
 
 > Change Left to Right ~ Change Hands behind the Back; ; ;
 
-> Link Rock ~ Right Turning Fallaway; ; ;
+> Link Rock (to face wall) ~ Right Turning Fallaway; ; ;
 
 > Right Turning Fallaway ~ Fallaway Throwaway (start); ;
 
@@ -30,9 +30,9 @@
 
 > Change Left to Right ~ Change Hands behind the Back; ; ;
 
-> Link Rock ~ Right Turning Fallaway; ; ;
+> Link Rock (to face wall) ~ Right Turning Fallaway; ; ;
 
-> Right Turning Fallaway ~ Rock to the; ;
+> Right Turning Fallaway ~ Rock, Recover to the; ;
 
 # B (8 measures)
 
@@ -46,7 +46,7 @@
 
 > Change Left to Right ~ Change Hands behind the Back; ; ;
 
-> Link Rock ~ Right Turning Fallaway; ; ;
+> Link Rock (to face wall) ~ Right Turning Fallaway; ; ;
 
 > Right Turning Fallaway ~ Change Right to Left (start);
 

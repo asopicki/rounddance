@@ -4,7 +4,7 @@
 * **Choreographer**: Andrea Fartmann
 * **Rhythm**: Slow Two Step
 * **Phase**: IV+1 (Triple Traveler)
-* **Sequence**: INTRO - A - B - INTERLUDE - A - B* - Ending
+* **Sequence**: INTRO - AB - Bridge1 - AB - Bridge2 - Ending
 * **Music**: Now and then, Blackmore's Night
 * **Special thanks**: Martin Prüfer
 
@@ -16,59 +16,90 @@
 
 > Switches ; ; Basic ; (to pickup);
 
-> Left Turn (lady inside roll); Basic Ending (to pickup) ; Left Turn (lady inside roll); Basic Ending ;
+> Left Turn (lady inside roll); Basic Ending (to pickup) ; Left Turn (lady inside roll); Lunge Side & hold;  ;
 
-> Slow rock side and recover;
+## A (Bfly)
 
-## PART A (Bfly)
-> Lunch Basics ; ; Underarm Turn ; Basic Ending (to half open) ;
 
-> Switches ; (3 measures) ; ; Basic Ending (facing COH);
 
-> Basic; ; Lunch Basics ; (to pickup);
+> Lunge Basics ; ; Underarm Turn ; Basic Ending (to half open) ;
+
+> Switches (one and a half); ; ; Basic Ending (facing COH);
+
+> Basic; ; Lunge Basics ; (to pickup);
 
 > Triple Traveler (to reverse); ; ; Basic Ending ;
 
 
-## Part B (Bfly)
-> Lunch Basic (Lady wraps); Rock back, recover, forward; Sweetheart runs; (to pickup);
+
+## B (Bfly)
+
+
+> Lunge Basics (to Lady wrapped position); Rock back, recover, forward; Sweetheart runs; (to pickup);
 
 > Triple Traveler (to line) ; ; ; Basic Ending ;
 
 > Basic ; ; Underarm Turn ; Basic Ending (to half open) ;
 
-> Switches ; ; Basic; ; Slow rock side and recover;
+> Switches ; ; Basic; ;
 
 
-## Interlude (CP COH)
-> Open Basics ; (to half open) ; Switch ; Open Basic Ending;
 
-> Switches ; (to closed position); Basic ; (pickup to low butterfly);
+## Bridge1
 
-> Traveling Cross Chassés ; ; (twice); (to face wall) ;
+
+> Slow Rock Side & Recover;
+
+
+## C (CP COH)
+
+
+> Open Basics; ; Switch; Open Basic Ending;
+
+
+> Switches; (to closed position); Basic; (to pickup);
+
+
+> Traveling Cross Chassé; (four times); ; (to face wall);
+
+
 
 ## PART A (Bfly)
 
-> Lunch Basics ; ; Underarm Turn ; Basic Ending (to half open) ;
 
-> Switches ; (3 measures) ; ; Basic Ending (facing COH);
+> Lunge Basics ; ; Underarm Turn ; Basic Ending (to half open) ;
 
-> Basic; ; Lunch Basics ; (to pickup);
+> Switches (one and a half); ; ; Basic Ending (facing COH);
+
+> Basic; ; Lunge Basics ; (to pickup);
 
 > Triple Traveler (to reverse); ; ; Basic Ending ;
 
-## Part B* (Bfly)
-> Lunch Basic (Lady wraps); Rock back, recover, forward; Sweetheart runs; (to pickup);
+
+
+## B (Bfly)
+
+
+> Lunge Basics (to Lady wrapped position); Rock back, recover, forward; Sweetheart runs; (to pickup);
 
 > Triple Traveler (to line) ; ; ; Basic Ending ;
 
 > Basic ; ; Underarm Turn ; Basic Ending (to half open) ;
 
-> Switches ; ; Basic; ; Rock side and recover in 4;
+> Switches ; ; Basic; ;
+
+
+## Bridge2 (Bfly)
+
+
+> Slow Open Vine 4; ;
+
 
 ## Ending (CP COH)
-> Lunch Basic (lady wraps); Rock back, recover, forward; Sweetheart runs ; (to pickup);
 
-> Triple Traveler (to reverse) ( slow down ); ; ; Basic Ending ;
 
-> Slow step apart & point ;
+> Lunge Basics (to Lady wrapped position); Rock back, recover, forward; Sweetheart runs ; (to pickup);
+
+> Triple Traveler (to reverse) ( slow down ); ; ; Basic Ending;
+
+> Dip back (Lady legcrawl);

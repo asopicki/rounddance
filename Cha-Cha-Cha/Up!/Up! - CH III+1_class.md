@@ -24,7 +24,7 @@
 
 # A(1-7)
 
-> Alemana;;  Lariat; ;
+> Alemana;; Lariat; ;
 
 > Fence line; Crab walk; Cucaracha in 4;
 
@@ -34,7 +34,7 @@
 
 # A(1-7)
 
-> Alemana;;  Lariat; ;
+> Alemana;; Lariat; ;
 
 > Fence line; Crab walk; Cucaracha in 4;
 
@@ -54,7 +54,7 @@
 
 # A
 
-> Alemana;;  Lariat; ;
+> Alemana;; Lariat; ;
 
 > Fence line; Crab walks; ; Cucaracha;
 

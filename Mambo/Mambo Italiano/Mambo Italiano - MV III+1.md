@@ -6,7 +6,7 @@
 * **Phase**: III+1 (Scallop)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - A(1-8) - Inter- C - CBA(9-16) - Ending
-* **Music**: music title, artist
+* **Music**: Mambo Italiano, Rosemary Clooney
 
 *Dance starts in low butterfly position, man facing wall, lead feet free, waiting six measures*
 

@@ -1,10 +1,10 @@
-# Perfect (class)
+# Perfect (class, B8)
 *Song by One Direction (Album: Bravo Hits 92, Track 12)*
 
 * **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
 * **Rhythm**: Rumba
 * **Phase**: III
-* **Steplevel**: B
+* **Steplevel**: B (B8)
 * **Difficulty**: Easy
 * **Sequence**: Intro - ABC - AB - BC - Inter - B - Ending
 * **Music**: Perfect, One Direction
@@ -30,7 +30,7 @@
 
 > Alemana; ; Lariat; ;
 
-> Shoulder to shoulder; Crab Walk; Cucaracha Cross; Side Walk;
+> Shoulder to shoulder; (twice); Cucaracha Cross; (twice);
 
 # C (9 measures) [01:02]
 
@@ -50,13 +50,13 @@
 
 > Alemana; ; Lariat; ;
 
-> Shoulder to shoulder; Crab Walk; Cucaracha Cross; Side Walk;
+> Shoulder to shoulder; (twice); Cucaracha Cross; (twice);
 
 # B (8 measures) [02:02]
 
 > Alemana; ; Lariat; ;
 
-> Shoulder to shoulder; Crab Walk; Cucaracha Cross; Side Walk;
+> Shoulder to shoulder; (twice); Cucaracha Cross; (twice);
 
 # C (9 measures) [02:22]
 
@@ -76,7 +76,7 @@
 
 > Alemana; ; Lariat; ;
 
-> Shoulder to shoulder; Crab Walk; Cucaracha Cross; Side Walk;
+> Shoulder to shoulder; (twice); Cucaracha Cross; (twice);
 
 # Ending (9 measures) [03:22]
 
@@ -86,4 +86,4 @@
 
 > Apart & Point;
 
-<meta name="x:audio-file" content="o/One Direction/One Direction - Perfect.mp3">
+

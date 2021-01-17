@@ -24,7 +24,7 @@
 
 > Half Basic; Fan; Hockeystick; ;
 
-> Cross Body; (to right handshake); Flirt; (lady turn to face);
+> Cross Body; (to right handshake); Shadow New Yorker; Underarm Turn (to butterfly);
 
 # Inter (4 measures) []
 
@@ -46,7 +46,7 @@
 
 > Half Basic; Fan; Hockeystick; ;
 
-> Cross Body; (to right handshake); Flirt; (lady turn to face);
+> Cross Body; (to right handshake); Shadow New Yorker; Underarm Turn (to butterfly);
 
 # C (8 measures) []
 
