@@ -6,10 +6,10 @@ _Song by Norlie & KKV (Album: Din Idiot, Track 3, 3:39)_
 - **Rhythm**: West Coast Swing
 - **Phase**: V+1 (Rock Whip)
 - **Difficulty**: Average
-- **Sequence**: Intro - AB - Bridge1 - AB - Bridge2 - CD - Ending
+- **Sequence**: Intro - AB - Inter1 - AB - Inter2 - CD - Ending
 - **Music**: Din Idiot, Norlie & KKV
 
-_Dance starts in left open facing position, man facing line of dance, about 8 feet apart, lead feet free, waiting two measures_
+_Dance starts in facing position, man facing line of dance, about 8 feet apart, lead feet free, waiting two measures_
 
 # Intro (4 measures) [00:00] (LOD)
 
@@ -31,7 +31,7 @@ _Dance starts in left open facing position, man facing line of dance, about 8 fe
 
 > ; ; Left Side Pass - Kick Ball Change; ;
 
-# Bridge1 (9 measures) [01:03] (ROD)
+# Interlude1 (9 measures) [01:03] (ROD)
 
 > Underarm Turn; -, -, Sugar Push (with extra rock); ; -,-, Left Side Pass Tuck & Spin;
 
@@ -54,17 +54,17 @@ _Dance starts in left open facing position, man facing line of dance, about 8 fe
 
 > ; ; Left Side Pass - Kick Ball Change; ;
 
-# Bridge2 (9 measures) [2:19] (LOD)
+# Interlude2 (9 measures) [2:19] (LOD)
 
 > Underarm Turn; -, -, Sugar Push (with extra rock); ; -,-, Left Side Pass Tuck & Spin;
 
 > ; Sugar Push (with extra rock); ; Back Walk 2 (both turn to face wall) & Hold; ;
 
-# C (10 measures) [02:41]
+# C (8 measures) [02:41]
 
 > Turkey Walk in 8; (to face); Slow Swivel Back to Back; Slow Swivel to Face;
 
-> Back Cross Points (four times); ; ; ; ; Hold, -, Sugar Push; ;
+> Back Cross Points (four times); ; Hold, -, Sugar Push; ;
 
 # D (8 measures) [2:58]
 

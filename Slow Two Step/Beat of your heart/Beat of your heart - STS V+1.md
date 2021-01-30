@@ -10,7 +10,7 @@
 
 *Dance starts in open facing position, facing partner and wall, lead feet free and hands at sides, wait 2 measures*
 
-# Intro ()
+# Intro (2 measures)
 
 > Wait 2; ; Lunge basics (with arms); ;
 
