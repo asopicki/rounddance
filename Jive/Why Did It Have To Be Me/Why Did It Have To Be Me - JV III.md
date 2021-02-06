@@ -1,4 +1,4 @@
-# Why DId It Have To Be Me
+# Why Did It Have To Be Me
 *Song by ABBA (Album: Arrival, Track 8, 3:20)*
 
 * **Choreographer**: Jerry & Bonnie Callen
@@ -29,11 +29,11 @@
 
 # B (16 measures) []
 
-> Fallawy Rock ~ Jive Walks; ; ; Swivel Walk 4;
+> Fallaway Rock ~ Jive Walks; ; ; Swivel Walk 4;
 
 > Throwaway; Link Rock; -, -, Right Turning Fallaway; (to face center);
 
-> Fallawy Rock ~ Jive Walks; ; ; Swivel Walk 4;
+> Fallaway Rock ~ Jive Walks; ; ; Swivel Walk 4;
 
 > Throwaway; Link Rock (man face center); -, -, Right Turning Fallaway; (to face wall);
 
@@ -61,11 +61,11 @@
 
 # B (16 measures) []
 
-> Fallawy Rock ~ Jive Walks; ; ; Swivel Walk 4;
+> Fallaway Rock ~ Jive Walks; ; ; Swivel Walk 4;
 
 > Throwaway; Link Rock; -, -, Right Turning Fallaway; (to face center);
 
-> Fallawy Rock ~ Jive Walks; ; ; Swivel Walk 4;
+> Fallaway Rock ~ Jive Walks; ; ; Swivel Walk 4;
 
 > Throwaway; Link Rock (man face center); -, -, Right Turning Fallaway; (to face wall);
 
