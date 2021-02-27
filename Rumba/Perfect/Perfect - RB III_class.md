@@ -6,7 +6,7 @@
 * **Phase**: III
 * **Steplevel**: B (B8)
 * **Difficulty**: Easy
-* **Sequence**: Intro - ABC - AB - BC - Inter - B - Ending
+* **Sequence**: Intro - ABC - AB - BD - Inter - B - Ending
 * **Music**: Perfect, One Direction
 
 *Dance starts in facing position, m facing wall and partner, lead feet free, waitng 2 measures*
@@ -30,7 +30,7 @@
 
 > Alemana; ; Lariat; ;
 
-> Shoulder to shoulder; (twice); Cucaracha Cross; (twice);
+> Shoulder to shoulder; (twice); Cucaracha Cross; Cucaracha;
 
 # C (9 measures) [01:02]
 
@@ -50,19 +50,19 @@
 
 > Alemana; ; Lariat; ;
 
-> Shoulder to shoulder; (twice); Cucaracha Cross; (twice);
+> Shoulder to shoulder; (twice); Cucaracha Cross; Cucaracha;
 
 # B (8 measures) [02:02]
 
 > Alemana; ; Lariat; ;
 
-> Shoulder to shoulder; (twice); Cucaracha Cross; (twice);
+> Shoulder to shoulder; (twice); Cucaracha Cross; Cucaracha;
 
-# C (9 measures) [02:22]
+# D (9 measures) [02:22]
 
-> Chase double Peek-a-Boo; ; ; ;
+> Half Basic; Fan; Hockey Stick; ;
 
-> ; ; ; ;
+> Crab Walk; Side Walk; Fence Line; Spot Turn;
 
 > New Yorker in 4;
 
@@ -76,7 +76,7 @@
 
 > Alemana; ; Lariat; ;
 
-> Shoulder to shoulder; (twice); Cucaracha Cross; (twice);
+> Shoulder to shoulder; (twice); Cucaracha Cross; Cucaracha;
 
 # Ending (9 measures) [03:22]
 

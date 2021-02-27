@@ -8,7 +8,12 @@
 * **Sequence**: Intro - A - Inter - A - Inter - B - Inter2 - C - Ending
 * **Music**: Insellied (Version 2011) by Rabaue
 
+
 *Dance starts in low butterfly position, man facing wall, waiting for the music and then waiting 2 measures*
+
+
+*Note: Slow down 3%*
+
 
 
 # Intro (16 measures)
@@ -17,17 +22,17 @@
 
 > Chase; ; ; ;
 
-> Forward basic; Underarm turn; Open break; Through, face, close;
+> Half Basic; Underarm turn; Open break; Through, face, close;
 
 > Scallop; ; Cross Body; ;
 
 # A (32 measures)
 
-> Forward basic; Underarm turn; New Yorker; Spot turn;
+> Half Basic; Underarm turn; New Yorker; Spot turn;
 
 > New Yorker (to open); Swivel walk 6; ; Through, face, close;
 
-> Forward basic; Underarm turn; New Yorker; Spot turn;
+> Half Basic; Underarm turn; New Yorker; Spot turn;
 
 > New Yorker (to open); Through, face, close; Chase underarm pass; ;
 
@@ -43,13 +48,13 @@
 
 > Chase; ; ; ;
 
-# A (24 measures)
+# A (32 measures)
 
-> Forward basic; Underarm turn; New Yorker; Spot turn;
+> Half Basic; Underarm turn; New Yorker; Spot turn;
 
 > New Yorker (to open); Swivel walk 6; ; Through, face, close;
 
-> Forward basic; Underarm turn; New Yorker; Spot turn;
+> Half Basic; Underarm turn; New Yorker; Spot turn;
 
 > New Yorker (to open); Through, face, close; Chase underarm pass; ;
 
@@ -67,15 +72,15 @@
 
 # B (24 measures)
 
-> Side, draw, close; (twice); Forward basic; Underarm turn;
+> Side, draw, close; (twice); Half Basic; Underarm turn;
 
 > Lariat; ; Hand to hand; (twice);
 
-> Forward basic; Underarm turn; New Yorker; Spot turn;
+> Basic; ; New Yorker; Spot turn;
 
 > New Yorker (to open); Swivel walk 6; ; Through, face, close;
 
-> Forward basic; Aida; Back basic; Patty Cake Tap;
+> Half basic; Aida; Back basic; Patty Cake Tap;
 
 > Back basic; Cucaracha (to face); Chase with underarm pass; ;
 
@@ -85,9 +90,9 @@
 
 # C (32 measures)
 
-> Shoulder to shoulder; (twice); New Yorker (to open); Through, face, close;
+> Shoulder to Shoulder; (twice); New Yorker (to open); Through, face, close;
 
-> Forward basic; Aida; Back basic; Cucaracha (to face);
+> Half Basic; Aida; Back basic; Cucaracha (to face);
 
 > Fence line; New Yorker; Spot turn; (twice);
 
@@ -97,14 +102,14 @@
 
 > Back basic; Cucaracha (to face); Hand to hand; Through, face, close;
 
-> Chase Double-Peek-a-boo; ; ; ;
+> Half Basic; Crab Walks; ; Spot Turn;
 
-> ; ; ; ;
+> Aida; Switch Cross; Crab Walk Ending; Spot Turn;
 
 # Ending (8 measures)
 
-> Forward basic; Underarm turn; Chase underarm pass; ;
+> Half basic; Underarm turn; Chase underarm pass; ;
 
-> Spot turn; (twice); Hand to hand; Through, apart & point;
+> Spot turn; (twice); Hand to hand; Through, apart & hands up;
 
-<meta name="x:audio-file" content="r/Rabaue/Rabaue - Insellied (Version 2011).mp3">
+

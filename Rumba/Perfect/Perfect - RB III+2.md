@@ -6,7 +6,7 @@
 * **Phase**: III+2 (Aida, Switch Rock)
 * **Steplevel**: C1+1 (Switch Rock)
 * **Difficulty**: Easy
-* **Sequence**: Intro - ABC - AB - BC - Inter - B - Ending
+* **Sequence**: Intro - ABC - AB - BD - Inter - B - Ending
 * **Music**: Perfect, One Direction
 
 *Dance starts in facing position, m facing wall and partner, lead feet free, waitng 2 measures*
@@ -28,7 +28,7 @@
 
 # B (8 measures) [00:42]
 
-> Half basic; Underarm turn; Lariat; ;
+> Alemana; ; Lariat; ;
 
 > Shoulder to shoulder; Aida; Switch rock; Spot turn;
 
@@ -48,21 +48,21 @@
 
 # B (8 measures) [01:43]
 
-> Half basic; Underarm turn; Lariat; ;
+> Alemana; ; Lariat; ;
 
 > Shoulder to shoulder; Aida; Switch rock; Spot turn;
 
 # B (8 measures) [02:02]
 
-> Half basic; Underarm turn; Lariat; ;
+> Alemana; ; Lariat; ;
 
 > Shoulder to shoulder; Aida; Switch rock; Spot turn;
 
-# C (9 measures) [02:22]
+# D (9 measures) [02:22]
 
-> Chase double Peek-a-Boo; ; ; ;
+> Half Basic; Fan; Hockey Stick; ;
 
-> ; ; ; ;
+> Crab Walk; Side Walk; Fence Line; Spot Turn;
 
 > New Yorker in 4;
 
@@ -74,7 +74,7 @@
 
 # B (8 measures) [03:02]
 
-> Half basic; Underarm turn; Lariat; ;
+> Alemana; ; Lariat; ;
 
 > Shoulder to shoulder; Aida; Switch rock; Spot turn;
 

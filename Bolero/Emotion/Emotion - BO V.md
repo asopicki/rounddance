@@ -50,7 +50,7 @@
 
 > Lunge break; Underarm turn (to butterfly);
 
-# C (12 measures)
+# C(1-12) (12 measures)
 
 > Opening out; (twice); Basic ending; Right pass; New Yorker; New Yorker in 4;
 
@@ -66,7 +66,7 @@
 
 > Lunge break; Underarm turn (to butterfly);
 
-# C (12 measures)
+# C(1-10) (10 measures)
 
 > Opening out; (twice); Basic ending; Right pass; New Yorker; New Yorker in 4;
 

@@ -82,4 +82,4 @@
 
 > Two Left Turns; (to face wall); Twisty Vine; Maneuver;
 
-> Two Right Turns; ; Walk & Check; Dip back & Twist;
+> Two Right Turns (to face line); ; Walk & Check; Dip back & Twist;

@@ -8,7 +8,12 @@
 * **Sequence**: Intro - AB - ABB - CB - Ending
 * **Music**: Just the way you are, Dick Brave and the Backbeats
 
+
 *Dance starts in left open facing partner and line of dance, wait 3 pickup notes, lead feet free*
+
+
+*Note: Increase speed to 105%*
+
 
 # Intro
 

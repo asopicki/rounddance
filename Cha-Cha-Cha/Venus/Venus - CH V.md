@@ -61,7 +61,7 @@
 
 # Bridge (1 Measures)
 
-> Quick Merengue in 4;
+> Merengue 4;
 
 # D (8 Measures)
 

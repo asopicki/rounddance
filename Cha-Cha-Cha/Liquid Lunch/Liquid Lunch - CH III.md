@@ -79,13 +79,13 @@
 
 # E (8 measures) (Cha-Cha) []
 
-> Vine 2 Face to Face; Vine 2 Back to Back; Traveling Doors; (twice);
+> Vine 2 Face to Face; Vine 2 Back to Back; Traveling Door; (twice);
 
 > Chase Peek-a-Boo; ; ; ;
 
 # E (8 measures) (Cha-Cha) []
 
-> Vine 2 Face to Face; Vine 2 Back to Back; Traveling Doors; (twice);
+> Vine 2 Face to Face; Vine 2 Back to Back; Traveling Door; (twice);
 
 > Chase Peek-a-Boo; ; ; ;
 
@@ -101,4 +101,10 @@
 
 > (both turn); (only man turns); New Yorker; Spot Turn;
 
+
 > Apart, Point;
+
+
+
+
+

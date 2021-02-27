@@ -44,7 +44,7 @@
 
 > Figure 8; ; ; ;
 
-> Merengue Basic; Cucaracha; (twice);
+> Merengue 4; Cucaracha; (twice);
 
 # A
 

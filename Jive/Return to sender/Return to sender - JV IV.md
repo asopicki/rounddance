@@ -16,7 +16,7 @@
 
 # A
 
-> Chassé left & right; Fallaway Throwaway (to a right handshake) - Triple Wheel (to face reverse line of dance); ; ; ;
+> Chassé left & right; Fallaway Throwaway (to a right handshake) - Triple Wheel 3 (to face reverse line of dance); ; ; ;
 
 > Change hands behind the back - Link rock; ; ; ;
 
@@ -24,7 +24,7 @@
 
 > Pretzel turn - Double Rock - Unwrap the Pretzel - Fallaway Rock (to a right handshake) ; ; ; ; ;
 
-> Miami special - Kick/Ball change - Slide across in 3 - Roll to face in 3; ; ;
+> Miami special (to left open) - Kick/Ball change - Slide across in 3 - Roll to face in 3; ; ;
 
 > Basic - Change right to left; ; ;
 
@@ -34,7 +34,7 @@
 
 # A
 
-> Chassé left & right; Fallaway Throwaway (to a right handshake) - Triple Wheel (to face reverse line of dance); ; ; ;
+> Chassé left & right; Fallaway Throwaway (to a right handshake) - Triple Wheel 3 (to face reverse line of dance); ; ; ;
 
 > Change hands behind the back - Link rock; ; ; ;
 
@@ -42,7 +42,7 @@
 
 > Pretzel turn - Double Rock - Unwrap the Pretzel - Fallaway Rock (to a right handshake) ; ; ; ; ;
 
-> Miami special - Kick/Ball change - Slide across in 3 - Roll to face in 3; ; ;
+> Miami special (to left open) - Kick/Ball change - Slide across in 3 - Roll to face in 3; ; ;
 
 > Basic - Change right to left; ; ;
 
@@ -52,7 +52,7 @@
 
 # A
 
-> Chassé left & right; Fallaway Throwaway (to a right handshake) - Triple Wheel (to face reverse line of dance); ; ; ;
+> Chassé left & right; Fallaway Throwaway (to a right handshake) - Triple Wheel 3 (to face reverse line of dance); ; ; ;
 
 > Change hands behind the back - Link rock; ; ; ;
 
@@ -64,4 +64,4 @@
 
 > Apart, Acknowledge,
 
-<meta name="x:audio-file" content="e/Elvis Presley/Elvis 30 #1 Hits/23 - Return to Sender.mp3">
+
