@@ -8,7 +8,12 @@
 * **Sequence**: Intro - AB - ABC - A(1-8)BB - Ending
 * **Music**: Truly Madly Deeply, Savage Garden
 
+
 *Dance starts in butterfly position, man facing wall, waiting one measure*
+
+
+***Note: Fade out at the end***
+
 
 
 # Intro (4 measures)
@@ -19,7 +24,7 @@
 
 > Forward Basic; Back basic; Chase with Underarm pass; ;
 
-> Forward Basic; Back basic; Chase with Underarm pass;  ;
+> Forward Basic; Back basic; Chase with Underarm pass; ;
 
 > Forward break; Underarm turn; Lariat; ;
 
@@ -35,7 +40,7 @@
 
 > Forward Basic; Back basic; Chase with Underarm pass; ;
 
-> Forward Basic; Back basic; Chase with Underarm pass;  ;
+> Forward Basic; Back basic; Chase with Underarm pass; ;
 
 > Forward break; Underarm turn; Lariat; ;
 
@@ -59,7 +64,7 @@
 
 > Forward Basic; Back basic; Chase with Underarm pass; ;
 
-> Forward Basic; Back basic; Chase with Underarm pass;  ;
+> Forward Basic; Back basic; Chase with Underarm pass; ;
 
 # B (8 measures)
 

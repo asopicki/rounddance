@@ -21,7 +21,7 @@
 
 > Side two step left; (and right); Side two step left; (and right);
 
-> Vine 8; ; Circle away and together; ;
+> Box; ; Face to face; Back to back;
 
 # Bridge
 
@@ -33,23 +33,7 @@
 
 > Side two step left; (and right); Side two step left; (and right);
 
-> Vine 8; ; Circle away and together; ;
-
-# Bridge
-
-> Basketball turn; ;
-
-# C
-
-> Lace up; ; ; ; Side two step apart & together; ; Double hitch; ;
-
-# A
-
-> Circle away two two steps; ; Walk together in 4; ;
-
-> Side two step left; (and right); Side two step left; (and right);
-
-> Vine 8; ; Circle away and together; ;
+> Box; ; Face to face; Back to back;
 
 # Bridge
 
@@ -65,10 +49,30 @@
 
 > Side two step left; (and right); Side two step left; (and right);
 
-> Box; ; Circle away and together; ;
+
+
+> Box; ; Face to face; Back to back;
+
+# Bridge
+
+> Basketball turn; ;
+
+# C
+
+> Lace up; ; ; ; Side two step apart & together; ; Double hitch; ;
+
+# A
+
+> Circle away two two steps; ; Walk together in 4; ;
+
+> Side two step left; (and right); Side two step left; (and right);
+
+
+
+> Box; ; Face to face; Back to back;
 
 # Ending
 
 > Side, draw, close; Twirl 2; Side, draw, close; Twirl 2; Step apart,
 
-<meta name="x:audio-file" content="r/Ron Goodwin and His Orchestra/Murder She Said - The Miss Marple Theme/01 Murder She Said - The Miss Marple.mp3" >
+

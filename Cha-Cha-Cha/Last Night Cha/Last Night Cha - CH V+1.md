@@ -1,15 +1,15 @@
 # Last Night Cha
 
-_Song by Chris Anderson & DJ Robbie (Album: Dance! Party Video Collection & CD, Track 4, 3:26)_
+*Song by Chris Anderson & DJ Robbie (Album: Dance! Party Video Collection & CD, Track 4, 3:26)*
 
-- **Choreographer**: Curt & Tammy Worlock
-- **Rhythm**: Cha-Cha-Cha
-- **Phase**: V+1 (Coca Rola)
-- **Difficulty**: Average
-- **Sequence**: Intro - ABC - Inter - D - Bridge1 - ABD - Bridge2 - C - Ending
-- **Music**: Last Night, Chris Anderson & DJ Robbie
+* **Choreographer**: Curt & Tammy Worlock
+* **Rhythm**: Cha-Cha-Cha
+* **Phase**: V+1 (Coca Rola)
+* **Difficulty**: Average
+* **Sequence**: Intro - ABC - Inter - D - Bridge1 - ABD - Bridge2 - C - Ending
+* **Music**: Last Night, Chris Anderson & DJ Robbie
 
-_Dance starts in open facing position, man facing wall, lead feet free, waiting two measures_
+*Dance starts in open facing position, man facing wall, lead feet free, waiting two measures*
 
 # Intro (2 measures) [00:00]
 

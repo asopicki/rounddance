@@ -26,7 +26,7 @@
 
 > Turn left, Right chassé; Outside change (to semi); Promenade lock; Right lunge;
 
-> Back, Back lock; Back; Back whisk; Semi chassé; Pickup (to diagonal wall); Change of direction;
+> Back, Back lock, Back; Back whisk; Semi chassé; Pickup (to diagonal wall); Change of direction;
 
 # A
 
@@ -40,7 +40,7 @@
 
 > Turn left, Right chassé; Outside change (to semi); Promenade lock; Right lunge;
 
-> Back, Back lock; Back; Back whisk; Semi chassé; Pickup (to diagonal wall); Change of direction;
+> Back, Back lock, Back; Back whisk; Semi chassé; Pickup (to diagonal wall); Change of direction;
 
 # A
 
@@ -54,4 +54,4 @@
 
 > Two left turns; ; Whisk; Through, Face, Close; Apart, Point, -;
 
-<meta name="x:audio-file" content="w/Werner Tauber/lw - 29 - Theme From 'Molly Maguires' - Werner Tauber Feat. Rias Dance Orchestra & Strings - (Step By Step) - Casaphon - CE,FM,TO,IN.mp3">
+

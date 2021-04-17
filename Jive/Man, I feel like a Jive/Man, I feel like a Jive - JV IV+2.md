@@ -1,16 +1,14 @@
 # Man, I feel like a Jive
-*Song by Shania Twain (Album: Up!, Track ??)*
+*Song by Shania Twain (Album: Come on over, Track 6, Duration 3:52)*
 
 * **Choreographer**: Susie & Gert-Jan Rotscheid
 * **Rhythm**: Jive
 * **Phase**: IV+2+1 (Mooch, Flicks into breaks, Swing out)
-* **Difficulty**: ??
-* **Sequence**: Intro - A - Bridge - AB - Bridge 2x - A* - BC - B - Ending
+* **Difficulty**: Average
+* **Sequence**: Intro - A - Bridge - AB - Bridge 2x - A* - BC - B* - Ending
 * **Music**: Man, I feel like a woman, Shania Twain
 
 *Dance starts in overturned throwaway position, both facing line of dance, lead hands joined, lead feet free, wait 2 measures*
-
-#TODO: REWRITE NEEDED!!
 
 # Intro
 
@@ -40,19 +38,19 @@
 
 > Mooch; ; ; ; ;
 
-> Double rock; Right turning fallaway (to half open); (to reverse) Mooch; ; ; ; ;
+> Double rock; (into) Right turning fallaway (to half open); (to reverse) Mooch; ; ; ; ;
 
-> Change right to left (to reverse, to a handshake); Triple wheel  (to face center); ; ; ; Rock, Recover,
-
-# Bridge
-
-> Hip rock (two slows); (two quicks & hold);
+> Change right to left (to reverse, to a handshake); Triple wheel (to face center); ; ; ; Rock, Recover,
 
 # Bridge
 
 > Hip rock (two slows); (two quicks & hold);
 
-# A
+# Bridge
+
+> Hip rock (two slows); (two quicks & hold);
+
+# A*
 
 > Chassé left & right; Swing out ~ Cross check, Recover, Chassé (twice, to face, man facing line) ~ Change left to right; ; ; ; ;
 
@@ -64,9 +62,9 @@
 
 > Mooch; ; ; ; ;
 
-> Double rock; Right turning fallaway (to half open); (to reverse) Mooch; ; ; ; ;
+> Double rock; (into) Right turning fallaway (to half open); (to reverse) Mooch; ; ; ; ;
 
-> Change right to left (to reverse, to a handshake); Triple wheel  (to face wall); ; ; ; Rock, Recover,
+> Change right to left (to reverse, to a handshake); Triple wheel (to face wall); ; ; ; Rock, Recover,
 
 # C
 
@@ -74,15 +72,15 @@
 
 > Double rock; Unwrap to face; Double rock apart;
 
-# B
+# B*
 
-> Spanish arms (twice) ~ Basic; ; ; (to half open);
+> (into) Spanish arms (twice) ~ Basic; ; ; (to half open);
 
 > Mooch; ; ; ; ;
 
-> Double rock; Right turning fallaway (to half open); (to reverse) Mooch; ; ; ; ;
+> Double rock; (into) Right turning fallaway (to half open); (to reverse) Mooch; ; ; ; ;
 
-> Change right to left (to reverse, to a handshake); Triple wheel  (to face wall); ; ; ; Rock, Recover,
+> Change right to left (to reverse, to a handshake); Triple wheel (to face wall); ; ; ; Rock, Recover,
 
 # Ending
 
@@ -94,4 +92,3 @@
 
 > Throwaway; Chicken walks (two slows); (4 quicks); Jump apart & hold,,
 
-<meta name="x:audio-file" content="s/Shania Twain/Greatest Hits/Shania Twain - Man! I Feel Like a Woman!.mp3">

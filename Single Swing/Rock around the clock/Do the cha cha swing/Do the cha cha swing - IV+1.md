@@ -22,7 +22,7 @@
 
 > Change Places Right to Left; -,-, Shoulder Shove; ; Stop & Go;
 
-> ; Change Places Left to Right; -,-, Link Rock; ;
+> ; Change Places Left to Right; -,-, Link Rock; (to right handshake);
 
 # B (16 measures) []
 
@@ -42,7 +42,7 @@
 
 > Change Places Right to Left; -,-, Shoulder Shove; ; Stop & Go;
 
-> ; Change Places Left to Right; -,-, Link Rock; ;
+> ; Change Places Left to Right; -,-, Link Rock; (to right handshake);
 
 # B (16 measures) []
 
@@ -60,7 +60,7 @@
 
 > -,-, Windmill; ; (twice); -,- Change Places Left to Right;
 
-> ; Change Hands behind the back; -,- (twice); ;
+> ; Change Hands behind the back; -,- (twice); (to right handshake);
 
 # B (16 measures) []
 
@@ -88,7 +88,7 @@
 
 > -,-, Windmill; ; (twice); -,- Change Places Left to Right;
 
-> ; Change Hands behind the back; -,- (twice); ;
+> ; Change Hands behind the back; -,- (twice); (to right handshake);
 
 # B (16 measures) []
 

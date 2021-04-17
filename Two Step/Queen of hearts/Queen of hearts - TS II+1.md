@@ -10,7 +10,7 @@
 
 *Dance starts in semi closed position, lead feet free, waiting 2 measures*
 
-# Intro     
+# Intro
 
 > Wait 2; ; Two forward two steps; ;
 
@@ -94,7 +94,7 @@
 
 > Traveling box; ; ; ;
 
-> Walk & Face;
+> Walk & Pickup;
 
 # Ending
 

@@ -1,9 +1,9 @@
-# Poker Face
+# Poker Face (Covid Version)
 *Song by Lady Gaga (Album: The Fame, Track 4)*
 
 * **Choreographer**: Andrea Fartmann
 * **Rhythm**: Cha-Cha-Cha
-* **Phase**: V
+* **Phase**: V (Chassé Roll)
 * **Sequence**: Intro - A - B - A - B* - Int - B - Ending
 * **Music**: Poker Face, Lady Gaga
 
@@ -29,11 +29,11 @@
 
 > Half basic; Fan; Hockeystick; ;
 
-> Start chase with triple cha ; ; Peek-a-Boo (twice) ; ;
+> Back break (to open) with triple cha forward; ; Rock Forward, Recover, Triple Cha Back; ;
 
-> Continue chase with triple cha; ; Peek-a-Boo (twice) ; ;
+> Sliding doors; ; Cucaracha apart (to face); Cucaracha Right (to butterfly);
 
-> Finish chase; ; Time step (twice) ; ;
+> Shoulder to Shoulder; (twice); Time step (twice) ; ;
 
 > Chassé roll; ; Chassé roll reverse ; ;
 
@@ -47,11 +47,11 @@
 
 > Alemana; ; Lariat; ;
 
-> Start chase with triple cha ; ; Peek-a-Boo (twice) ; ;
+> Back break (to open) with triple cha forward; ; Rock Forward, Recover, Triple Cha Back; ;
 
-> Continue chase with triple cha; ; Peek-a-Boo (twice) ; ;
+> Sliding doors; ; Cucaracha apart (to face); Cucaracha Right (to butterfly);
 
-> Finish chase; ; Time step (twice) ; ;
+> Shoulder to Shoulder; (twice); Time step (twice) ; ;
 
 > Chassé roll; ; Chassé roll reverse ; ;
 
@@ -67,11 +67,11 @@
 
 > Half basic; Fan; Hockeystick; ;
 
-> Start chase with triple cha ; ; Peek-a-Boo (twice) ; ;
+> Back break (to open) with triple cha forward; ; Rock Forward, Recover, Triple Cha Back; ;
 
-> Continue chase with triple cha; ; Peek-a-Boo (twice) ; ;
+> Sliding doors; ; Cucaracha apart (to face); Cucaracha Right (to butterfly);
 
-> Finish chase; ; Time step (twice) ; ;
+> Shoulder to Shoulder; (twice); Time step (twice) ; ;
 
 > Chassé roll; ; Chassé roll reverse ; ;
 
@@ -85,4 +85,3 @@
 
 > Apart & point;
 
-<meta name="x:audio-file" content="l/Lady Gaga/Lady Gaga - Poker face.mp3">

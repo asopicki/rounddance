@@ -1,16 +1,18 @@
 # Little Papillon
-*Song by Secret Garden(Album: Songs from a Secret Garden, Track 5, 3:26)*
- 
+
+
+*Song by Manuel (Album: Vol. 14: The Best Of Ballroom Music - Part 06, Track 1, 3:43)*
+
 * **Choreographer**: Michael & Regina Schmidt
 * **Rhythm**: Waltz
 * **Phase**: IV+2 (Double Reverse Spin, Quick Open Reverse)
 * **Difficulty**: Average
 * **Sequence**: Intro - ABC - C(1-6) - Inter - ABCC - Ending
-* **Music**: Papillon, Secret Garden 
- 
- 
+* **Music**: Papillon, Manuel
+
+
 *Dance starts in closed position, man facing diagonal line and center, lead feet free, waiting two measures*
- 
+
 # Intro (4 measures) [00:00]
 
 > Wait 2; ; Start Diamond Turn; ;
@@ -19,7 +21,7 @@
 
 > Twinkle Through (three times); ; ; Pickup;
 
-# A (16 measures) [] 
+# A (16 measures) []
 
 > Two left turns; ; Whisk; Chassé (to semi);
 
@@ -33,7 +35,7 @@
 
 > Two Left Turns; ; Whisk; Wing (to sidecar);
 
-> Turn Left & Chassé Right; Outside Change (to banjo); Maneuver; Hesitation Change; 
+> Turn Left & Chassé Right; Outside Change (to banjo); Maneuver; Hesitation Change;
 
 # C (8 measures) []
 
@@ -51,7 +53,7 @@
 
 > Impetus (to semi); Weave 6; (to semi); Pickup;
 
-# A (16 measures) [] 
+# A (16 measures) []
 
 > Two left turns; ; Whisk; Chassé (to semi);
 
@@ -65,7 +67,7 @@
 
 > Two Left Turns; ; Whisk; Wing (to sidecar);
 
-> Turn Left & Chassé Right; Outside Change (to banjo); Maneuver; Hesitation Change; 
+> Turn Left & Chassé Right; Outside Change (to banjo); Maneuver; Hesitation Change;
 
 # C (8 measures) []
 

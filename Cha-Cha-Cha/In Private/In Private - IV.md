@@ -17,7 +17,7 @@
 
 > Hand to Hand; (twice); Back break (to open); Walking Cha;
 
-> Sliding doors; ; Circle chase; ;
+> Sliding doors; ; Circle cha; ;
 
 > Chase Peek-a-boo; ; ; ;
 

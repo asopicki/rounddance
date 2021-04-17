@@ -1,6 +1,6 @@
 # Din Idiot
 
-_Song by Norlie & KKV (Album: Din Idiot, Track 3, 3:39)_
+_Song by Norlie & KKV (Album: Alla våra låtar, Track 3, 3:39)_
 
 - **Choreographer**: Alexander Sopicki & Andrea Fartmann
 - **Rhythm**: West Coast Swing
@@ -35,7 +35,7 @@ _Dance starts in facing position, man facing line of dance, about 8 feet apart, 
 
 > Underarm Turn; -, -, Sugar Push (with extra rock); ; -,-, Left Side Pass Tuck & Spin;
 
-> ; Sugar Push (with extra rock); ; Back Walk 2 & Point & Hold; ;
+> ; Sugar Push (with extra rock); ; Back Walk 2 & Point & Hold; Kickball Change & Hold;
 
 # A (16 measures) [01:24] (ROD)
 
@@ -58,7 +58,7 @@ _Dance starts in facing position, man facing line of dance, about 8 feet apart, 
 
 > Underarm Turn; -, -, Sugar Push (with extra rock); ; -,-, Left Side Pass Tuck & Spin;
 
-> ; Sugar Push (with extra rock); ; Back Walk 2 (both turn to face wall) & Hold; ;
+> ; Sugar Push (with extra rock); ; Back Walk 2 (both turn to face wall) & Hold; Kickball Change & Hold;
 
 # C (8 measures) [02:41]
 

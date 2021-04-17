@@ -25,7 +25,7 @@
 
 # A (8 Measures) []
 
-> Alemana; ; Half Basic; Whip;
+> Open Hip Twist; Fan; Alemana Preparation; Whip;
 
 > Fence line; (twice); Half Basic; Whip & Twirl;
 
@@ -35,17 +35,17 @@
 
 > Vine 8; ; Traveling Door; (twice);
 
-> Vine 8 (with snaps); ; Cucaracha (with caress); (twice);
+> Vine 8 (with snaps); ; Cucaracha Left & Right; (to right handshake);
 
 # C (8 Measures)
 
-> Chase Double Peek-a-Boo; ; ;
+> Flirt; ; Sweetheart; (twice, lady to a fan);
 
-> ; ; ; ;
+> Hockeystick; ; Challenge Chase; ;
 
 # A (8 Measures)
 
-> Alemana; ; Half Basic; Whip;
+> Open Hip Twist; Fan; Alemana Preparation; Whip;
 
 > Fence line; (twice); Half Basic; Whip & Twirl;
 
@@ -79,7 +79,7 @@
 
 # A (8 Measures)
 
-> Alemana; ; Half Basic; Whip;
+> Open Hip Twist; Fan; Alemana Preparation; Whip;
 
 > Fence line; (twice); Half Basic; Whip & Twirl;
 

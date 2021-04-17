@@ -1,20 +1,20 @@
 # Papillon
-*Song by Secret Garden (Album: Songs from a Secret Garden, Track 5, 3:26)*
- 
+*Song by Manuel (Album: Vol. 14: The Best Of Ballroom Music - Part 06, Track 1, 3:43)*
+
 * **Choreographer**: Richard Lamberty
 * **Rhythm**: Waltz
 * **Phase**: VI
 * **Difficulty**: Average
 * **Sequence**: Intro - AA(1-8) - B - Bridge- AA(1-8) - BB(1-8) - Ending
-* **Music**: Papillon, Secret Garden 
- 
+* **Music**: Papillon, Manuel
+
 *Dance starts in open facing position, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (12 measures) [00:00]
 
-> Wait 2; ; Roll Three; Through, Face, Close; 
+> Wait 2; ; Roll Three; Through, Face, Close;
 
-> Vine Three; Through, Face, Close; Roll Three; Through, Face, Close; 
+> Vine Three; Through, Face, Close; Roll Three; Through, Face, Close;
 
 > Closed Hover; Box Finish; Closed Telemark; Maneuver;
 

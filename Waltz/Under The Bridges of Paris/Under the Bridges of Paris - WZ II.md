@@ -9,7 +9,7 @@
 * **Sequence**: Intro - AB - AB - Ending
 * **Music**: Under the Bridges of Paris, Foster Allen
 
-*Dance starts in closed position, man facing diagonal line and center, lead feet free, waiting 2 measures*
+*Dance starts in butterfly position, man facing wall, lead feet free, waiting 2 measures*
 
 # Intro (4 measures)
 
@@ -63,6 +63,6 @@
 
 # Notes
 
-*For step level A measures 9-12 in part B should be  Waltz away; & tog; sd canter 2x;;*
+*For step level A measures 9-12 in part B should be Waltz away; & tog; sd canter 2x;;*
 
 <meta name="x:audio-file" content="f/Foster Allen/Foster & Allen - Under The Bridges Of Paris.mp3">
