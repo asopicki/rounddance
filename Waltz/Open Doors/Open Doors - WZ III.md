@@ -6,7 +6,7 @@
 * **Rhythm**: Waltz
 * **Phase**: III
 * **Difficulty**: Average
-* **Sequence**: Intro - AB - Bridge - AB*C - Ending
+* **Sequence**: Intro - ABC - AB*D - Ending
 * **Music**: Open Doors, Secret Garden
 
 # Intro (8 measures)
@@ -35,7 +35,7 @@
 
 > Two left turns; (to face wall);
 
-# Bridge (8 measures)
+# C (8 measures)
 
 > Hover; Through, Face, Close; Lace Up; ;
 
@@ -61,7 +61,7 @@
 
 > Two left turns; (to face wall); Roll 3; Through, Face, Close;
 
-# C (14 measures) [2:42]
+# D (14 measures) [2:42]
 
 > Waltz away & together; ; Lace up; ;
 
@@ -75,4 +75,4 @@
 
 > ***Whisk***; Through Twinkle; (twice); Through, Face, Close;
 
-> Dip Back; Maneuver; Two right turns; ; Dip Back & Hold;
+> Dip Back; Maneuver; Two right turns; ; Dip Back & Twist;

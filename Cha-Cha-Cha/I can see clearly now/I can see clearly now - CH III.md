@@ -3,7 +3,7 @@
 
 * **Choreographer**: Ron & Ree Rumble
 * **Rhythm**: Cha-Cha-Cha
-* **Phase**: III+1
+* **Phase**: III
 * **Difficulty**: Average
 * **Sequence**: Intro - A - A(1-16) - B - AB(1-12) - Ending
 * **Music**: I can see clearly now, Jimmy Cliff

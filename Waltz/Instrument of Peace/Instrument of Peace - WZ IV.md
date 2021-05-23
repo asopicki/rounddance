@@ -44,7 +44,7 @@
 
 > Diamond Turn; ; ; (end in sidecar);
 
-> Progressive Twinkle (to banjo); Step to face, Side, Close; Hover (to semi); Weave 3;
+> Progressive Twinkle (to banjo); Step to face, Side, Close; Hover (to semi); Start a Weave;
 
 > Impetus Turn (to semi); Syncopated Vine; Weave; (to semi);
 
@@ -54,7 +54,7 @@
 
 > Diamond Turn; ; ; (end in sidecar);
 
-> Progressive Twinkle (to banjo); Step to face, Side, Close; Hover (to semi); Weave 3;
+> Progressive Twinkle (to banjo); Step to face, Side, Close; Hover (to semi); Start a Weave;
 
 > Impetus Turn (to semi); Syncopated Vine; Weave; (to semi);
 
