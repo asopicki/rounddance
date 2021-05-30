@@ -3,7 +3,7 @@
 
 * **Choreographer**: Andrea Hilpert & Alexander Pohl
 * **Rhythm**: Single Swing
-* **Phase**: Iv+1 (Stop & go)
+* **Phase**: IV+1 (Stop & go)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - AB - CBD - CB - Ending
 * **Music**: Do the cha cha swing, Alex swings Oscar sings!
