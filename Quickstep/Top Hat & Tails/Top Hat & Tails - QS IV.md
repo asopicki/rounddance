@@ -16,11 +16,11 @@
 
 # A (16 measures) []
 
-> Quarter Turns & Progressive Chassé; ; ; , Forward;
+> Foward, Quarter Turns & Progressive Chassé; ; ; , Forward;
 
 > Step Hop (twice); Forward, Lock, Forward; Maneuver, Side, Close; Pivot 2;
 
-> Quarter Turns & Progressive Chassé; ; ; , Forward (checking);
+> Forward, Quarter Turns & Progressive Chassé; ; ; , Forward (checking);
 
 > Whaletail; ; Strut 4; ;
 
@@ -36,11 +36,11 @@
 
 # A (16 measures) []
 
-> Quarter Turns & Progressive Chassé; ; ; , Forward;
+> Foward, Quarter Turns & Progressive Chassé; ; ; , Forward;
 
 > Step Hop (twice); Forward, Lock, Forward; Maneuver, Side, Close; Pivot 2;
 
-> Quarter Turns & Progressive Chassé; ; ; , Forward (checking);
+> Forward, Quarter Turns & Progressive Chassé; ; ; , Forward (checking);
 
 > Whaletail; ; Strut 4; ;
 
@@ -56,11 +56,11 @@
 
 # A (16 measures) []
 
-> Quarter Turns & Progressive Chassé; ; ; , Forward;
+> Foward, Quarter Turns & Progressive Chassé; ; ; , Forward;
 
 > Step Hop (twice); Forward, Lock, Forward; Maneuver, Side, Close; Pivot 2;
 
-> Quarter Turns & Progressive Chassé; ; ; , , Forward (checking);
+> Forward, Quarter Turns & Progressive Chassé; ; ; , Forward (checking);
 
 > Whaletail; ; Strut 4; ;
 

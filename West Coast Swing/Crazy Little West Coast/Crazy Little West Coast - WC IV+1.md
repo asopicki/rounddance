@@ -2,7 +2,7 @@
 *Song by Torsten Goods (Album: Ballroom 8 Mix, Track 32, 2:26)*
 
 * **Choreographer**: Mary & Bob Townsend-Manning
-* **Rhythm**: Rhythm
+* **Rhythm**: West Coast Swing
 * **Phase**: IV+1 (Whip Turn) +1 (Whip with Hand Change Behind the Back)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - CAB - Ending

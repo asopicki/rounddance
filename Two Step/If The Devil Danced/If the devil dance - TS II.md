@@ -56,7 +56,7 @@
 
 # Interlude (8 Measures)
 
-> Scoot; Walk 2; Progressive Sciccors; ;
+> Scoot; Walk 2; Progressive Sciccors;(twice) ;
 
 > Two Turning Two Steps; ; Twirl Vine 2; Walk 2 (to semi);
 

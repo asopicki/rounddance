@@ -22,9 +22,9 @@
 
 # B (8 measures) [0:25]
 
-> Turn left & chassé (to banjo); Open Impetus; Through Hover (to banjo); Back Hover (to semi); 
+> Turn left & chassé (to banjo); Open Impetus; Through Hover (to banjo); Back Hover (to semi);
 
-> Through Chassé (to banjo); Maneuver; Two quarter right turns (to line); ; 
+> Through Chassé (to banjo); Maneuver; Two quarter right turns (to line); ;
 
 # C (16 measures) [0:43]
 

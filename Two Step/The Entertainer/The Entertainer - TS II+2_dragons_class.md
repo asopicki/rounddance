@@ -26,7 +26,7 @@
 
 # B
 
-> Two forward two steps; ;  Double hitch; ;
+> Two forward two steps; ; Double hitch; ;
 
 > Two forward two steps; ; Twirl 2; Walk 2;
 
@@ -40,7 +40,7 @@
 
 > Face to face; Back to Back; Double Hitch; (to closed);
 
-> Two turning two steps; ; Two side closes; Side, Draw, Close;
+> Two turning two steps; ; **Two side closes**; Side, Draw, Close;
 
 > Travelling Box; ; ; ;
 
@@ -56,11 +56,11 @@
 
 # D
 
-> Slow vine in two; Side, Draw, Close; Slow vine in two; Side, Draw, Close;
+> **Walk & Face; Side, Draw, Close; Walk & Face; Side, Draw, Close;**
 
 > Face to face; Back to back; Twirl 2; Walk 2;
 
-> Slow vine in two; Side, Draw, Close; Slow vine in two; Side, Draw, Close;
+> Walk & Face; Side, Draw, Close; Walk & Face; Side, Draw, Close;
 
 > Face to face; Back to back; Twirl 2; Walk 2;
 
@@ -73,8 +73,8 @@
 
 # Ending
 
-> Two turning two steps; ; Slow vine 4; ;
+> Two turning two steps; ; Open vine 4; ;
 
 > Two forward two steps; ; Two side closes; Apart & Point;
 
-<meta name="x:audio-file" content="t/The Starlite Singers/10 The Starlite Singers - The Entertainer.mp3" >
+

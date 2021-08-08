@@ -25,7 +25,7 @@
 
 > Cross Hover (to banjo); Cross Hover (to sidecar); Cross Hover (to banjo); Forward, Face, Close;
 
-> Box; ; Twisty Vine 3; Through, Face, Close;
+> Box; ; Twisty Vine 3; Forward, Face, Close;
 
 # A (16 measures) []
 
@@ -35,7 +35,7 @@
 
 > Cross Hover (to banjo); Cross Hover (to sidecar); Cross Hover (to banjo); Forward, Face, Close;
 
-> Box; ; Twisty Vine 3; Through, Face, Close;
+> Box; ; Twisty Vine 3; Forward, Face, Close;
 
 # B (16 measures) []
 

@@ -9,7 +9,12 @@
 * **Steplevel**: A7
 * **Music**: Streets of Laredo by Rav Davis & his orchestra
 
+
 *Dance starts in open facing position, man facing wall, lead feet free, wait 2 measures*
+
+
+**Note: Increase speed to about 105%**
+
 
 # Intro
 

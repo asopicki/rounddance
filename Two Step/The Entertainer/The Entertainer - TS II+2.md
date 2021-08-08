@@ -18,7 +18,7 @@
 
 > Two Forward two steps; ; Charleston; ;
 
-> Two Forward two steps; ; Strut 4 (to closed);
+> Two Forward two steps; ; Strut 4; (to closed);
 
 > Box; ; Two side closes; Side, draw, close;
 
@@ -28,7 +28,7 @@
 
 > Face to face; Forward two step; Double hitch; (to butterfly);
 
-> Face to face; Forward two step; Double hitch; (to butterfly);
+> Face to face; Forward two step; Double hitch; ;
 
 > Sliding doors; ; ; ;
 
@@ -48,7 +48,7 @@
 
 > Face to face; Forward two step; Double hitch; (to butterfly);
 
-> Face to face; Forward two step; Double hitch; (to butterfly);
+> Face to face; Forward two step; Double hitch; ;
 
 > Sliding doors; ; ; ;
 
@@ -69,7 +69,7 @@
 
 > Face to face; Forward two step; Double hitch; (to butterfly);
 
-> Face to face; Forward two step; Double hitch; (to butterfly);
+> Face to face; Forward two step; Double hitch; ;
 
 
 # Ending
@@ -78,4 +78,4 @@
 
 > Two Forward two steps; ; Scoot; Apart & Point;
 
-<meta name="x:audio-file" content="t/The Starlite Singers/10 The Starlite Singers - The Entertainer.mp3" >
+

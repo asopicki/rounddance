@@ -9,6 +9,10 @@
 * **Sequence**: Intro - ABC - AB - BD - Inter - B - Ending
 * **Music**: Perfect, One Direction
 
+
+
+
+
 *Dance starts in facing position, m facing wall and partner, lead feet free, waitng 2 measures*
 
 # Intro (10 measures) [00:00]

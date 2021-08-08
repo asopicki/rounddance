@@ -33,7 +33,7 @@
 
 > Lariat 3 (man to face wall); (Flare to) Fence line; (twice);
 
-> Crab walks; ; Half Basic; Whip;
+> Crab walks; ; Spot Turn; Half Basic; Whip;
 
 # C (8 measures) [1:29]
 
@@ -49,7 +49,7 @@
 
 > Lariat 3 (man to face center); (Flare to) Fence line; (twice);
 
-> Crab walks; ; Half Basic; Whip;
+> Crab walks; ; Spot Turn; Half Basic; Whip;
 
 # Ending (4 measures) [2:26]
 
