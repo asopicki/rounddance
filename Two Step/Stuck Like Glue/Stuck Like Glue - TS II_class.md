@@ -3,7 +3,7 @@
 
 * **Choreographer**: Andrea Fartmann & [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
 * **Rhythm**: Two Step
-* **Phase**: II + 1 (Strolling Vine)
+* **Phase**: II
 * **Difficulty**: Average
 * **Sequence**: Intro - ABC - Bridge1 - AC - Inter - D - Bridge2 - C - Ending
 * **Music**: Stuck Like Glue, Lenka & Nick Howard

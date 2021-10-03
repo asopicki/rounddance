@@ -30,11 +30,11 @@
 
 > Forward waltz; Maneuver; Two backward waltzes; ;
 
-> Two right turns; (to face wall);
+> Two right turns; (to butterfly, face wall);
 
 > Twinkle Through; (twice);
 
-> Hover;  Pickup in 3; Two left turns; (to face wall);
+> Hover; Pickup in 3; Two left turns; (to face wall);
 
 > Left turning box; ; ; ;
 
@@ -58,11 +58,11 @@
 
 > Forward waltz; Maneuver; Two backward waltzes; ;
 
-> Two right turns; (to face wall);
+> Two right turns; (to butterfly, face wall);
 
 > Twinkle Through; (twice);
 
-> Hover;  Pickup in 3; Two left turns; (to face wall);
+> Hover; Pickup in 3; Two left turns; (to face wall);
 
 > Left turning box; ; ; ;
 
@@ -79,6 +79,6 @@
 
 # Ending
 
-> Canter; (twice);
+> Side Canter; Side Corté;
 
-<meta name="x:audio-file" content="d/DJ Ice/DJ Ice - River Flows In You (SW 29).mp3">
+

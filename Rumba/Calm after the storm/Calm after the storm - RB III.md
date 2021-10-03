@@ -30,7 +30,7 @@
 
 > Chase Peek-a-Boo; ; ; ;
 
-> Forward basic; Underarm Turn; Lariat; ;
+> Half Basic; Underarm Turn; Lariat; ;
 
 ## Part A (8 measures) [00:54]
 
@@ -48,13 +48,13 @@
 
 > Chase Peek-a-Boo; ; ; ;
 
-> Forward basic; Underarm Turn; Lariat; ;
+> Half Basic; Underarm Turn; Lariat; ;
 
 ## Part C (8 measures) [01:44]
 
 > Chase Peek-a-Boo; ; ; ;
 
-> Forward basic; Underarm Turn; Lariat; ;
+> Half Basic; Underarm Turn; Lariat; ;
 
 ## Part D (8 measures) [02:00]
 
@@ -72,10 +72,9 @@
 
 > Chase Peek-a-Boo; ; ; ;
 
-> Forward basic; Underarm Turn; Lariat; ;
+> Half Basic; Underarm Turn; Lariat; ;
 
 ## Ending (4 measures) [02:50]
 
 > Open break; Whip; Hand to hand; Whip; Open break (one step) & freeze;
 
-<meta name="x:audio-file" content="t/The Common Linnets/The Common Linnets - Calm After The Storm (Radio Edit).mp3">

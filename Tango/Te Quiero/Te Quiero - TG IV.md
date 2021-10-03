@@ -28,11 +28,11 @@
 
 > Double Chassé; Gaucho Turn in 4 (to face center); Double Chassé; Tango Draw;
 
-> Double Chassé; Gaucho Turn in 4 (to face wall); Double Chassé; Side Corté, Recover;
+> Double Chassé; Gaucho Turn in 4 (to face wall); Double Chassé; Side Corté, Recover (to butterfly);
 
 # C (16 measures) []
 
-> Through Serpiente; ; Walk, Maneuver; Pivot 3 (to semi);
+> Through Serpiente; (to semi, line of dance); Walk, Maneuver; Pivot 3 (to semi);
 
 > Forward Rock 3; Criss Cross; ; Corté, Recover;
 

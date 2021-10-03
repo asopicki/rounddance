@@ -3,7 +3,7 @@
 
 * **Choreographer**: JL and Linda Pelton
 * **Rhythm**: Rumba
-* **Phase**: IV+2 (Flirt, Full Naturl Top)
+* **Phase**: IV+2 (Flirt, Full Natural Top)
 * **Difficulty**: above average
 * **Sequence**: Intro - A - B - C - D - Ending
 * **Music**: Slow Rumba, Helmut Licht
