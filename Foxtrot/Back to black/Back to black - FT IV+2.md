@@ -3,7 +3,7 @@
 
 * **Choreographer**: Alfred Schnellert
 * **Rhythm**: Foxtrot
-* **Phase**: IV+2
+* **Phase**: IV+2 (Natural Hover Cross, Top Spin)
 * **Difficulty**: Average
 * **Sequence**: Intro - A - B - C - INTER - A - C - C - Ending
 * **Music**: Back to black, Amy Winehouse
@@ -40,7 +40,7 @@
 
 > Open Telemark; Natural Hover Cross; ; (Into) Top Spin;
 
->  Whisk; Feather; Reverse turn; ;
+> Whisk; Feather; Reverse turn; ;
 
 # INTER
 
@@ -60,13 +60,13 @@
 
 > Open Telemark; Natural Hover Cross; ; (Into) Top Spin;
 
->  Whisk; Feather; Reverse turn; ;
+> Whisk; Feather; Reverse turn; ;
 
 # C (8 measures)
 
 > Open Telemark; Natural Hover Cross; ; (Into) Top Spin;
 
->  Whisk; Feather; Reverse turn; ;
+> Whisk; Feather; Reverse turn; ;
 
 # Ending
 

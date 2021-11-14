@@ -4,10 +4,8 @@
 
 - **Choreographer**: Gabriele Langer
 - **Rhythm**: Cha-Cha-Cha
-
 - **Phase**: III
 - **Steplevel**: A22
-
 - **Difficulty**: Average
 - **Sequence**: Intro - AB - AB - AB - B* - Ending
 - **Music**: Africa (Voodoo Master), Rose Laurens

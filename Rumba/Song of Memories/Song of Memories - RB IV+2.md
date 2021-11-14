@@ -34,7 +34,7 @@
 
 > Alemana; ; Lariat 3 (man swivel to face); Fence Line (with arms, to half open);
 
-> In & Out Runs; ; ***Syncopated Cuddle Pivot (to face center)***; Cucaracha Touch;
+> Lady roll across; Man roll across; ***Syncopated Cuddle Pivot (to face center)***; Cucaracha Touch;
 
 > ***Half Basic (to banjo); Tornillo Wheel 6***; ; Cucaracha Right;
 
@@ -56,7 +56,7 @@
 
 > Alemana; ; Lariat 3 (man swivel to face); Fence Line (with arms, to half open);
 
-> In & Out Runs; ; ***Syncopated Cuddle Pivot (to face center)***; Cucaracha Touch;
+> Lady roll across; Man roll across; ***Syncopated Cuddle Pivot (to face center)***; Cucaracha Touch;
 
 > ***Half Basic (to banjo); Tornillo Wheel 6***; ; Cucaracha Right;
 

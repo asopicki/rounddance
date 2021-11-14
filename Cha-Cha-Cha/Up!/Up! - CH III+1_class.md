@@ -3,75 +3,95 @@
 
 * **Choreographer**: Hiroshi & Waka Teranishi
 * **Rhythm**: Cha-Cha-Cha
-* **Phase**: III+1
-* **Difficulty**: Easy
+* **Phase**: IV
+* **Difficulty**: Average
 * **Sequence**: Intro - A - A(1-7) - B - A(1-7) - B C - A B D - Ending
 * **Music**: Up!, Shania Twain
 
+
 *Dance starts in butterfly position, man facing wall, lead feet free, wait two measures*
+
+
+*Note: Part B and D have been adjusted*
+
 
 # Intro
 
 > Wait 2; ; Cucaracha left & right (with arms); ;
 
-> Fence line; Crab walk; Cucaracha in 4;
+> Fence line; Crab walk; Two side closes;
 
 # A
 
-> Alemana; ; Lariat; ;
+> Alemana;; Lariat; ;
 
-> Fence line; Crab walks; ; Cucaracha;
+> Fence line; Crab walk; Two side closes; Cucaracha in 4 (with arms);
 
 # A(1-7)
 
 > Alemana;; Lariat; ;
 
-> Fence line; Crab walk; Cucaracha in 4;
+> Fence line; Crab walk; Two side closes;
 
 # B
 
-> Chase Double Peek-a-boo; ; ; ; ; ; ; ;
+
+> Half Basic; Fan; Hockey Stick; ;
+
+
+> New Yorker; Spot Turn; Time Step; Spot Turn;
 
 # A(1-7)
 
 > Alemana;; Lariat; ;
 
-> Fence line; Crab walk; Cucaracha in 4;
+> Fence line; Crab walk; Two side closes;
 
 # B
 
-> Chase Double Peek-a-boo; ; ; ; ; ; ; ;
+
+> Half Basic; Fan; Hockey Stick; ;
+
+
+> New Yorker; Spot Turn; Time Step; Spot Turn;
+
+
 
 # C
 
-> Twirl Vine Cha (to open); Walk 2 & Cha; Circle away & together; ; Shoulder to Shoulder; (twice);
+> Twirl/Vine Cha (to open); Walk 2 & Cha; Figure 8; ; ; ;
 
-> Time Step; (twice);
+> Sand steps (twice); ;
 
-> Back break (to open); Walk 2 & Cha; Circle away & together; ; Shoulder to Shoulder; (twice);
+> Twirl/Vine Cha (to open); Walk 2 & Cha; Figure 8; ; ; ;
 
-> Time Step; (twice);
+> Sand steps (twice); ;
 
 # A
 
 > Alemana;; Lariat; ;
 
-> Fence line; Crab walks; ; Cucaracha;
+> Fence line; Crab walk; Two side closes; Cucaracha in 4 (with arms);
 
 # B
 
-> Chase Double Peek-a-boo; ; ; ; ; ; ; ;
+
+> Half Basic; Fan; Hockey Stick; ;
+
+
+> New Yorker; Spot Turn; Time Step; Spot Turn;
+
 
 # D
 
-> New Yorker; (twice); Two spot turns; ;
+> Half Basic; Fan; Alemana; ;
 
 > Fence line (twice); ;
 
 # Ending
 
-> New Yorker (to open); Walk 2 & Cha; Circle away & together; ; Shoulder to Shoulder; (twice);
+> Twirl/Vine Cha; Walk 2 & Cha; Figure 8; ; ; ;
 
-> Step Apart & Point;
+> Twirl/Vine Cha;
 
-<meta name="x:audio-file" content="s/Shania Twain/Shania Twain - Up! (red).mp3">
+

@@ -8,8 +8,6 @@
 * **Sequence**: Intro - AB - Inter - AB - AC - Ending
 * **Music**: Celebration by Kool & The Gang
 
-*This is an easy mixer which can be used for a Graduation or other events to have everybody celebrate the occasion.*
-
 *Dance starts in Butterfly position, man facing, lead feet free, waiting 2 measures*
 
 # Intro (4 measures) [00:00]
@@ -30,7 +28,7 @@
 
 # B (16 measures) [00:48]
 
-> Half basic; Underarm Turn; Lariat; ; 
+> Half basic; Underarm Turn; Lariat; ;
 
 > Shoulder to Shoulder; (twice);
 
@@ -44,7 +42,7 @@
 
 > Chase Peek-a-boo; ; ; ;
 
-> New Yorker with a Side Close; New Yorker in 4; 
+> New Yorker with a Side Close; New Yorker in 4;
 
 # A (16 measures) [01:32]
 
@@ -58,7 +56,7 @@
 
 # B (16 measures) [02:04]
 
-> Half basic; Underarm Turn; Lariat; ; 
+> Half basic; Underarm Turn; Lariat; ;
 
 > Shoulder to Shoulder; (twice);
 

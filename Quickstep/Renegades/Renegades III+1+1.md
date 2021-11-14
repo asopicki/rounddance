@@ -6,7 +6,6 @@
 * **Phase**: III+1+1 (Quartern Turns & Progressive Chassé, Chassé Weave)
 * **Difficulty**: Average
 * **Sequence**: Intro - ABBC - ABBC - Ending
-
 * **Music**: Renegades, X-Ambassadors
 
 

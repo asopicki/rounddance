@@ -1,15 +1,15 @@
 # Up
 *Song by Olly Murs & Demi Lovato (Album: You Know I Know, Track 3, 3:44)*
- 
+
 * **Choreographer**: Klaus & Marion Völkl
 * **Rhythm**: Cha-Cha-Cha
-* **Phase**: IV + 1 (Double Cuban Breaks)
+* **Phase**: V + 1 (Double Cuban Breaks)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - Bridge - ABC - B - Ending
 * **Music**: Up, Olly Murs & Demi Lovato
- 
+
 *Dance starts in butterfly position, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (4 measures) [00:00]
 
 > Wait 2; ; (Rumba) Cucaracha; (twice);
@@ -64,11 +64,11 @@
 
 # C (16 measures) []
 
-> (Rumba) Alemana; ; (orig Alemana) Lariat; ;
+> (Rumba) Alemana; ; Rope Spin (or Lariat); ;
 
 > Shoulder to Shoulder; Through Serpiente; ; Fence Line;
 
-> (Cha-Cha) Alemana; ; (orig Alemana) Lariat; ; 
+> (Cha-Cha) Alemana; ; Rope Spin (or Lariat); ;
 
 > Aida; Switch Cross; Side Walk; Spot Turn;
 

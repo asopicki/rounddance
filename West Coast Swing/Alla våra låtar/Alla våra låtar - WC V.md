@@ -35,7 +35,7 @@ _Dance starts in facing position, man facing line of dance, about 8 feet apart, 
 
 > Underarm Turn; -, -, Sugar Push (with extra rock); ; -,-, Left Side Pass Tuck & Spin;
 
-> ; Sugar Push (with extra rock); ; Back Walk 2 & Point & Hold; Kickball Change & Hold;
+> ; Sugar Push (with extra rock); ; Wrapped Whip; ;
 
 # A (16 measures) [01:24] (ROD)
 
@@ -58,13 +58,13 @@ _Dance starts in facing position, man facing line of dance, about 8 feet apart, 
 
 > Underarm Turn; -, -, Sugar Push (with extra rock); ; -,-, Left Side Pass Tuck & Spin;
 
-> ; Sugar Push (with extra rock); ; Back Walk 2 (both turn to face wall) & Hold; Kickball Change & Hold;
+> ; Sugar Push (with extra rock); ; Side Whip; (both turn to face wall);
 
 # C (8 measures) [02:41]
 
 > Turkey Walk in 8; (to face); Slow Swivel Back to Back; Slow Swivel to Face;
 
-> Back Cross Points (four times); ; Hold, -, Sugar Push; ;
+> Back Cross Points (four times); ; Kick Ball Change , Sugar Push; ;
 
 # D (8 measures) [2:58]
 

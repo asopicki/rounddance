@@ -1,7 +1,7 @@
 # Fields of Gold
 *Song by Sting & The Police (Album: The Very Best of Sting & The Police, Track 7, 3:38)*
 
-* **Choreographer**: Richard & Barbara Pike
+* **Choreographer**: Alexander Sopicki
 * **Rhythm**: Rumba
 * **Phase**: III+1 (Alemana)
 * **Difficulty**: Average
@@ -12,9 +12,9 @@
 
 # Intro (8 measures) [00:00]
 
-> Basic; ; Underarm Turn (to tamara position); Wheel Six;
+> Wait 2; ; Basic; ; Twirl Vine (to tamara position); Wheel Six;
 
-> (to line of dance); Unwrap (to open position);
+> (to line of dance); Unwrap (to open line of dance);
 
 # A (11 measures) []
 
@@ -56,7 +56,7 @@
 
 > Alemana; ; Basic; ;
 
-> Underarm Turn (to tamara position); Wheel Six; (to line of dance); Unwrap (to open line of dance);
+> Twirl Vine (to tamara position); Wheel Six; (to line of dance); Unwrap (to open line of dance);
 
 # A (11 measures) []
 
@@ -76,6 +76,6 @@
 
 # Ending (7 measures) []
 
-> Basic; ; Underarm Turn (to tamara position); Wheel six;
+> Basic; ; Twirl Vine (to tamara position); Wheel six;
 
 > (to line of dance); Unwrap (to open line of dance); Point & Hold;

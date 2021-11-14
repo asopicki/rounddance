@@ -1,5 +1,5 @@
 # Room with a view (Class A20)
-*Song by Tony Careay (Album: Fühl's Noch Mal! 4, Track 31, 3:23)*
+*Song by Tony Carey (Album: Fühl's Noch Mal! 4, Track 31, 3:23)*
 
 * **Choreographer**: Gabriele Langer
 * **Rhythm**: Rumba
@@ -7,6 +7,7 @@
 * **Difficulty**: Average
 * **Steplevel**: A20
 * **Sequence**: Intro - AB - CC - B*(12) - D(12+1) - CC - Ending
+* **Music**: Room with a view, Tony Carey
 
 *Dance starts in butterfly position, man facing wall, lead feet free, waiting 2 measures*
 
@@ -79,5 +80,3 @@
 > Chase; ; ; ;
 
 > Cucaracha in 4; Apart & Point;
-
-<meta name="x:audio-file" content="t/Tony Carey/Tony Carey - Room with a View.mp3">
