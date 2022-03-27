@@ -1,15 +1,15 @@
 # Good Luck Charm
 *Song by Elvis Presley (Album: Elvis 30 #1 Hits, Track 21, 2:25)*
- 
+
 * **Choreographer**: Neil & Doris Koozer
 * **Rhythm**: Jive
 * **Phase**: III
 * **Difficulty**: Average
 * **Sequence**: Intro - AA* - BA* - Ending
 * **Music**: Good Luck Charm, Elvis Presley
- 
+
 *Dance starts in loose closed position, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (4 measures) [00:00]
 
 > Wait 2; ; Fallaway Rock ~ Right Turning Fallaway;
@@ -18,7 +18,7 @@
 
 > ; Change Right to Left ~ Change Left to Right; ; ;
 
-> Link Rock ~ Jive Walks; ; ; Swivel Walk 4;
+> Link Rock  (to face wall) ~ Jive Walks; ; ; Swivel Walk 4;
 
 > Throwaway; Change Left to Right ~ Change Hands behind the Back; ; ;
 
@@ -30,7 +30,7 @@
 
 > ; Change Right to Left ~ Change Left to Right; ; ;
 
-> Link Rock ~ Jive Walks; ; ; Swivel Walk 4;
+> Link Rock (to face wall) ~ Jive Walks; ; ; Swivel Walk 4;
 
 > Throwaway; Change Left to Right ~ Change Hands behind the Back; ; ;
 
@@ -48,7 +48,7 @@
 
 > ; Change Right to Left ~ Change Left to Right; ; ;
 
-> Link Rock ~ Jive Walks; ; ; Swivel Walk 4;
+> Link Rock (to face wall) ~ Jive Walks; ; ; Swivel Walk 4;
 
 > Throwaway; Change Left to Right ~ Change Hands behind the Back; ; ;
 

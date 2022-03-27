@@ -16,7 +16,7 @@
 
 # A (16 measures) []
 
-> Whip with Hand Change behind the back; ; Start Left Pass (to varsouvienne reverse); (Keep both hands) Turn her Under (right face to face);
+> Whip with Hand Change behind the back; ; Start Left Pass (to varsouvienne reverse); (Keep both hands) Turn her Under right (to face);
 
 > Window Whip; ; Start a Straight Whip; With Stop & Go Exit (join lead hands);
 
@@ -40,7 +40,7 @@
 
 # A (16 measures) []
 
-> Whip with Hand Change behind the back; ; Start Left Pass (to varsouvienne reverse); (Keep both hands) Turn her Under (right face to face);
+> Whip with Hand Change behind the back; ; Start Left Pass (to varsouvienne reverse); (Keep both hands) Turn her Under right (to face);
 
 > Window Whip; ; Start a Straight Whip; With Stop & Go Exit (join lead hands);
 

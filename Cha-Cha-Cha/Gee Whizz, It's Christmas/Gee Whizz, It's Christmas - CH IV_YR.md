@@ -1,12 +1,14 @@
 # Gee Whizz, It's Christmas (YR)
 *Song by Dancelife (Album: Christmas Best, Track 14, 2:31)*
 
-* **Choreographer**: Doug & Cheryel Byrd
+* **Choreographer**: Alexander Sopicki
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: IV+1 (Open Hip Twist)
 * **Difficulty**: Average
 * **Sequence**: Intro - AA* - BA - Ending
-* **Music**: MusicTitle, MusicArtist
+* **Music**: Gee Whizz, It's Christmas, Dancelife
+
+
 
 *Dance starts in butterfly position, man facing wall, lead feet free, waiting two measures*
 
@@ -16,7 +18,7 @@
 
 # A (16 measures) []
 
-> Alemana; ; Basic; ;
+> Alemana; ; Fence Line; Spot Turn;
 
 > New Yorker; Crab Walks; ; Fence Line;
 
@@ -26,29 +28,27 @@
 
 # A* (16 measures) []
 
-> Alemana; ; Basic; ;
+> Alemana; ; Fence Line; Spot Turn;
 
 > New Yorker in 4; Spot Turn in 4; Cucaracha; (twice);
 
-> Chase Peek-a-Boo; ; ; ;
+> Chase; ; ; ;
 
 > Shoulder to Shoulder; Spot Turn; Half Basic; Whip;
 
 # B (16 measures) []
 
-> Half Basic; Fan; Hockey Stick; ;
+> Open Hip Twist; Fan; Hockey Stick; ;
 
 > Alemana; ; Lariat; ;
 
-> Hand to Hand; (twice); Fence Line; (twice);
+> Break back to Triple Cha Forward; ; Aida to Triple Chas Back; ;
 
-
-> Time Step; Spot Turn; Shoulder to Shoulder; Time Step;
-
+> Switch Rock; Spot Turn; Shoulder to Shoulder; (twice);
 
 # A (16 measures) []
 
-> Alemana; ; Basic; ;
+> Alemana; ; Fence Line; Spot Turn;
 
 > New Yorker; Crab Walks; ; Fence Line;
 
@@ -58,6 +58,12 @@
 
 # Ending (7 measures)
 
-> Chase; ; ; ;
+> Chase with Underarm Pass; ; New Yorker; Spot Turn;
 
-> Half Basic; Underarm Turn; Apart, Point;
+
+> Fence Line; New Yorker; Apart, Point;
+
+
+*Note: Choreo based on a choreo by Doug & Cheryel Byrd.*
+
+

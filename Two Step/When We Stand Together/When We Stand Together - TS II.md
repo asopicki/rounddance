@@ -6,10 +6,8 @@
 * **Phase**: II
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - AB* - CD - Ending
-
 * **Music**: When We Stand Together, Nickelback
 * **Steplevel**: A25
-
 
 
 *Dance starts in open facing position, man facing wall, lead feet free, waiting two measures*
@@ -76,7 +74,7 @@
 
 > Basketball Turn; ; Side Two Steps Left & Right; ;
 
-> Side, Close & Hold;
+> Side, Draw, Close;
 
 # C (11 measures) []
 

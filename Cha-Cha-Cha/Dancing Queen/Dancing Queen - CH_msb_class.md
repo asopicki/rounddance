@@ -3,7 +3,7 @@
 
 * **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
 * **Rhythm**: Cha-Cha-Cha
-* **Phase**: III+1 (Hockeystick)+1 (Triple Cha Roll)
+* **Phase**: III+1 (Hockeystick)
 * **Difficulty**: Average
 * **Sequence**: Intro - ABB* - Bridge - CA* - Bridge* - B - Bridge - CA - Ending
 * **Music**: Dancing Queen, Abba
@@ -86,8 +86,8 @@
 
 # Ending (11 measures)
 
-> Half Basic; Spot Turn; Rock Back, Recover, Triple Cha Roll; ;
+> Half Basic; Spot Turn; Break Back (to triple cha forward); ;
 
-> Rock Back, Recover, Triple Cha Roll (to reverse); ; Fence Line;
+> Rock Forward, Recover, Triple Cha Back (to reverse); ; Cucaracha (to face);
 
-> Sport Turn; Hip rock in 4; Apart & Point;
+> Cucaracha Right; New Yorker in 4; Apart & Point;

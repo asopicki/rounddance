@@ -5,14 +5,14 @@
 * **Rhythm**: Rumba
 * **Phase**: IV
 * **Difficulty**: Average
-* **Sequence**: Intro - ABC - Inter - BAD - Ending
+* **Sequence**: Intro - ABC - Inter - B - Ending
 * **Music**: All I Want For Christmas (Is A Real Good Tan), Déjà Vu
 
 # Intro
 
 > Wait 2; ; Apart, Point; Together Touch;
 
-> Chase Peek-a-Boo; ; ; ;
+> Chase; ; ; ;
 
 # A
 
@@ -54,36 +54,14 @@
 
 > Crab Walks; ; Spot Turn; New Yorker in 4;
 
-# A
+# Ending
 
 > Half Basic; Fan; Hockey Stick; ;
 
 > Fence Line; Crab Walks; ; Spot Turn;
 
-> Alemana; ; Lariat; ;
+> Chase with Underarm Pass; ; Alemena; ;
 
-> Shoulder to Shoulder; (twice); Half Basic; Whip;
+> Lariat; ; New Yorker in 4; Step apart & Point (*Fade out*);
 
-# D
 
-> New Yorker; Aida; Switch Cross; Cucaracha Cross;
-
-> Side Walks; Crab Walks; ; Spot Turn;
-
-# Ending
-
-> Chase; ; ; ;
-
-> Time Step; (twice); Alemana; ;
-
-> New Yorker; Aida; Switch Cross; Cucaracha Cross;
-
-> Side Walks; Crab Walks; ; Spot Turn;
-
-> New Yorker (to open); Progressive Walks; Circle away & together; ;
-
-> Fence Line; Through, Apart & Point (fade out); ; ;
-
-> ; ; ; ;
-
-> ;

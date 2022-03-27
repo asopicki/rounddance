@@ -10,7 +10,7 @@
 
 *Dance starts in closed position, man diagonal line and center, lead feet free, waiting two measures*
 
-# Intro (9 measures, Foxtrot) [00:00] 
+# Intro (9 measures, Foxtrot) [00:00]
 
 > Wait Whistle,, Diamond Turn; ; ; ; ;
 
@@ -32,7 +32,7 @@
 
 > Change Hands Behind the Back (twice); ; ; Rock, Recover, Swivel 2;
 
-> Jive Walks; Swivel 4; Throwaway (to handshake); Change Left to Right (to tandem, line of dance);
+> Two Forward Triples; Swivel 4; Throwaway (to handshake); Change Left to Right (to tandem, line of dance);
 
 > Catapult; ; Change Left to Right (with continous chassé); ;
 
@@ -58,7 +58,7 @@
 
 > Change Hands Behind the Back (twice); ; ; Rock, Recover, Swivel 2;
 
-> Jive Walks; Swivel 4; Throwaway (to handshake); Change Left to Right (to tandem, line of dance);
+> Two Forward Triples; Swivel 4; Throwaway (to handshake); Change Left to Right (to tandem, line of dance);
 
 > Catapult; ; Change Left to Right (with continous chassé); ;
 
@@ -74,9 +74,9 @@
 
 # Ending (12 measures)
 
-> Throwaway; Sailor Shuffles; (twice); Change Right to Left (to face center);
+> Throwaway; Sailor Shuffles (four times); ; Change Right to Left (to face center);
 
-> , Sailor Shuffles; (twice);; Spanish Arms (twice); ; ;
+> , Sailor Shuffles (four times); ; ; Spanish Arms (twice); ; ;
 
 > Change Hands Behind the Back (to face wall);, Quick Rock Apart;
 

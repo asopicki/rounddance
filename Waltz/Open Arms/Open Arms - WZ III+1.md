@@ -20,7 +20,7 @@
 
 > Waltz away; Lady wrap; Forward waltz; Lady roll across (to left open);
 
-> Through twinkle; Through, face, close; Left turning box (two measures only); (to face wall);
+> Through twinkle; Through, face, close; Left turning box (half); (to face wall);
 
 > Whisk; Pickup; Open telemark; Maneuver;
 
@@ -54,7 +54,7 @@
 
 > Waltz away; Lady wrap; Forward waltz; Lady roll across (to left open);
 
-> Through twinkle; Through, face, close; Left turning box (two measures only); (to face wall);
+> Through twinkle; Through, face, close; Left turning box (half); (to face wall);
 
 > Whisk; Pickup; Open telemark; Maneuver;
 
@@ -84,4 +84,4 @@
 
 > Twirl/Vine 3; Through, face, close; Apart, Point;
 
-<meta name="x:audio-file" content="j/Journey/The Essential Journey CD1/Journey - Open Arms.mp3">
+

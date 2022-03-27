@@ -12,7 +12,7 @@
 
 # Intro (4 measures) [00:00]
 
-> Wait; Sailor Shuffles; (twice); Back Two, Point & Hold;
+> Wait; Sailor Shuffles (four times); ; Back Two, Point & Hold;
 
 # A (14 measures) []
 
@@ -20,9 +20,9 @@
 
 > -,-, Left Side Pass; ; Man's Underarm Turn; -,-, Kick Ball Change;
 
-> Sugar Push; -,-, Underarm Turn; ; Sailor Shuffle;
+> Sugar Push; -,-, Underarm Turn; ; Sailor Shuffle (four times);
 
-> (twice); Back 2, Point & Hold;
+> ; Back 2, Point & Hold;
 
 # A(1-12) (12 measures) []
 
@@ -30,7 +30,7 @@
 
 > -,-, Left Side Pass; ; Man's Underarm Turn; -,-, Kick Ball Change;
 
-> Sugar Push; -,-, Underarm Turn; ; Sailor Shuffle;
+> Sugar Push; -,-, Underarm Turn; ; Sailor Shuffle (twice);
 
 # B (8 measures) []
 
@@ -44,9 +44,9 @@
 
 > -,-, Left Side Pass; ; Man's Underarm Turn; -,-, Kick Ball Change;
 
-> Sugar Push; -,-, Underarm Turn; ; Sailor Shuffle;
+> Sugar Push; -,-, Underarm Turn; ; Sailor Shuffle (four times);
 
-> (twice); Back 2, Point & Hold;
+> ; Back 2, Point & Hold;
 
 # C (12 measures) []
 
@@ -74,7 +74,7 @@
 
 > Side Breaks 2 Slow; Sugar Push; -,-, Underarm Turn; ;
 
-> Sailor Shuffles; (twice); Back Cross Point Four Times; ;
+> Sailor Shuffles (four times); ; Back Cross Point Four Times; ;
 
 > Whip Turn; ; Together 2 (to low butterfly), Twisty Vine 8; ; -,-, (with Side Lunge, Checking);
 

@@ -22,7 +22,7 @@
 
 > Time Step; (twice, to double hand hold; Opening Out; (twice);
 
-> Half Basic; Lunge Break; Turning Basic; ;
+> Half Basic; Lunge Break; Turning Basic; (to butterfly);
 
 > Half Basic; Hip Lift; Turning Basic; (to butterfly);
 
@@ -42,7 +42,7 @@
 
 > Time Step; (twice, to double hand hold; Opening Out; (twice);
 
-> Half Basic; Lunge Break; Turning Basic; ;
+> Half Basic; Lunge Break; Turning Basic; (to butterfly);
 
 > Half Basic; Hip Lift; Turning Basic; (to butterfly);
 

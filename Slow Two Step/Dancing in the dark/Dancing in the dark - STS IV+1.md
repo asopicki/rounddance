@@ -33,11 +33,11 @@
 
 > Triple traveler; ; ; (tunnel exit);
 
-> Outside roll; Basic ending;Side basic; Sweetheart wrap (lady in two);
+> Outside roll; Basic ending; Lunge Basic; (twice, to pickup);
 
-> Sweetheart run (twice); ; Sweetheart switch; (to face, lady in 2, man face wall);
+> Traveling Cross Chassé; (to face); Underarm Turn; Basic Ending (to half open);
 
-> Lunge basics; ; Cross body; Reverse underarm turn;
+> Open Basics; (to closed position); Cross body; Reverse underarm turn;
 
 ## A (20 measures) [00:18]
 
@@ -49,31 +49,34 @@
 
 > Open Basics; (to maneuver); Right turn (Lady outside roll); Open basic;
 
-> Switches; ; Lunge basic; Basic ending (to pickup);
+> Switches (to reverse); ; Lunge basic; Basic ending (to pickup reverse);
 
 ## B (16 measures) [02:15]
 
 > Triple traveler; ; ; (tunnel exit);
 
-> Outside roll; Basic ending;Side basic; Sweetheart wrap (lady in two);
+> Outside roll; Basic ending; Lunge Basic; (twice, to pickup reverse);
 
-> Sweetheart run (twice); ; Sweetheart switch; (to face, lady in 2, man face center);
+> Traveling Cross Chassé; (to face, man face center); Underarm Turn; Basic Ending (to half open);
 
-> Lunge basics; ; Cross body; Open Basic;
+> Open Basics; (to closed position); Cross body (to face wall); Reverse underarm turn;
 
 ## C (8 measures) [02:48]
 
-> Switches; ; Lunge basics; (to pickup);
+> Twisty Basic; (twice); Side Basic; Open Basic (to pickup);
 
-> Travelling cross chassés (twice); ; ; ;
+> Travelling cross chassés (twice); ; ; (keep her in front);
 
 ## Ending (16 measures) [ 03:04]
 
-> Triple traveler; ; ; (tunnel exit);
+> Triple traveler; ; ; Basic Ending;
 
-> Outside roll; Basic ending;Side basic; Sweetheart wrap (lady in two);
+> Side Basic; Open Break; Change Sides Underarm; Basic Ending;
 
-> Sweetheart run (twice); ; Sweetheart switch; (to face, lady in 2, man face wall);
+> Switches; ; Lunge Basic; (twice);
 
-> Lunge basics; ; Side to an Aida; Aida line, Switch to face and Smile;
+> Underarm Turn; Basic Ending; Side Basic; Side Lunge, Extend Arms (and smile);
 
+
+
+*Note: Second time the directions for part A and B are mirrored as part A starts facing center of hall. The figures are the same.*

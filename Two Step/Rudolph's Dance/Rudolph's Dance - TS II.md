@@ -1,15 +1,15 @@
 # Rudolph's Dance
 *Song by John Denver (Album: Christmas in New York City, Track 6, 1:43)*
- 
+
 * **Choreographer**: Monika Gründer
 * **Rhythm**: Two Step
 * **Phase**: II
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - C - B(1-14) - Ending
 * **Music**: Rudolph, The Red-Nosed Reindeer, John Denver
- 
+
 *Dance starts in open facing position, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (4 measures) [00:00]
 
 > Wait 2; ; Apart, Point; Together, Touch (to semi);
@@ -22,7 +22,7 @@
 
 > Two Forward Two Steps; ; Double Hitch; (to face);
 
-> Open Vine 4; ; Scissors Through; (twice, to semi); 
+> Open Vine 4; ; Scissors Through; (twice, to semi);
 
 # B (16 measures) []
 
