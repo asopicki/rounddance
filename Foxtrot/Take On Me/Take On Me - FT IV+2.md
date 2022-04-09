@@ -20,7 +20,7 @@
 
 > Whisk; Promenade Weave; ; Change of Direction;
 
-> Telemark (to semi); In & Out Run; ; Half Natural Turn;
+> Telemark (to semi); In & Out Runs; ; Half Natural Turn;
 
 > Closed Impetus Turn; Feather Finish; Three Step; Feather;
 
@@ -42,7 +42,7 @@
 
 > Whisk; Promenade Weave; ; Change of Direction;
 
-> Telemark (to semi); In & Out Run; ; Half Natural Turn;
+> Telemark (to semi); In & Out Runs; ; Half Natural Turn;
 
 > Closed Impetus Turn; Feather Finish; Three Step; Feather;
 
