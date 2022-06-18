@@ -50,7 +50,7 @@
 
 > Flirt; (lady to a fan); Start Hockey Stick (to tandem); Opposition Fence Line (back to fan);
 
-> Hockey Stick; (lady overturned); Slow forward (Lady swivel to face); Back walk 3;
+> Hockey Stick; (lady overturned to figurehead); Slow forward (Lady swivel to face); Back walk 3;
 
 > Back Corté and recover (to face wall); Cross Body; ;
 

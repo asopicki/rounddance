@@ -12,9 +12,7 @@
 
 # Intro (4 measures) [00:00]
 
-> Wait; **Quick Through, Side, Behind, Fan; Behind, Side, Through, Fan;** Feather;
-
-*Note: Think Through Serpiente*
+> Wait; **Through, Serpiente (Quick Through, Side, Behind, Fan); (Behind, Side, Through, Fan);** Feather;
 
 # A (16 measures) []
 
@@ -34,10 +32,10 @@
 
 # C (8 measures) []
 
-> Reverse Turn; ; Hover (to butterfly); **Quick Through, Side, Behind, Fan;**
+> Reverse Turn; ; Hover (to butterfly); **Through Serpiente (Quick Through, Side, Behind, Fan);**
 
 
-> **Behind, Side, Through, Fan; Slow cross in front & unwind; Hover (to semi); Feather;**
+> **(Behind, Side, Through, Fan); Slow cross in front & unwind; Hover (to semi); Feather;**
 
 
 # A (16 measures) []
@@ -58,15 +56,15 @@
 
 # C (8 measures) []
 
-> Reverse Turn; ; Hover (to butterfly); **Quick Through, Side, Behind, Fan;**
+> Reverse Turn; ; Hover (to butterfly); **Through Serpiente (Quick Through, Side, Behind, Fan);**
 
 
-> **Behind, Side, Through, Fan; Slow cross in front & unwind; Hover (to semi); Feather;**
+> **(Behind, Side, Through, Fan); Slow cross in front & unwind; Hover (to semi); Feather;**
 
 # Ending (9 measures) []
 
 > Diamond Turn; ; ; ;
 
-> Open Telemark; **Quick Through, Side, Behind, Fan; Behind, Side, Through, Fan;** Through Vine 4 (to butterfly);
+> Open Telemark; **Through Serpiente (Quick Through, Side, Behind, Fan); (Behind, Side, Through, Fan);** Through Vine 4 (to butterfly);
 
 > Chair & Hold;
