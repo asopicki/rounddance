@@ -26,7 +26,7 @@
 
 > Broken Box; ; ; ;
 
-> Vine 8; ; Box; ;
+> Vine 8; ; Box; (to butterfly);
 
 # B
 
@@ -36,7 +36,7 @@
 
 # C
 
-> Half Box; Scissor through; Two turning two steps; ;
+> Half Box Forward; Scissor through; Two turning two steps; ;
 
 > Traveling box; ; ; ;
 
@@ -50,7 +50,7 @@
 
 > Broken Box; ; ; ;
 
-> Vine 8; ; Box; ;
+> Vine 8; ; Box; (to butterfly);
 
 # B
 
@@ -60,7 +60,7 @@
 
 # C(1-8)
 
-> Half Box; Scissor through; Two turning two steps; ;
+> Half Box Forward; Scissor through; Two turning two steps; ;
 
 > Traveling box; ; ; ;
 
@@ -80,7 +80,7 @@
 
 > Broken Box; ; ; ;
 
-> Vine 8; ; Box; ;
+> Vine 8; ; Box; (to butterfly);
 
 # B
 
@@ -98,9 +98,9 @@
 
 # Ending
 
-> Progressive Scissors; (Checking); Fishtail; Walk 2 (Checking);
+> Progressive Scissors; (Checking); Fishtail; Walk & Check;
 
-> Fishtail; Walk & face; Two turning two steps; ;
+> Fishtail; Walk & Face; Two turning two steps; ;
 
 > Traveling box; ; ; ;
 

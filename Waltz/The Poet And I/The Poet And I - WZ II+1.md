@@ -16,7 +16,7 @@
 
 > Wait 2; ; Apart, Point; Together Touch;
 
-> Waltz Box; ; Dip Back; Recover (to butterfly);
+> Box; ; Dip Back; Recover (to butterfly);
 
 # A (16 measures) []
 
@@ -36,7 +36,6 @@
 
 > Step Swing; Spin Maneuver; Two Right Turns; ;
 
-
 > Left Turning Box; ; ; ;
 
 
@@ -54,9 +53,7 @@
 
 *Note: The music for the Interlude slows down somewhat. The fan should not be rushed but should finish in Bfly just in time to Waltz away.*
 
-
 > Half Box Forward; Through, Face, Close; Half Box Forward; Through, Fan (to butterfly);
-
 
 # A (16 measures) []
 

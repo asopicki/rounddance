@@ -44,7 +44,7 @@
 
 > Whisk; Wing (to sidecar); Drag Hesitation; Back, back lock, back;
 
-> Impetus (to semi); Through, forward lock, forward; Through, forward lock, forward;
+> Impetus Turn (to semi); Through, forward lock, forward; Through, forward lock, forward;
 
 > Through, face, close; Left turning box; ; ; ;
 
@@ -90,4 +90,4 @@
 
 > Side canter; (twice); & acknowledge;
 
-<meta name="x:audio-file" content="h/Henry Mancini/The Best Of/Henry Mancini - Moon River.mp3">
+

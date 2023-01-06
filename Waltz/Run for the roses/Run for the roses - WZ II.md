@@ -8,15 +8,15 @@
 * **Sequence**: Intro - ABC - AB - Inter - A - Ending
 * **Music**: Run for the roses, Dan Fogelberg
 
-*Dance starts in open position facing line of dance, lead feet free, wait 2 measures*
+*Dance starts in open facing position, lead feet free, wait 2 measures*
 
 # Intro
 
-> Wait 2; ; Apart, Point, -; Together, Touch, -;
+> Wait 2; ; Apart, Point, -; Together, Touch, - (to butterfly);
 
-> Twisty balance left & right; ; Twisty vine 3; Forward, face, close (to closed);
+> Twisty balance left & right; ; Twisty vine 3; Forward, face, close;
 
-> Left turning box; ; ; ; ;
+> Left turning box; ; ; ; (to butterfly);
 
 > Twisty balance left & right; ; Canter; (twice);
 
@@ -24,19 +24,19 @@
 
 > Waltz away & together; ; Balance left & right; ;
 
-> Twirl/Vine 3; Pickup; Two forward waltzes; ;
+> Twirl/Vine 3; Pickup in 3; Two forward waltzes; ;
 
-> Two left turns; ; Dip; Rec;
+> Two left turns; ; Dip Back; Rec;
 
 > Left turning box; ; ; (to butterfly);
 
 # B
 
-> Waltz away; Lady wrap; Forward waltz; Pickup;
+> Waltz away; Lady wrap; Forward waltz; Pickup in 3;
 
 > Two left turns; ; Step forward & point forward; Step back & touch (to butterfly);
 
-> Twirl/Vine 3; Through, face, close; Waltz box; (to sidecar);
+> Twirl/Vine 3; Through, face, close; Box; (to sidecar);
 
 > Twinkle (to banjo); Twinkle (to face); Canter; (twice, to closed);
 
@@ -44,7 +44,7 @@
 
 > Left turning box; ; ; (to butterfly);
 
-> Twirl/Vine 3; Through, face, close; Waltz box; ;
+> Twirl/Vine 3; Through, face, close; Box; ;
 
 > Reverse box; (to sidecar); Twinkle (to banjo); Twinkle (to face);
 
@@ -58,7 +58,7 @@
 
 > Twirl/Vine 3; Pickup; Two forward waltzes; ;
 
-> Two left turns; ; Dip; Rec;
+> Two left turns; ; Dip back; Rec;
 
 > Left turning box; ; ; (to butterfly);
 
@@ -72,22 +72,21 @@
 
 > Twinkle (to banjo); Twinkle (to face); Canter; (twice, to closed);
 
-# Inter  
+# Inter
 
-> Twirl/Vine 3; Through, face, close; Waltz box; ;
+> Twirl/Vine 3; Through, face, close; Box; ;
 
 # A
 
 > Waltz away & together; ; Balance left & right; ;
 
-> Twirl/Vine 3; Pickup; Two forward waltzes; ;
+> Twirl/Vine 3; Pickup in 3; Two forward waltzes; ;
 
-> Two left turns; ; Dip; Rec;
+> Two left turns; ; Dip Back; Rec;
 
 > Left turning box; ; ; (to butterfly);
 
 # Ending
 
-> Twirl/Vine 3; Through, face, close; Dip, Twist, -;
+> Twirl/Vine 3; Through, face, close; Dip Back, Twist, -;
 
-<meta name="x:audio-file" content="d/Dan Fogelberg/Dan Fogelberg -  Run for the Roses.mp3">

@@ -18,13 +18,13 @@
 
 # A (16 measures)
 
-> Whisk; Wing; Closed Telemark; Open Natural;
+> Whisk; Wing; Telemark (to banjo); Open Natural;
 
 > Outside Spin; Outside Check; Outside Change (to semi); Feather;
 
 > Reverse Wave; ; Back Feather; Feather Finish;
 
-> Hover; Slow Side Lock; Open Telemark; Through, Face, Close;
+> Hover; Slow Side Lock; Telemark (to semi); Through, Face, Close;
 
 # B (16 measures, Jive)
 
@@ -44,13 +44,13 @@
 
 # A (16 measures, Foxtrot)
 
-> Whisk; Wing; Closed Telemark; Open Natural;
+> Whisk; Wing; Telemark (to banjo); Open Natural;
 
 > Outside Spin; Outside Check; Outside Change (to semi); Feather;
 
 > Reverse Wave; ; Back Feather; Feather Finish;
 
-> Hover; Slow Side Lock; Open Telemark; Through, Face, Close;
+> Hover; Slow Side Lock; Telemark (to semi); Through, Face, Close;
 
 # B (16 measures Jive)
 

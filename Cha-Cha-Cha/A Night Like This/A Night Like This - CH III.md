@@ -17,7 +17,7 @@
 
 # A
 
-> New Yorker (to open); Walk 2 & Forward Cha; Sliding door; Cucarach (to face);
+> New Yorker (to open); Walk 2 & Forward Cha; Sliding door; Cucaracha (to face);
 
 > Half basic; Underarm turn; Reverse underarm turn; Whip;
 
@@ -43,7 +43,7 @@
 
 # A
 
-> New Yorker (to open); Walk 2 & Forward Cha; Sliding door; Cucarach (to face);
+> New Yorker (to open); Walk 2 & Forward Cha; Sliding door; Cucaracha (to face);
 
 > Half basic; Underarm turn; Reverse underarm turn; Whip;
 
@@ -87,4 +87,3 @@
 
 > Basic; ; Cucaracha in 4; & Quick dip back;
 
-<meta name="x:audio-file" content="c/Caro Emerald/Caro Emerald - A night like this.mp3">

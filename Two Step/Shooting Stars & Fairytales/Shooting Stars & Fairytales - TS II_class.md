@@ -14,13 +14,13 @@
 
 > Wait 2; ; Apart, Point; Together, Touch;
 
-> Left turning box; ; ; ;
+> Box; ; Reverse Box; ;
 
 # A
 
 > Two forward two steps; ; Twirl 2; Walk & Face; Box; ; Reverse Box; ;
 
-> Two forward two steps; ; Half Box fwd; Scissors Through; Half Box fwd; Scissors Through; Two forward two steps; ;
+> Two forward two steps; (to face); Half Box fwd; Scissors Through (to face); Half Box fwd; Scissors Through; Two forward two steps; ;
 
 # B
 
@@ -32,24 +32,24 @@
 
 > Lace Up; ; ; ; Circle Away two Two Steps; ; Walk together in 4; ;
 
-> Travelling Box; ; ; ; Double Hitch; ; Two forward two steps; ;
+> Side Two Step Left & Right; ; Twirl 2; Walk 2 (to open); Double Hitch; ; Two forward two steps; ;
 
 # D
 
-> Walk 2; Half box forward; Scissors Through;
+> Side Two Step apart & together; ; Double Hitch; (to face);
 
-> Half box forward; Scissors Through; Two forward two steps; ; Twirl 2;
+> Twirl 2; Walk 2; Circle away & together; ;
 
 # E
 
-> Box; ; Apart, Point; Together, Touch; Left turning box; ; ; ;
+> Box; ; Apart, Point; Together, Touch; Box; ; Reverse Box; ;
 
 
 # A
 
 > Two forward two steps; ; Twirl 2; Walk & Face; Box; ; Reverse Box; ;
 
-> Two forward two steps; ; Half Box fwd; Scissors Through; Half Box fwd; Scissors Through; Two forward two steps; ;
+> Two forward two steps; (to face); Half Box fwd; Scissors Through (to face); Half Box fwd; Scissors Through; Two forward two steps; ;
 
 # B
 
@@ -61,11 +61,11 @@
 
 > Lace Up; ; ; ; Circle Away two Two Steps; ; Walk together in 4; ;
 
-> Travelling Box; ; ; ; Double Hitch; ; Two forward two steps; ;
+> Side Two Step Left & Right; ; Twirl 2; Walk 2 (to open); Double Hitch; ; Two forward two steps; ;
 
 # D
 
-> Walk 2; Half box forward; Scissors Through;
+> Walk & Face; Half box forward; Scissors Through;
 
 > Half box forward; Scissors Through; Two forward two steps; ; Twirl 2;
 
@@ -81,20 +81,20 @@
 
 # G
 
-> Left Turning Box; ; ; (to semi); Two forward two steps; ; Open Vine 4; ;
+> Box; ; Open Vine 4; (to semi); Two forward two steps; ; Twirl 2; Walk 2;
 
 # G
 
-> Left Turning Box; ; ; (to semi); Two forward two steps; ; Open Vine 4; ;
+> Box; ; Open Vine 4; (to semi); Two forward two steps; ; Twirl 2; Walk 2;
 
 # C
 
 > Lace Up; ; ; ; Circle Away two Two Steps; ; Walk together in 4; ;
 
-> Travelling Box; ; ; ; Double Hitch; ; Two forward two steps; ;
+> Side Two Step Left & Right; ; Twirl 2; Walk 2 (to open); Double Hitch; ; Two forward two steps; ;
 
 # Ending
 
-> Walk 2; Half box forward; Scissors Through;
+> Walk 2; Lace up; ;
 
-> Half box back; Scissors Through; Walk 2; Open Vine 3 and Point on 4; ;
+> ; ; Walk 2; Step Apart & Point;

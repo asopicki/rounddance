@@ -3,12 +3,12 @@
 
 * **Choreographer**: Richard E. Lamberty
 * **Rhythm**: Waltz
-* **Phase**: IV+2 (Double reverse spin, Outside spin)
+* **Phase**: IV+2 (Double reverse spin, Outside spin) + 1 (Promenade Lock)
 * **Difficulty**: ??
 * **Sequence**: Intro - A - BA - BA - Ending
 * **Music**: Molly Maguires Theme
 
-*Dance starts in open facing position, man facing diagonal and center, lead feet free, wait 2 measures*
+*Dance starts in open facing position, man facing diagonal line and center, lead feet free, wait 2 measures*
 
 # Intro
 
@@ -20,13 +20,13 @@
 
 > Maneuver; Spin turn; Box finish (to diagonal center); Double reverse spin;
 
-> Open Telemark; Open Natural; Outside Spin; Box finish (to diagonal center);
+> Telemark (to semi); Open Natural Turn; Outside Spin; Box finish (to diagonal center);
 
 # B
 
 > Turn left, Right chassé; Outside change (to semi); Promenade lock; Right lunge;
 
-> Back, Back lock, Back; Back whisk; Semi chassé; Pickup (to diagonal wall); Change of direction;
+> Back, Back lock, Back; Back whisk; Through, Chassé (to semi); Pickup (to diagonal wall); Change of direction;
 
 # A
 
@@ -34,13 +34,13 @@
 
 > Maneuver; Spin turn; Box finish (to diagonal center); Double reverse spin;
 
-> Open Telemark; Open Natural; Outside Spin; Box finish (to diagonal center);
+> Telemark (to semi); Open Natural Turn; Outside Spin; Box finish (to diagonal center);
 
 # B
 
 > Turn left, Right chassé; Outside change (to semi); Promenade lock; Right lunge;
 
-> Back, Back lock, Back; Back whisk; Semi chassé; Pickup (to diagonal wall); Change of direction;
+> Back, Back lock, Back; Back whisk; Through, Chassé (to semi); Pickup (to diagonal wall); Change of direction;
 
 # A
 
@@ -48,7 +48,7 @@
 
 > Maneuver; Spin turn; Box finish (to diagonal center); Double reverse spin;
 
-> Open Telemark; Open Natural; Outside Spin; Box finish (to diagonal center);
+> Telemark (to semi); Open Natural Turn; Outside Spin; Box finish (to diagonal center);
 
 # Ending
 

@@ -14,7 +14,7 @@
 
 > Wait 2; ; Apart, Point; Together, Touch (to closed position);
 
-> Twirl Vine Cha & Reverse; ; ; ;
+> Twirl 2 (Twirl Vine Cha & Reverse); Side Two Step; Reverse Twirl 2; Side Two Step (to reverse);
 
 > Circle away Two Two Steps; ; Strut together in 4; (to closed position);
 
@@ -50,7 +50,7 @@
 
 # Bridge (4 measures)
 
-> Twirl Vine Cha & Reverse; ; ; ;
+> Twirl 2 (Twirl Vine Cha & Reverse); Side Two Step; Reverse Twirl 2; Side Two Step (to reverse);
 
 # A (16 measures) []
 
@@ -79,7 +79,6 @@
 > Vine apart 3; Cross Rock, Recover; Face Two Step; Lace across;
 
 > Strut 4; ; Double Hitch; ;
-
 
 > Two Turning Two Steps; ; Twirl Vine in 4; ;
 

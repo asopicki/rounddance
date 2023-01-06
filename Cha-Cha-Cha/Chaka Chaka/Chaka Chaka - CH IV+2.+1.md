@@ -3,7 +3,7 @@
 
 * **Choreographer**: Frank & Gisi Philipps
 * **Rhythm**: Cha-Cha-Cha / Foxtrott
-* **Phase**: IV +2+1 ()
+* **Phase**: IV + 1 (Stop & Go Hockeystick) + 2 (Modified Cha Box)
 * **Difficulty**: Average
 * **Sequence**: Intro - ABC - AB - Bridge - D - B(1-8) - Interlude - B(9-16) - Ending
 * **Music**: Chaka Chaka, Rosanna Rocci
@@ -12,9 +12,9 @@
 
 # Intro (10 measures) [00:00]
 
-> Wait 2; ; Walking Cha; Cucaracha;
+> Wait 2; ; Walk 2 & Forward Cha; Cucaracha;
 
-> Cucaracha; Walking Cha; Circle Cha; ;
+> Cucaracha; Walk 2 & Forward Cha; Circle Cha; ;
 
 > Shoulder to Shoulder; (twice);
 
@@ -28,9 +28,9 @@
 
 # B (16 measures) []
 
-> Half Basic (Lady wrap); Unwrap to Face; Half Basic; New Yorker;
+> Half Basic (Lady wrap); Unwrap (to butterfly face wall); Half Basic; New Yorker;
 
-> New Yorker; Overturned Spot Turn; Spot Turn; (twice);
+> New Yorker; Overturned Spot Turn (to tandem line); Spot Turn; (twice);
 
 > Time Step; Modified Cha Cha Box; ; Modified Cha Cha Box; ;
 

@@ -3,7 +3,7 @@
 
 * **Choreographer**: Albert & Barbara Jaeb
 * **Rhythm**: Waltz
-* **Phase**: III
+* **Phase**: II
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - AB - Ending
 
@@ -11,50 +11,50 @@
 
 # Intro
 
-> Wait 2; ; Apart, Point; Pick up (to closed), Touch;
+> Wait 2; ; Apart, Point; Pick up, Touch;
 
 # A
 
-> Forward waltz; Maneuver; Two quarter right turns; ;
+> Forward waltz; Maneuver; Two right turns; (to face line);
 
 > One left turn (to face reverse); Backward waltz; Two right turns; (to face line);
 
-> Forward Waltz; Maneuver; Two quarter right turns; ;
+> Forward Waltz; Maneuver; Two right turns; (to face line);
 
 > One left turn (to face reverse); Backward waltz; Two right turns; (to face wall);
 
 # B
 
-> Vine 3; Through, face, close; Dip back & Hold; Maneuver;
+> Vine 3; Through, face, close; Dip back; Maneuver;
 
-> Two right turns; (to face wall); Twirl vine; Through, face, close (to butterfly);
+> Two right turns; (to face wall); Twirl vine in 3; Through, face, close (to butterfly);
 
 > Waltz away & together; ; Step Swing; Spin Maneuver;
 
-> Two right turns; (to face wall); Twirl vine; Pick up, side, close;
+> Two right turns; (to face wall); Twirl vine in 3; Pickup in 3;
 
 # A
 
-> Forward waltz; Maneuver; Two quarter right turns; ;
+> Forward waltz; Maneuver; Two right turns; (to face line);
 
 > One left turn (to face reverse); Backward waltz; Two right turns; (to face line);
 
-> Forward Waltz; Maneuver; Two quarter right turns; ;
+> Forward Waltz; Maneuver; Two right turns; (to face line);
 
 > One left turn (to face reverse); Backward waltz; Two right turns; (to face wall);
 
+
 # B
 
-> Vine 3; Through, face, close; Dip back & Hold; Maneuver;
+> Vine 3; Through, face, close; Dip back; Maneuver;
 
-> Two right turns; (to face wall); Twirl vine; Through, face, close (to butterfly);
+> Two right turns; (to face wall); Twirl vine in 3; Through, face, close (to butterfly);
 
 > Waltz away & together; ; Step Swing; Spin Maneuver;
 
-> Two right turns; (to face wall); Twirl vine; Through, face, close (to butterfly);
+> Two right turns; (to face wall); Twirl vine in 3; Through, face, close (to butterfly);
 
 # Ending
 
 > Step apart & Point;
 
-<meta name="x:audio-file" content="a/Al Russ/Al Rus - All Night (ecta).mp3">

@@ -3,7 +3,7 @@
 
 * **Choreographer**: Art Moore
 * **Rhythm**: Two Step
-* **Phase**: II+1
+* **Phase**: II
 * **Difficulty**: Average
 * **Sequence**: Intro - A B - A B C - A B - Ending
 * **Music**: Good Luck Charm, Elvis Presley
