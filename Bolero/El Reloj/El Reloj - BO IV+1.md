@@ -5,7 +5,7 @@
 * **Rhythm**: Bolero
 * **Phase**: IV +1 (Riff turn)
 * **Difficulty**: Average
-* **Sequence**: Intro - AA - B - B* - C - BB - Ending
+* **Sequence**: Intro - AA - B - B* - C - BB** - Ending
 * **Music**: El Reloj, Luis Miguel
 
 *Dance starts in cuddle position, lead feet free, waiting 2 measures*
@@ -28,37 +28,41 @@
 
 # B
 
-> Riff Turn; Fenceline (with arms); New Yorker; Prepare the Aida;
+> Riff Turn; Fenceline (with arms); New Yorker; Aida;
 
-> Aida Line & Hip Rock 2; Swivel to Face & Spot turn; Shoulder to Shoulder; Slow hip rock 2;
+> -,-, & Hip Rock 2; Swivel to Face & Spot turn; Shoulder to Shoulder; Slow hip rock 2;
 
 # B*
 
-> Riff Turn; Fenceline (with arms); New Yorker; Prepare the Aida;
+> Riff Turn; Fenceline (with arms); New Yorker; Aida;
 
-> Aida Line & Hip Rock 2; Swivel to Face & Spot turn; Shoulder to Shoulder; Hip Lift; (twice);
+> -,-, & Hip Rock 2; Swivel to Face & Spot turn; Shoulder to Shoulder; Hip Lift; (twice);
 
 # C
 
-> Double Hand Opening Out; (four times); ; ;
+> Opening Out; (four times); ; ;
 
 > Spot turn; Open Break; Basic; ;
 
 # B
 
-> Riff Turn; Fenceline (with arms); New Yorker; Prepare the Aida;
+> Riff Turn; Fenceline (with arms); New Yorker; Aida;
 
-> Aida Line & Hip Rock 2; Swivel to Face & Spot turn; Shoulder to Shoulder; Slow hip rock 2;
 
-# B
+> -,-, & Hip Rock 2; Swivel to Face & Spot turn; Shoulder to Shoulder; Slow hip rock 2;
 
-> Riff Turn; Fenceline (with arms); New Yorker; Prepare the Aida;
 
-> Aida Line & Hip Rock 2; Swivel to Face & Spot turn; Shoulder to Shoulder; Quick hip rock 2;
+# B**
+
+> Riff Turn; Fenceline (with arms); New Yorker; Aida;
+
+
+> -,-, & Hip Rock 2; Swivel to Face & Spot turn; Shoulder to Shoulder; Quick hip rock 2;
+
 
 # Ending
 
-> Double Hand Opening Out; (twice); Cuddle Hip Lift; (twice);
+> Opening Out; (twice); Cuddle Hip Lift; (twice);
 
 > Back to Leg Crawl;
 

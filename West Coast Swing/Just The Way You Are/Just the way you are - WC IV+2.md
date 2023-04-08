@@ -3,7 +3,7 @@
 
 * **Choreographer**: Klaus & Marion Völkl
 * **Rhythm**: West Coast Swing
-* **Phase**: IV+2 (Triple Travelor with Rolls, Whip turn)
+* **Phase**: IV+2 (Triple Travel with Rolls, Whip turn)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - ABB - CB - Ending
 * **Music**: Just the way you are, Dick Brave and the Backbeats
@@ -29,7 +29,7 @@
 
 # B
 
-> Underarm turn to triple travelor with rolls; ; ; ;,, Sugar push; ;
+> Underarm turn to triple travel with rolls; ; ; ;,, Sugar push; ;
 
 > Left side pass; ,, Kick ball change;
 
@@ -43,13 +43,13 @@
 
 # B
 
-> Underarm turn to triple travelor with rolls; ; ; ;,, Sugar push; ;
+> Underarm turn to triple travel with rolls; ; ; ;,, Sugar push; ;
 
 > Left side pass; ,, Kick ball change;
 
 # B
 
-> Underarm turn to triple travelor with rolls; ; ; ;,, Sugar push; ;
+> Underarm turn to triple travel with rolls; ; ; ;,, Sugar push; ;
 
 > Left side pass; ,, Kick ball change;
 
@@ -62,7 +62,7 @@
 
 # B
 
-> Underarm turn to triple travelor with rolls; ; ; ;,, Sugar push; ;
+> Underarm turn to triple travel with rolls; ; ; ;,, Sugar push; ;
 
 > Left side pass; ,, Kick ball change;
 
@@ -73,4 +73,4 @@
 
 > Slow side breaks; Whip turn; (smile at partner);
 
-<meta name="x:audio-file" content="d/Dick Brave & The Backbeats/Rock'n'Roll Therapy/Dick Brave & the Backbeats - Just The Way You Are.mp3">
+

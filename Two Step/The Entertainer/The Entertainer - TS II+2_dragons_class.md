@@ -1,9 +1,11 @@
 # The Entertainer - Class
 *Song by The Starlite Singers (Album: Film Favorites Vol.1 , Track 10, 02:45)*
 
+
 * **Choreographer**: Alexander Sopicki (based on Choreography by Susan Healea)
 * **Rhythm**: Two Step
 * **Phase**: II
+* **Steplevel**: A25
 * **Difficulty**: Average
 * **Sequence**: Intro - ABC - BD - B(8) - Ending
 * **Music**: The Entertainer, The Starlite Singers

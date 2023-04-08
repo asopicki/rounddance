@@ -3,7 +3,7 @@
 
 * **Choreographer**: Andrea Hilpert
 * **Rhythm**: Mambo
-* **Phase**: IV+0+2 (Turning cucaracha, flirtation chase)
+* **Phase**: IV+0+2 (Turning cucarachas, Flirtation Chase)
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - A* - Inter - CB - B* - A - Ending
 * **Music**: Lilly by Pink Martini
@@ -12,7 +12,7 @@
 
 # Intro (8 measures)
 
-> Wait 2; ; Basic; ; Turning cucaracha; ; ; (to face);
+> Wait 2; ; Basic; ; Turning cucarachas; ; ; (to face);
 
 # A (16 measures)
 
@@ -22,14 +22,17 @@
 
 > Back basic; Patty Cake Tap; Back basic (to face);
 
-> Side walk 3; Through, side, behind; Side walk 3;
+> Side walk in 3; Through, side, behind; Side walk in 3;
 
 > Cross body; ;
 
 
 # B
 
+
 > Flirtation chase; ; ; ; Half basic; Underarm turn; Lariat; ;
+
+
 # A*
 
 > Open break; Underarm turn; New Yorker in 4;
@@ -38,7 +41,7 @@
 
 # Inter
 
-> Turning cucaracha; ; ; (to face);
+> Turning cucarachas; ; ; (to face);
 
 # C
 
@@ -66,7 +69,7 @@
 
 > Back basic; Patty Cake Tap; Back basic (to face);
 
-> Side walk 3; Through, side, behind; Side walk 3;
+> Side walk in 3; Through, side, behind; Side walk in 3;
 
 > Cross body; ;
 
@@ -74,4 +77,4 @@
 
 > Spot turn; (twice); Open break 1 & hold;
 
-<meta name="x:audio-file" content="p/Pink Martini/Pink Martini - Lilly.mp3">
+

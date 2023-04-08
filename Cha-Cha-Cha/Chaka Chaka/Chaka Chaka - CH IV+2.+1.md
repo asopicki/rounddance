@@ -34,7 +34,7 @@
 
 > Time Step; Modified Cha Cha Box; ; Modified Cha Cha Box; ;
 
-> Cross Check, Recover, Face Cha; Man Underarm Turn; Underarm Turn;
+> Cross Check, Recover, Face Cha; Man's Underarm Turn; Underarm Turn;
 
 # C (8 measures) []
 
@@ -54,11 +54,11 @@
 
 > Half Basic (Lady wrap); Unwrap to Face; Half Basic; New Yorker;
 
-> New Yorker; Overturned Spot Turn; Spot Turn; (twice);
+> New Yorker; Overturned Spot Turn (to tandem line); Spot Turn; (twice);
 
 > Time Step; Modified Cha Cha Box; ; Modified Cha Cha Box; ;
 
-> Cross Check, Recover, Face Cha; Man Underarm Turn; Underarm Turn;
+> Cross Check, Recover, Face Cha; Man's Underarm Turn; Underarm Turn;
 
 # Bridge (1 measure) []
 
@@ -66,7 +66,7 @@
 
 # D (8 measures) (Foxtrot)
 
-> Whisk; Pickup; Three Step; Natural Turn Half;
+> Whisk; Pickup; Three Step; Half Natural;
 
 > Impetus (to semi); In & Out Runs; ; Through, Side, Close (to butterfly);
 
@@ -74,7 +74,7 @@
 
 > Half Basic (Lady wrap); Unwrap to Face; Half Basic; New Yorker;
 
-> New Yorker; Overturned Spot Turn; Spot Turn; (twice);
+> New Yorker; Overturned Spot Turn (to tandem line); Spot Turn; (twice);
 
 # Interlude (1 measure)
 
@@ -84,7 +84,7 @@
 
 > Time Step; Modified Cha Cha Box; ; Modified Cha Cha Box; ;
 
-> Cross Check, Recover, Face Cha; Man Underarm Turn; Underarm Turn;
+> Cross Check, Recover, Face Cha; Man's Underarm Turn; Underarm Turn;
 
 # Ending (1 measure)
 

@@ -23,7 +23,7 @@
 
 > Chase Double Peek-a-Boo; ; ; ;
 
-> ; ; ; (to left open, face reverse);
+> ; ; ; ;
 
 # B (16 measures) []
 
@@ -53,7 +53,7 @@
 
 > Chase Double Peek-a-Boo; ; ; ;
 
-> ; ; ; (to left open, face reverse);
+> ; ; ; ;
 
 # B (16 measures) []
 

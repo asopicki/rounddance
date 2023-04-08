@@ -9,7 +9,6 @@
 * **Music**: The Poet And I, Frank Mills
 * **Steplevel**: B (B09)
 
-
 *Dance starts in open facing position, man facing wall, lead feet free, waiting two measures*
 
 # Intro (8 measures) [00:00]
@@ -41,13 +40,13 @@
 
 # C (16 measures) []
 
-> Twirl Vine; Through, Face, Close; Through Twinkle (to reverse); Through Twinkle (to face);
+> Twirl Vine 3; Through, Face, Close; Through Twinkle (to reverse); Through Twinkle (to face);
 
-> Step, Touch; Box Finish; Step, Touch; Box Finish;
+> Forward, Touch; Box Finish (to face line of dance); Forward, Touch; Box Finish (to face center);
 
-> Twirl Vine; Through, Face, Close; Through Twinkle (to reverse); Through Twinkle (to face);
+> (to reverse) Twirl Vine 3; Through, Face, Close; Through Twinkle (to line); Through Twinkle (to face);
 
-> Step, Touch; Box Finish; Step, Touch; Box Finish;
+> Forward, Touch; Box Finish (to face reverse); Forward, Touch; Box Finish (to face wall);
 
 # Interlude (4 measures) []
 
@@ -79,13 +78,16 @@
 
 # C (16 measures) []
 
-> Twirl Vine; Through, Face, Close; Through Twinkle (to reverse); Through Twinkle (to face);
 
-> Step, Touch; Box Finish; Step, Touch; Box Finish;
+> Twirl Vine 3; Through, Face, Close; Through Twinkle (to reverse); Through Twinkle (to face);
 
-> Twirl Vine; Through, Face, Close; Through Twinkle (to reverse); Through Twinkle (to face);
+> Forward, Touch; Box Finish (to face line of dance); Forward, Touch; Box Finish (to face center);
 
-> Step, Touch; Box Finish; Step, Touch; Box Finish;
+> (to reverse) Twirl Vine 3; Through, Face, Close; Through Twinkle (to line); Through Twinkle (to face);
+
+
+> Forward, Touch; Box Finish (to face reverse); Forward, Touch; Box Finish (to face wall);
+
 
 # Interlude (4 measures) []
 

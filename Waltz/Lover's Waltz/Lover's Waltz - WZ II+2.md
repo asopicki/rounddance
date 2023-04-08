@@ -44,7 +44,7 @@
 
 > Hover; Pickup (to sidecar); Three Progressive Twinkles; ;
 
-> ; Maneuver; Impetus Turn (to semi); Pickup;
+> ; Maneuver; Impetus (to semi); Pickup in 3;
 
 > Two Left Turns; ; Twirl Vine 3; Through, Face, Close;
 
@@ -75,7 +75,7 @@
 
 > Hover; Pickup (to sidecar); Three Progressive Twinkles; ;
 
-> ; Maneuver; Impetus Turn (to semi); Pickup;
+> ; Maneuver; Impetus (to semi); Pickup in 3;
 
 > Two Left Turns; ; Twirl Vine 3; Through, Face, Close;
 

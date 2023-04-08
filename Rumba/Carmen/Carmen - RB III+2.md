@@ -1,15 +1,15 @@
 # Carmen
 *Song by Gene Watson (Album: Best of Best, Track 9, 3:36)*
- 
+
 * **Choreographer**: Wendie & Herb Harrington
 * **Rhythm**: Rumba
 * **Phase**: III + 2 (Aida, Alemana)
 * **Difficulty**: Average
 * **Sequence**: Intro - ABC - Inter- BA - Ending
 * **Music**: Carmen, Gene Watson
- 
+
 *Dance starts in open facing position, man facing wall, lead feet free, waiting for the intro notes and two measures*
- 
+
 # Intro (8 measures) [00:00]
 
 > Wait 2; ; Cucaracha Left & Right; ;
@@ -42,7 +42,7 @@
 
 > Break Back (to open); Progressive Walk 3; Sliding Door; (twice);
 
-> Circle Away & Together; (to banjo); Wheel 6; ;
+> Circle Away & Together; (to banjo); Wheel 6; (to butterfly);
 
 > Basic; ; Cucaracha Left & Right; ;
 

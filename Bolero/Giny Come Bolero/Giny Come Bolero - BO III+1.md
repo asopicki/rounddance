@@ -44,7 +44,7 @@
 
 > Crab Walks; ; Fence Line; Open Break;
 
-> Back break (to open reverse); Bolero Walk 3 (to face); Rumba Spot Turn;
+> Break Back (to open reverse); Bolero Walk 3 (to face); Rumba Spot Turn;
 
 > Hip Lift;
 

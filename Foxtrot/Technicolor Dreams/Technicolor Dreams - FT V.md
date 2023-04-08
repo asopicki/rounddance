@@ -18,33 +18,35 @@
 
 # A (16 measures) []
 
-> Reverse Turn; ; Three Step; Half Natural Turn;
+> Reverse Turn; ; Three Step; Half Natural;
 
-> Impetus Turn (to semi); Open Natural; Outside Change (to semi); Chair, Recover, Slip;
+> Impetus (to semi); Open Natural; Outside Change (to semi); Chair, Recover, Slip;
 
-> Reverse Turn; ; Three Step; Half Natural Turn;
+> Reverse Turn; ; Three Step; Half Natural;
 
-> Impetus Turn (to semi); Open Natural; Outside Change (to semi); Chair, Recover, Slip;
+> Impetus (to semi); Open Natural; Outside Change (to semi); Chair, Recover, Slip;
 
 # B (16 measures) []
 
-> Reverse Wave; ; Impetus Turn (to banjo); Feather Finish;
+> Reverse Wave; ; Closed Impetus; Feather Finish;
 
 > Telemark (to semi); Natural Fallaway Weave; ; Change of Direction;
 
 > Diamond Turn Half; ; Quick Diamond in 4; Dip Back & Recover;
 
-> Three Step; Half Natural Turn; Outside Change; Chair, Recover, Slip;
+> Three Step; Half Natural; Outside Change (to semi); Chair, Recover, Slip;
 
 # B (16 measures) []
 
-> Reverse Wave; ; Impetus Turn (to banjo); Feather Finish;
+> Reverse Wave; ; Closed Impetus; Feather Finish;
 
 > Telemark (to semi); Natural Fallaway Weave; ; Change of Direction;
 
 > Diamond Turn Half; ; Quick Diamond in 4; Dip Back & Recover;
 
-> Three Step; Half Natural Turn; Outside Change; Chair, Recover, Slip;
+
+> Three Step; Half Natural; Outside Change (to semi); Chair, Recover, Slip;
+
 
 # C (10 measures) []
 
@@ -56,13 +58,13 @@
 
 # B (16 measures) []
 
-> Reverse Wave; ; Impetus Turn (to banjo); Feather Finish;
+> Reverse Wave; ; Closed Impetus; Feather Finish;
 
 > Telemark (to semi); Natural Fallaway Weave; ; Change of Direction;
 
 > Diamond Turn Half; ; Quick Diamond in 4; Dip Back & Recover;
 
-> Three Step; Half Natural Turn; Outside Change; Chair, Recover, Slip;
+> Three Step; Half Natural; Outside Change (to semi); Chair, Recover, Slip;
 
 # Ending (4 measures) []
 

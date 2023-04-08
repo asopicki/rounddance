@@ -74,9 +74,9 @@
 
 # Ending (12 measures)
 
-> Throwaway; Sailor Shuffles (four times); ; Change Right to Left (to face center);
+> Throwaway; Sailor Shuffle (four times); ; Change Right to Left (to face center);
 
-> , Sailor Shuffles (four times); ; ; Spanish Arms (twice); ; ;
+> , Sailor Shuffle (four times); ; ; Spanish Arms (twice); ; ;
 
 > Change Hands Behind the Back (to face wall);, Quick Rock Apart;
 

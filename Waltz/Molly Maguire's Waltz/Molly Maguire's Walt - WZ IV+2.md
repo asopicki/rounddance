@@ -16,39 +16,66 @@
 
 # A
 
-> Two left turns; ; Whisk; Pickup (to sidecar); Cross hover (to semi); Syncopated vine (to semi); Weave (to banjo); ;
+
+> Two left turns; ; Whisk; Pickup (to sidecar);
+
+
+
+> Cross hover (to semi); Syncopated vine (to semi); Weave (to banjo); ;
 
 > Maneuver; Spin turn; Box finish (to diagonal center); Double reverse spin;
 
-> Telemark (to semi); Open Natural Turn; Outside Spin; Box finish (to diagonal center);
+> Telemark (to semi); Open Natural; Outside Spin; Box finish (to diagonal center);
 
 # B
 
 > Turn left, Right chassé; Outside change (to semi); Promenade lock; Right lunge;
 
-> Back, Back lock, Back; Back whisk; Through, Chassé (to semi); Pickup (to diagonal wall); Change of direction;
+
+> Back, Back lock, Back; Back whisk; Through, Chassé (to semi); Pickup (to diagonal wall);
+
+
+
+> Change of direction;
 
 # A
 
-> Two left turns; ; Whisk; Pickup (to sidecar); Cross hover (to semi); Syncopated vine (to semi); Weave (to banjo); ;
+
+> Two left turns; ; Whisk; Pickup (to sidecar);
+
+
+
+> Cross hover (to semi); Syncopated vine (to semi); Weave (to banjo); ;
 
 > Maneuver; Spin turn; Box finish (to diagonal center); Double reverse spin;
 
-> Telemark (to semi); Open Natural Turn; Outside Spin; Box finish (to diagonal center);
+> Telemark (to semi); Open Natural; Outside Spin; Box finish (to diagonal center);
+
+
 
 # B
 
 > Turn left, Right chassé; Outside change (to semi); Promenade lock; Right lunge;
 
-> Back, Back lock, Back; Back whisk; Through, Chassé (to semi); Pickup (to diagonal wall); Change of direction;
+
+> Back, Back lock, Back; Back whisk; Through, Chassé (to semi); Pickup (to diagonal wall);
+
+
+
+> Change of direction;
 
 # A
 
-> Two left turns; ; Whisk; Pickup (to sidecar); Cross hover (to semi); Syncopated vine (to semi); Weave (to banjo); ;
+
+> Two left turns; ; Whisk; Pickup (to sidecar);
+
+
+
+> Cross hover (to semi); Syncopated vine (to semi); Weave (to banjo); ;
 
 > Maneuver; Spin turn; Box finish (to diagonal center); Double reverse spin;
 
-> Telemark (to semi); Open Natural Turn; Outside Spin; Box finish (to diagonal center);
+> Telemark (to semi); Open Natural; Outside Spin; Box finish (to diagonal center);
 
 # Ending
 

@@ -21,7 +21,7 @@
 
 > Right lunge, Recover, Slip; Telemark (to semi); Through, Chassé (to banjo); Maneuver;
 
-> Impetus Turn (to semi); Weave in 6; (to banjo); Maneuver; Tipple Chassé Pivot; Spin turn;
+> Impetus (to semi); Weave; (to banjo); Maneuver; Tipple Chassé Pivot; Spin turn;
 
 > Box finish; Double Reverse Spin; Change of Direction;
 
@@ -31,7 +31,7 @@
 
 > Right lunge, Recover, Slip; Telemark (to semi); Through, Chassé (to banjo); Maneuver;
 
-> Impetus Turn (to semi); Weave in 6; (to banjo); Maneuver; Tipple Chassé Pivot; Spin turn;
+> Impetus (to semi); Weave; (to banjo); Maneuver; Tipple Chassé Pivot; Spin turn;
 
 > Box finish; Double Reverse Spin; Change of Direction;
 
@@ -44,9 +44,9 @@
 
 > Solo roll 3; Cross check, Recover, Side (to left open);
 
-> Twinkle through; (twice); Quick Through Vine (to reverse); Through, Swivel (to butterfly);
+> Through Twinkle; (twice); Quick Through Vine (to reverse); Through, Swivel (to butterfly);
 
-> Chair, Recover, Slip; Drag Hesitation; Back, Back lock, Back; Impetus Turn (to semi); Whiplash;
+> Chair, Recover, Slip; Drag Hesitation; Back, Back lock, Back; Impetus (to semi); Whiplash;
 
 # Ending (3 measures) []
 

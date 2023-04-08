@@ -17,7 +17,7 @@
 
 # A (16 measures) []
 
-> Cross Hand Underarm Turn; Open Break (to varsouvienne, facing reverse); Sweethearts; (twice);
+> Cross Hand Underarm Turn; Open Break (to reserve, in varsouvienne position); Sweethearts; (twice);
 
 > Swivel Lady to Cross Body; Cross Hand Reverse Underarm Turn; Cross Hand Underarm Turn; Break Back (with man's headloop, to half open);
 
@@ -41,7 +41,7 @@
 
 # A (16 measures) []
 
-> Cross Hand Underarm Turn; Open Break (to varsouvienne, facing reverse); Sweethearts; (twice);
+> Cross Hand Underarm Turn; Open Break (to reserve, in varsouvienne position); Sweethearts; (twice);
 
 > Swivel Lady to Cross Body; Cross Hand Reverse Underarm Turn; Cross Hand Underarm Turn; Break Back (with man's headloop, to half open);
 

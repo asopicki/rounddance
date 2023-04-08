@@ -18,7 +18,7 @@
 
 > Time step; Through Serpiente; ; Fence line;
 
-> Through Serpiente; ; Crab walks 3; Cucaracha;
+> Through Serpiente; ; Crab walk Half; Cucaracha;
 
 ## Part B (8 measures) [00:21]
 
@@ -36,7 +36,7 @@
 
 > Time step; Through Serpiente; ; Fence line;
 
-> Through Serpiente; ; Crab walks 3; Cucaracha;
+> Through Serpiente; ; Crab Walk Half; Cucaracha;
 
 ## Part B (8 measures) [01:11]
 
@@ -58,15 +58,15 @@
 
 ## Part D (8 measures) [02:00]
 
-> Break back to open; Progressive walks; Side walk apart; Spot turn to face;
+> Break back to open; Progressive walks; Side walk Half apart; Spot turn to face;
 
-> Progressive walk together; Cucaracha cross (twice); ; Side walk 3;
+> Progressive walks together; Cucaracha cross (twice); ; Side walk Half;
 
 ## Part A (8 measures) [02:17]
 
 > Time step; Through Serpiente; ; Fence line;
 
-> Through Serpiente; ; Crab walks 3; Cucaracha;
+> Through Serpiente; ; Crab walk Half; Cucaracha;
 
 ## Part C (8 measures) [02:33]
 

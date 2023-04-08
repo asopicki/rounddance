@@ -1,4 +1,4 @@
-# Moon River
+# Moon River(Rio de Luna Wlaltz)
 *Song by Henry Mancini (Album: The Best Of, Track 4)*
 
 * **Choreographer**: Harvey & Norine Wiese
@@ -18,65 +18,67 @@
 
 > Waltz away; Change sides (to left open);
 
-> Twinkle through (to line); Through, side, close (to butterfly);
+> Through Twinkle (to line); Through, side, close (to butterfly);
 
 > Waltz away; Change sides (to left open);
 
-> Twinkle through (to reverse); Through, side, close (to closed);
+> Through Twinkle (to reverse); Through, side, close (to closed);
 
 # B
 
 > Vine 3; Dip through, Recover, Close; Vine 3; Dip through, Recover, Close;
 
-> Side canter; (twice); Twirl vine; Through, side, close (to butterfly);
+> Canter; (twice); Twirl vine 3; Through, side, close (to butterfly);
 
 # A
 
 > Waltz away; Change sides (to left open);
 
-> Twinkle through (to line); Through, side, close (to butterfly);
+> Through Twinkle (to line); Through, side, close (to butterfly);
 
 > Waltz away; Change sides (to left open);
 
-> Twinkle through (to reverse); Through, side, close (to closed);
+
+> Through Twinkle (to reverse); Through, side, close (to closed);
+
 
 # C
 
 > Whisk; Wing (to sidecar); Drag Hesitation; Back, back lock, back;
 
-> Impetus Turn (to semi); Through, forward lock, forward; Through, forward lock, forward;
+> Impetus (to semi); Through, forward lock, forward; Through, forward lock, forward;
 
 > Through, face, close; Left turning box; ; ; ;
 
 # Bridge
 
-> Twirl vine; Through, side, close (to butterfly);
+> Twirl vine 3; Through, side, close (to butterfly);
 
 # A
 
 > Waltz away; Change sides (to left open);
 
-> Twinkle through (to line); Through, side, close (to butterfly);
+> Through Twinkle (to line); Through, side, close (to butterfly);
 
 > Waltz away; Change sides (to left open);
 
-> Twinkle through (to reverse); Through, side, close (to closed);
+> Through Twinkle (to reverse); Through, side, close (to closed);
 
 # B
 
 > Vine 3; Dip through, Recover, Close; Vine 3; Dip through, Recover, Close;
 
-> Side canter; (twice); Twirl vine; Through, side, close (to butterfly);
+> Canter; (twice); Twirl vine 3; Through, side, close (to butterfly);
 
 # A
 
 > Waltz away; Change sides (to left open);
 
-> Twinkle through (to line); Through, side, close (to butterfly);
+>  Through Twinkle (to line); Through, side, close (to butterfly);
 
 > Waltz away; Change sides (to left open);
 
-> Twinkle through (to reverse); Through, side, close (to closed);
+> Through Twinkle (to reverse); Through, side, close (to closed);
 
 # C
 
@@ -88,6 +90,6 @@
 
 # Ending
 
-> Side canter; (twice); & acknowledge;
+> Canter; (twice); & acknowledge;
 
 

@@ -3,7 +3,7 @@
 
 * **Choreographer**: Ruth & Max Mandel
 * **Rhythm**: Paso Doble
-* **Phase**: IV
+* **Phase**: IV + 1 (Sixteen)
 * **Difficulty**: Average
 * **Sequence**: Intro - AA - BB - C - Ending
 * **Music**: Clavelis from The Dancing Brass
@@ -12,15 +12,9 @@
 
 # Intro
 
-> Wait 2; ; Circle 8 (to closed); ; 
+> Wait 2; ; Circle 8 (to closed); ;
 
-> Sur Place; Chassé Left; 
-
-# A
-
-> Basic Forward & Back; ; Ecart (to semi); Promenade Close;
-
-> Elevations Up & Down; ; Separation; ;
+> Sur Place; Chassé Left;
 
 # A
 
@@ -28,23 +22,29 @@
 
 > Elevations Up & Down; ; Separation; ;
 
-# B 
+# A
 
-> Appel to Aida Press line, Face & Touch; ; Chassé Right & left; ; 
+> Basic Forward & Back; ; Ecart (to semi); Promenade Close;
+
+> Elevations Up & Down; ; Separation; ;
+
+# B
+
+> Appel to Aida Press line, Face & Touch; ; Chassé Right; Chassé Left ;
 
 > Attack; Sur Place; Attack; Sur Place;
 
-# B 
+# B
 
-> Appel to Aida Press line, Face & Touch; ; Chassé Right & left; ; 
+> Appel to Aida Press line, Face & Touch; ; Chassé Right; Chassé Left ;
 
 > Attack; Sur Place; Attack; Sur Place;
 
 # C
 
-> Sixteen; ; ; ; 
+> Sixteen; ; ; ;
 
-> Ecart; Unwind to Face; In & Out Run; ;
+> Ecart; Unwind to Face; In & Out Runs; ;
 
 > Promenade Close; (twice); Elevations Up & Down; ;
 
@@ -53,9 +53,9 @@
 
 # Ending
 
-> Sixteen; ; ; ; 
+> Sixteen; ; ; ;
 
-> Ecart; Unwind to Face; In & Out Run; ;
+> Ecart; Unwind to Face; In & Out Runs; ;
 
 > Promenade Close; (twice); Elevations Up & Down; ;
 
@@ -63,4 +63,3 @@
 
 > Through to the Aida Press Line;
 
-<meta name="x:audio-file" content="t/The Dancing Brass/The Dancing Brass - Clavelis.mp3">

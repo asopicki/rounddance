@@ -21,7 +21,7 @@
 
 # A (8 measures) []
 
-> Lace up Cha (Change Sides in 2); (Forward Two Step); (Change Sides in 2); (Forward Two Step) (to butterfly face wall);
+> Lace up Cha (Lace across in 2); (Forward Two Step); (Lace back in 2); (Forward Two Step) (to butterfly face wall);
 
 > Two Side Closes; Side, Through (to maneuver); Pivot 2; Twirl 2;
 
@@ -43,7 +43,7 @@
 
 # A (8 measures) []
 
-> Lace up Cha (Change Sides in 2); (Forward Two Step); (Change Sides in 2); (Forward Two Step) (to butterfly face wall);
+> Lace up Cha (Lace across in 2); (Forward Two Step); (Lace back in 2); (Forward Two Step) (to butterfly face wall);
 
 
 > Two Side Closes; Side, Through (to maneuver); Pivot 2; Twirl 2;
@@ -69,9 +69,9 @@
 
 # A (8 measures) []
 
-> Lace up Cha (Change Sides in 2); (Forward Two Step); (Change Sides in 2); (Forward Two Step);
+> Lace up Cha (Lace across in 2); (Forward Two Step); (Lace back in 2); (Forward Two Step) (to butterfly face wall);
 
-> Two Side Closes; Side, Through; Pivot 2; Twirl 2;
+> Two Side Closes; Side, Through (to maneuver); Pivot 2; Twirl 2;
 
 # B (8 measures) []
 
@@ -91,9 +91,9 @@
 
 # A (8 measures) []
 
-> Lace up Cha (Change Sides in 2); (Forward Two Step); (Change Sides in 2); (Forward Two Step);
+> Lace up Cha (Lace across in 2); (Forward Two Step); (Lace back in 2); (Forward Two Step) (to butterfly face wall);
 
-> Two Side Closes; Side, Through; Pivot 2; Twirl 2;
+> Two Side Closes; Side, Through (to maneuver); Pivot 2; Twirl 2;
 
 # Ending (8 measures) []
 

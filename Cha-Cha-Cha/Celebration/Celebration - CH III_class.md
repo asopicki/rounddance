@@ -1,14 +1,13 @@
-# Celebration (Mixer)
+# Celebration A23
 *Song by Kool & The Gang (Album: Fetenhits 80's - Best Of, 3:39)*
 
 * **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: III
+* **Steplevel**: A23
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - Inter - AB - AC - Ending
 * **Music**: Celebration by Kool & The Gang
-
-*This is an easy mixer which can be used for a Graduation or other events to have everybody celebrate the occasion.*
 
 *Dance starts in Butterfly position, man facing, lead feet free, waiting 2 measures*
 
@@ -16,7 +15,7 @@
 
 > Wait 2; ; Travelling door; (twice, to open);
 
-> Circle away & together; ; New Yorker; (twice);
+> Circle Cha; ; New Yorker; (twice);
 
 # A (16 measures) [00:17]
 
@@ -24,21 +23,21 @@
 
 > Half Basic; Whip; Shoulder to Shoulder; (twice);
 
-> Open break; Whip; Fenceline; Cucaracha;
+> Open break; Whip; Fenceline; (twice);
 
-> [man walk / lady] Circle Cha; (to butterfly / new partner); Basic; ;
+> Half Basic; Spot Turn; Hand to Hand; (twice);
 
 # B (16 measures) [00:48]
 
 > Half basic; Underarm Turn; Lariat; ;
 
-> New Yorker; Cucaracha;
+> Shoulder to Shoulder; (twice);
 
-> [man walk / lady] Circle Cha; (to butterfly / new partner);
+> New Yorker (to open); Walk 2 & Forward Cha;
 
-> New Yorker (to open); Walking Cha;
+> Sliding door; (twice); Circle Cha; ; New Yorker; (twice);
 
-> Sliding door; (twice); Circle away & together; ; New Yorker; (twice);
+> Half Basic; Underarm Turn;
 
 # Interlude (6 measures) [01:20]
 
@@ -52,21 +51,21 @@
 
 > Half Basic; Whip; Shoulder to Shoulder; (twice);
 
-> Open break; Whip; Fenceline; Cucaracha;
+> Open break; Whip; Fenceline; (twice);
 
-> [man walk / lady] Circle Cha; (to butterfly / new partner); Basic; ;
+> Half Basic; Spot Turn; Hand to Hand; (twice);
 
 # B (16 measures) [02:04]
 
 > Half basic; Underarm Turn; Lariat; ;
 
-> New Yorker; Cucaracha;
+> Shoulder to Shoulder; (twice);
 
-> [man walk / lady] Circle Cha; (to butterfly / new partner);
+> New Yorker (to open); Walk 2 & Forward Cha;
 
-> New Yorker (to open); Walking Cha;
+> Sliding door; (twice); Circle Cha; ; New Yorker; (twice);
 
-> Sliding door; (twice); Circle away & together; ; New Yorker; (twice);
+> Half Basic; Underarm Turn;
 
 # A (16 measures) [02:35]
 
@@ -74,9 +73,9 @@
 
 > Half Basic; Whip; Shoulder to Shoulder; (twice);
 
-> Open break; Whip; Fenceline; Cucaracha;
+> Open break; Whip; Fenceline; (twice);
 
-> [man walk / lady] Circle Cha; (to butterfly / new partner); Basic; ;
+> Half Basic; Spot Turn; Hand to Hand; (twice);
 
 # C (14 measures) [03:08]
 
@@ -84,11 +83,10 @@
 
 > Half Basic; Crab Walks; ; Spot Turn;
 
-> Timestep; (twice); Back break to open; Walking Cha;
+> Timestep; (twice); Back break to open; Walk 2 & Forward Cha;
 
-> Circle away & together; ;
+> Circle Cha; ;
 
 # Ending (1 measure) [03:36]
 
 > Through, Apart, Point,,
-

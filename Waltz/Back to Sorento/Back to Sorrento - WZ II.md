@@ -29,7 +29,7 @@
 
 > Twirl Vine 3 (to Tamara); Wheel Half (to face center); Wrap & Wheel (to face wall); Wheel Half;
 
-> Unwrap (to face wall); Twinkle Through; (twice); Maneuver;
+> Unwrap (to face wall); Through Twinkle; (twice); Maneuver;
 
 # C (8 measures) []
 
@@ -51,7 +51,7 @@
 
 > Twirl Vine 3 (to Tamara); Wheel Half (to face center); Wrap & Wheel (to face wall); Wheel Half;
 
-> Unwrap (to face wall); Twinkle Through; (twice); Maneuver;
+> Unwrap (to face wall); Through Twinkle; (twice); Maneuver;
 
 # Ending (9 measures) []
 
