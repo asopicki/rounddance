@@ -33,9 +33,9 @@ _Dance starts in facing position, man facing line of dance, about 8 feet apart, 
 
 # Interlude1 (9 measures) [01:03] (ROD)
 
-> Underarm Turn; -, -, Sugar Push (with extra rock); ; -,-, Left Side Pass Tuck & Spin;
+> Underarm Turn; -, -, Sugar Push (with rock 2); ; -,-, Left Side Pass Tuck & Spin;
 
-> ; Sugar Push (with extra rock); ; Wrapped Whip; ;
+> ; Sugar Push (with rock 2); ; Wrapped Whip; ;
 
 # A (16 measures) [01:24] (ROD)
 
@@ -56,9 +56,9 @@ _Dance starts in facing position, man facing line of dance, about 8 feet apart, 
 
 # Interlude2 (9 measures) [2:19] (LOD)
 
-> Underarm Turn; -, -, Sugar Push (with extra rock); ; -,-, Left Side Pass Tuck & Spin;
+> Underarm Turn; -, -, Sugar Push (with rock 2); ; -,-, Left Side Pass Tuck & Spin;
 
-> ; Sugar Push (with extra rock); ; Side Whip; (both turn to face wall);
+> ; Sugar Push (with rock 2); ; Side Whip; (both turn to face wall);
 
 # C (8 measures) [02:41]
 
@@ -74,8 +74,8 @@ _Dance starts in facing position, man facing line of dance, about 8 feet apart, 
 
 # Ending (12 measures) [03:17]
 
-> Underarm Turn; -, -, Sugar Push (with extra rock); ; -,-, Left Side Pass Tuck & Spin;
+> Underarm Turn; -, -, Sugar Push (with rock 2); ; -,-, Left Side Pass Tuck & Spin;
 
-> ; Sugar Push (with extra rock); ;
+> ; Sugar Push (with rock 2); ;
 
 > Back Walk 2 & Point & Hold; & (lady walk away);
