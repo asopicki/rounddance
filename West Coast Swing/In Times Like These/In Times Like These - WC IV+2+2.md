@@ -3,7 +3,7 @@
 
 * **Choreographer**: Karen and Ed Gloodt
 * **Rhythm**: West Coast Swing
-* **Phase**: IV+2+2 (Side Whip, Triple Traveler with Roll) (Push Break, Turkey Walks)
+* **Phase**: IV+2+1 (Side Whip, Triple Traveler with Roll) (Turkey Walks)
 * **Difficulty**: Average
 * **Sequence**: Intro - AA - BA - Inter- BA - Ending
 * **Music**: In Times Like These, Barbara Mandrell

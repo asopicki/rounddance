@@ -9,8 +9,8 @@
 * **Music**: Valentine, Martina McBride
 
 *Dance starts in low double hand hold, man facing reverse on the outside slot, lady facing line on inside slot, trail feet free for both and pointed backward, waiting one measure*
- 
-# Intro (4 measures) [00:00]
+
+# Intro (5 measures) [00:00]
 
 > Wait; Together Turn to Openening Outs Twice; ; To Checked Rope Spin; Man Face Wall & Fence, Recover (with arm);
 

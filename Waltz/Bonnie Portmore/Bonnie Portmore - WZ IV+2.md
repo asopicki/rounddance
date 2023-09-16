@@ -6,7 +6,7 @@
 * **Phase**: IV +2 (Double Reverse Spin, Tipple Chassé Pivot)
 * **Difficulty**: Average
 * **Sequence**: Intro - A - AB - Ending
-* **Music**: Bonnie Portmore, Sheeny McIntyre
+* **Music**: Bonnie Portmore, Sheena McIntyre
 
 
 *Dance starts in back to back position, man facing DWR, trail foot free and pointed forward*

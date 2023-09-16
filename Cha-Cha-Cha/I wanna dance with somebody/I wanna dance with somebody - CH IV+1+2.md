@@ -1,23 +1,23 @@
 # I wanna dance with somebody
 *Song by Tony Evans & His Orchestra (Album: Falling Into You, Track 4, )*
- 
+
 * **Choreographer**: Stephan & Nicolette Burger
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: IV + 1 + 2 (Chase with Triple Cha, Hockey Stick with Triple Cha, Triple Cha Rolls)
-* **Steplevel**: 
+* **Steplevel**:
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - Bridge - AB - CA*B - Ending
-* **Music**: MusicTitle, MusicArtist
- 
+* **Music**: I wanna dance with somebody, Tony Evans
+
 *Dance starts in butterfly position, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (4 measures) [00:00]
 
-> Wait 2; ; Cucarache Left & Right; ; 
+> Wait 2; ; Cucarache Left & Right; ;
 
 # A (15 measures) []
 
-> Basic; ; New Yorker (to open); Walk 2 & Forward Cha; 
+> Basic; ; New Yorker (to open); Walk 2 & Forward Cha;
 
 > Sliding Door; (twice); Circle Away & Together; (to open);
 
@@ -41,7 +41,7 @@
 
 # A (15 measures) []
 
-> Basic; ; New Yorker (to open); Walk 2 & Forward Cha; 
+> Basic; ; New Yorker (to open); Walk 2 & Forward Cha;
 
 > Sliding Door; (twice); Circle Away & Together; (to open);
 
@@ -67,7 +67,7 @@
 
 # A* (8 measures) []
 
-> Basic; ; New Yorker (to open); Walk 2 & Forward Cha; 
+> Basic; ; New Yorker (to open); Walk 2 & Forward Cha;
 
 > Sliding Door; (twice); Circle Away & Together; (to butterfly);
 

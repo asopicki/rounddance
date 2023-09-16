@@ -16,7 +16,7 @@
 
 # A (16 measures) []
 
-> Three Step; Maneuver, Side, Close; Two Right Turns; (to face wall);
+> Three Step; Maneuver; Two Right Turns; (to face wall);
 
 > Hover; Through, Face, Close; Twirl Vine 3; Pickup;
 
@@ -36,7 +36,7 @@
 
 # A(1-8) (8 measures) []
 
-> Three Step; Maneuver, Side, Close; Two Right Turns; (to face wall);
+> Three Step; Maneuver; Two Right Turns; (to face wall);
 
 > Hover; Through, Face, Close; Twirl Vine 3; Pickup;
 

@@ -52,9 +52,7 @@
 
 > Strut 2; Hitch 4; 2 forward two steps; (to semi);
 
-> Hitch & scissors; Backward Hitch; 2 forward two steps;;
-
-> Forward, face, close (to butterfly);
+> Hitch & scissors; Backward Hitch; Forward two step; Forward, face, close (to butterfly);
 
 # Amod
 

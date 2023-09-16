@@ -8,7 +8,7 @@
 * **Sequence**: Intro - AB - CC - D - AB - C - Ending
 * **Music**: A New Fangled Tango, Ross Mitchell
 
-*Dance starts in closed position, man facing wall, lead feet free, waiting two measures*
+*Dance starts in closed position, man facing line of dance, lead feet free, waiting two measures*
 
 # Intro (4 measures) [00:00]
 
