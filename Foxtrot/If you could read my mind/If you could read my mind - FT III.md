@@ -47,7 +47,7 @@
 
 > Forward Run 2; Maneuver; Two Right Turns; (to sidecar);
 
-> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Through, Face, Close;
+> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Forward, Face, Close;
 
 # B
 
@@ -65,7 +65,7 @@
 
 > Forward Run 2; Maneuver; Two Right Turns; (to sidecar);
 
-> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Through, Face, Close;
+> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Forward, Face, Close;
 
 # A
 
@@ -89,7 +89,7 @@
 
 > Forward Run 2; Maneuver; Two Right Turns; (to sidecar);
 
-> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Through, Face, Close;
+> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Forward, Face, Close;
 
 # End
 

@@ -20,7 +20,7 @@
 
 > Wait 2; ; Slingshot Double Rock; (to Throwout);
 
-# A (12 measures)
+# A (12 measures) [LOD]
 
 > Sugar Push (with extra Rock); ; Side Whip; ;
 
@@ -28,15 +28,15 @@
 
 > Whip (with hand change behind the back); ; Face Loop Sugar Push (with extra Rock); ;
 
-# B (12 measures)
+# B (12 measures) [RLOD]
 
 > Back Cross Point (twice); Rock Whip; ; ;
 
-> Underarm Turn; -,-, Sugar Bump (with man's hook turn); ;
+> [LOD] Underarm Turn; -,-, Sugar Bump (with man's hook turn); ;
 
 > Right Side Pass (with Tuck & Spin); -,-, Push Break; ; Wrapped Whip; ;
 
-# C (12 measures)
+# C (12 measures) [LOD]
 
 > Underarm Turn (to Triple Travel with Roll); ; ; ;
 
@@ -44,7 +44,7 @@
 
 > Surprise Whip; ; Half Whip; ;
 
-# B (12 measures)
+# B (12 measures) [LOD]
 
 > Back Cross Point (twice); Rock Whip; ; ;
 
@@ -52,7 +52,7 @@
 
 > Right Side Pass (with Tuck & Spin); -,-, Push Break; ; Wrapped Whip; ;
 
-# A(1-10) (10 measures)
+# A(1-10) (10 measures) [LOD]
 
 > Sugar Push (with extra Rock); ; Side Whip; ;
 
@@ -60,7 +60,7 @@
 
 > Whip (with hand change behind the back); ;
 
-# Ending (2 measures)
+# Ending (2 measures) [LOD]
 
 > Face Loop Sugar Push; -,-, Together to Lady's Neck Wrap;
 

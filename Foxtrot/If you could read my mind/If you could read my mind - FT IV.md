@@ -46,7 +46,7 @@
 
 > Three Step; Maneuver; Two Right Turns; (to sidecar);
 
-> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Through, Face, Close;
+> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Forward, Face, Close;
 
 # B
 
@@ -64,7 +64,7 @@
 
 > Three Step; Maneuver; Two Right Turns; (to sidecar);
 
-> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Through, Face, Close;
+> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Forward, Face, Close;
 
 # A
 
@@ -88,10 +88,8 @@
 
 > Three Step; Maneuver; Two Right Turns; (to sidecar);
 
-> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Through, Face, Close;
+> Cross Hover (to banjo); Forward, Face, Close; Twisty Vine; Forward, Face, Close;
 
 # End
 
 > Side Canter; Side Corté;
-
-<meta name="x:audio-file" content="g/Gordon Lightfoot/Gordon Lightfoot - If You Could Read My Mind.mp3">
