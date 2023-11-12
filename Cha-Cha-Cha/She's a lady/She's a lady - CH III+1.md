@@ -40,9 +40,9 @@
 
 > Lariat; ; Time Step; (twice);
 
-# Bridge (21/2 measures) []
+# Bridge (2 1/2 measures) []
 
-> Half Basic; Underarm Turn; Rock Forward, Recover;
+> Cucaracha; (twice); & Point;
 
 # A* (16 measures) []
 
@@ -58,8 +58,8 @@
 
 > Basic; ; Back Break (to open); Walk 2 & Forward Cha;
 
-> Circle Cha; ; Cucaracha Left & Right; ;
+> Sliding Door; (twice); Circle Cha; ;
 
-> Chase Peek-a-Boo; ; ; ;
+> Chase; ; ; ;
 
 > Shoulder to Shoulder; (twice); New Yorker in 4; Step Apart & Point (Fade out);
