@@ -12,70 +12,68 @@
 
 # Intro (8 measures) [00:00]
 
-> Wait 2; ; Basic; ; Twirl Vine (to tamara position); Wheel Six;
+> Wait 2; ; Basic; ;
 
-> (to line of dance); Unwrap (to open line of dance);
+> Twirl Vine (to tamara position); Wheel; Unwrap (to butterfly); Cucaracha;
 
 # A (11 measures) []
 
-> Double Hitch; ; Forward, Lock, Forward (twice); ;
+> Chase with Underarm Pass; ; New Yorker; Spot Turn;
 
-> Slide the door; (twice); ; Circle away & together; ;
+> Open Break; Whip; Fence Line; New Yorker;
 
-> Time step; (twice); Two side closes;
+> Spot Turn; New Yorker in 4; Spot Turn;
 
 # B (8 measures) []
 
-> Basic; ; Shoulder to shoulder; (twice);
+> Half Basic; Underarm Turn; Shoulder to shoulder; (twice);
 
-> Fenceline; (twice); Serpiente; (to open line of dance);
+> Half Basic; Crab Walks; ; Spot Turn;
 
 # A (11 measures) []
 
-> Double Hitch; ; Forward, Lock, Forward (twice); ;
+> Chase with Underarm Pass; ; New Yorker; Spot Turn;
 
-> Slide the door; (twice); ; Circle away & together; ;
+> Open Break; Whip; Fence Line; New Yorker;
 
-> Time step; (twice); Two side closes;
+> Spot Turn; New Yorker in 4; Spot Turn;
 
 # B (8 measures) []
 
-> Basic; ; Shoulder to shoulder; (twice);
+> Half Basic; Underarm Turn; Shoulder to shoulder; (twice);
 
-> Fenceline; (twice); Serpiente; (to open line of dance);
+> Half Basic; Crab Walks; ; Spot Turn;
 
 # A (11 measures) []
 
-> Double Hitch; ; Forward, Lock, Forward (twice); ;
+> Chase with Underarm Pass; ; New Yorker; Spot Turn;
 
-> Slide the door; (twice); ; Circle away & together; ;
+> Open Break; Whip; Fence Line; New Yorker;
 
-> Time step; (twice); Two side closes;
+> Spot Turn; New Yorker in 4; Spot Turn;
 
 # C (8 measures) []
 
-> Alemana; ; Basic; ;
+> Alemana; ; Lariat; ;
 
-> Twirl Vine (to tamara position); Wheel Six; (to line of dance); Unwrap (to open line of dance);
+> Twirl Vine (to tamara position); Wheel; Unwrap (to butterfly); Cucaracha;
 
 # A (11 measures) []
 
-> Double Hitch; ; Forward, Lock, Forward (twice); ;
+> Chase with Underarm Pass; ; New Yorker; Spot Turn;
 
-> Slide the door; (twice); ; Circle away & together; ;
+> Open Break; Whip; Fence Line; New Yorker;
 
-> Time step; (twice); Two side closes;
+> Spot Turn; New Yorker in 4; Spot Turn;
 
 # D (12 measures) []
 
-> Basic; ; Shoulder to Shoulder; (twice);
+> Half Basic; Through Serpiente; ; Fence Line;
 
-> Fence line; (twice); Serpiente; (to open line of dance);
+> Chase; ; ; ;
 
-> Slide the door; (twice); Circle away and together; ;
+> Fence Line; Spot Turn; New Yorker; Spot Turn;
 
-# Ending (7 measures) []
+# Ending (4 measures) []
 
-> Basic; ; Twirl Vine (to tamara position); Wheel six;
-
-> (to line of dance); Unwrap (to open line of dance); Point & Hold;
+> Half Basic; Underarm Turn; Cucaracha; Side, Close, Side Lunge;

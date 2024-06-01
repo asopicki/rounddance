@@ -1,16 +1,21 @@
 # Da Do Ron Ron
 *Song by The Crystals (Album: The Very Best of the Crystals, Track 12, 2:20)*
- 
+
 * **Choreographer**: Jim & Kathie Kline
 * **Rhythm**: Jive
 * **Phase**: IV
-* **Steplevel**: 
+* **Steplevel**:
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - AB - CA - BA - Ending
 * **Music**: Da Do Ron Ron, The Crystals
- 
+
+
 *Dance starts in open facing position, man facing wall, lead feet free, waiting two measures*
- 
+
+
+*Note: Fade out at the end as music should be 2:02 as on the original cuesheet*
+
+
 # Intro (4 measures) [00:00]
 
 > Wait 2; ; Quick Apart, Point, Together, Touch; Throwaway;

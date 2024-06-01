@@ -19,7 +19,7 @@
 
 > One left turn; Hover Corté; Back Whisk; Open Natural Turn; 
 
-> Open Impetus; Viennese Cross; Hover Corté; Back Hover;
+> Open Impetus; Viennese Cross; Hover Corté; Back Hover (to semi);
 
 
 # B (16 measures)

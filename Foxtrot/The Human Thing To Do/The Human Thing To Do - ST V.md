@@ -18,13 +18,13 @@
 
 > Reverse Turn; ; Three Step; Natural Hover Cross;
 
-> ; Open Telemark; Open Natural; Hesitation Change;
+> ; Telemark (to semi); Open Natural; Hesitation Change;
 
 # A* (8 measures) []
 
 > Reverse Turn; ; Three Step; Natural Hover Cross;
 
-> ; Open Telemark; Open Natural Overturned; Hesitation Change;
+> ; Telemark (to semi); Open Natural; Hesitation Change;
 
 # B (8 measures) []
 
@@ -36,19 +36,19 @@
 
 > Reverse Turn; ; Three Step; Natural Hover Cross;
 
-> ; Open Telemark; Open Natural; Hesitation Change;
+> ; Telemark (to semi); Open Natural; Hesitation Change;
 
 # C (8 measures) []
 
 > **Mini Telespin; ; Contra Check & Switch;** Natural Weave;
 
-> ; Turn Left & Chassé (to banjo); Open Impetus; Feather;
+> ; Turn Left & Chassé (to banjo); Impetus (to semi); Feather;
 
 # C (8 measures) []
 
 > **Mini Telespin; ; Contra Check & Switch;** Natural Weave;
 
-> ; Turn Left & Chassé (to banjo); Open Impetus; Feather;
+> ; Turn Left & Chassé (to banjo); Impetus (to semi); Feather;
 
 # B (8 measures) []
 
@@ -60,11 +60,11 @@
 
 > Reverse Turn; ; Three Step; Natural Hover Cross;
 
-> ; Open Telemark; Open Natural Overturned; Hesitation Change;
+> ; Telemark (to semi); Open Natural; Hesitation Change;
 
 # Ending (6 measures) []
 
 > Reverse Wave; ; Back Feather; Hover Corté;
 
-> **(Changing Sides) Reverse Inside Underarm Turn; Lunge Apart;**
+> **(Changing Sides) Reverse Underarm Turn; Lunge Apart;**
 

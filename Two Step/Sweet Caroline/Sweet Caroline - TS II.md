@@ -37,11 +37,11 @@
 
 # C (12 measures) []
 
-> Progressive Scissors; ; Forward, Lock, Forward, Lock; Walk 2;
+> Progressive Scissors; ; Forward, Lock, (twice); Walk 2;
 
 > Two Turning Two Steps; (to face line of dance); Progressive Scissors; ;
 
-> Forward, Lock, Forward, Lock; Walk 2; Two Turning Two Steps; (to semi);
+> Forward, Lock, (twice); Walk 2; Two Turning Two Steps; (to semi);
 
 # A (16 measures) []
 
@@ -63,11 +63,11 @@
 
 # C (12 measures) []
 
-> Progressive Scissors; ; Forward, Lock, Forward, Lock; Walk 2;
+> Progressive Scissors; ; Forward, Lock, (twice); Walk 2;
 
 > Two Turning Two Steps; (to face line of dance); Progressive Scissors; ;
 
-> Forward, Lock, Forward, Lock; Walk 2; Two Turning Two Steps; (to semi);
+> Forward, Lock, (twice); Walk 2; Two Turning Two Steps; (to semi);
 
 # Interlude (7 measures) []
 
@@ -77,11 +77,11 @@
 
 # C (12 measures) []
 
-> Progressive Scissors; ; Forward, Lock, Forward, Lock; Walk 2;
+> Progressive Scissors; ; Forward, Lock, (twice); Walk 2;
 
 > Two Turning Two Steps; (to face line of dance); Progressive Scissors; ;
 
-> Forward, Lock, Forward, Lock; Walk 2; Two Turning Two Steps; (to closed);
+> Forward, Lock, (twice); Walk 2; Two Turning Two Steps; (to closed);
 
 # Ending (1 measure)
 
