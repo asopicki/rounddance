@@ -11,48 +11,76 @@
 *Dance starts in left open position (LOP), facing diagonal line and center.*
 
 ## Intro (8 measures):
+
+
+
 > Wait 2; ; Together draw; Dip Back, Recover, Forward;
 
-> Reverse turn; ; Hover; Wing  
+> Reverse turn; ; Hover; Wing;
 
 ## A (8 measures):
-> Open Telemark; Curved Feather Check; Back Passing Change; Feather Finish;
 
-> Reverse Turn Half; Check and Weave; ; Three Step
+
+
+> Telemark (to semi); Curved Feather (check); Back Feather; Feather Finish;
+
+> Reverse Turn Half; Check and Weave; ; Three Step;
 
 ## B (8 measures):
-> Hover Cross overturned; ; Open Telemark (diagonal wall); Feather (diagonal center);
 
-> Diamond Turn; ; ;
+
+> Natural Hover Cross; ; Telemark (to semi); Cross Pivot;
+
+
+> Diamond Turn; ; ; ;
+
 
 ## A (8 measures):
-> Open Telemark; Curved Feather Check; Back Passing Change; Feather Finish;
 
-> Reverse Turn Half; Check and Weave; ; Three Step
+
+> Telemark (to semi); Curved Feather (check); Back Feather; Feather Finish;
+
+> Reverse Turn Half; Check and Weave; ; Three Step;
+
+
 
 ## B (8 measures):
-> Hover Cross overturned; ; Open Telemark (diagonal wall); Feather (diagonal center);
 
-> Diamond Turn; ; ;
+
+> Natural Hover Cross; ; Telemark (to semi); Cross Pivot;
+
+
+> Diamond Turn; ; ; ;
+
 
 ## A1 (8 measures):
-> Open Telemark; Curved Feather Check; Back Passing Change; Feather Finish;
 
-> Reverse Turn Half; Check and Weave; ; Change of Direction
+
+> Telemark (to semi); Curved Feather (check); Back Feather; Feather Finish;
+
+> Hover Telemark; Through Chassé (to semi); Chair and Slip; Change of Direction;
+
+
 
 ## Bridge (8 measures):
+
+
 > Reverse wave; ; Back Feather; Feather Finish;
 
-> Whisk; Promenade Weave; ; Whisk;
+> Whisk; Promenade Weave; ; Drag Hesitation;
 
-## B (8 measures):
-> Hover Cross overturned; ; Open Telemark (diagonal wall); Feather (diagonal center);
 
-> Diamond Turn; ; ;
+## B1 (8 measures):
+
+
+> Impetus (to semi); Open Natural Turn; Outside Spin; Feather Finish;
+
+> Turn Left & Chassé (to banjo); Back, Back/Lock, Back; Impetus (to semi); Feather;
 
 ## Ending (8 measures):
-> Drag Hesitation; Weave Ending; Hover; Curved Feather Check;
 
-> Open Impetus; Feather; Open Telemark; Through to a Hinge
 
-<meta name="x:audio-file" content="k/Katie Melua/Secret Symphony/Katie Melua - Moonshine.mp3">
+
+> Drag Hesitation; Weave Ending; Hover; Curved Feather (check);
+
+> Back Feather; Back & Chassé (to semi); Through Chassé (to semi); Through to a Hinge;
