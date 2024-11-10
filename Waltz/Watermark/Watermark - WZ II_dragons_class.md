@@ -33,7 +33,7 @@
 
 > Left turning box; ; ; ;
 
-> Twirl/Vine 3; Through face close; Box; ;
+> Twirl/Vine 3; Pickup in 3; Two Left Turns; (to face wall);
 
 # A
 
@@ -43,17 +43,19 @@
 
 # C
 
-> Side Canter; (twice); Vine 3; Pickup in 3;
+> Canter; (twice); Vine 3; Pickup in 3;
 
 > Progressive box; ; Two left tunrs; (to face the wall);
 
+
 # B
+
 
 > Waltz away & together; ; Twirl Vine 3; Through, face, close;
 
 > Left turning box; ; ; ;
 
-> Twirl/Vine 3; Through face close; Box; ;
+> Twirl/Vine 3; Pickup in 3; Two Left Turns; (to face wall);
 
 # A
 
@@ -63,6 +65,5 @@
 
 # Ending
 
-> Hover; Through, face close; Waltz away;
+> Solo Turn in 6; ; Waltz away;
 
-<meta name="x:audio-file" content="s/Stefano Nanni/Watermark - Stefano Nanni.mp3">

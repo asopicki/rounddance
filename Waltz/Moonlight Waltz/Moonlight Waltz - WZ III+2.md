@@ -20,7 +20,7 @@
 
 > Twisty Balance Left & Right; ; Twirl Vine  3 (to butterfly); Through Vine 3 (to low handhold);
 
-> Step Swing; Spin Maneuver; Wheel 6; (to face reverse, man check);
+> Step Swing; Spin Maneuver (to banjo); Wheel 6; (to face reverse, man check);
 
 > Back, Back/Lock, Back; One Right Turn (to banjo); Forward, Forward/Lock, Forward; Maneuver;
 
@@ -36,7 +36,7 @@
 
 > Twisty Balance Left & Right; ; Twirl Vine 3 (to butterfly); Through Vine 3 (to low handhold);
 
-> Step Swing; Spin Maneuver; Wheel 6; (to face reverse, man check);
+> Step Swing; Spin Maneuver (to banjo); Wheel 6; (to face reverse, man check);
 
 > Back, Back/Lock, Back; One Right Turn (to banjo); Forward, Forward/Lock, Forward; Maneuver;
 
@@ -48,7 +48,7 @@
 
 > Twisty Balance Left & Right; ; Twirl Vine 3 (to butterfly); Through Vine 3 (to low handhold);
 
-> Step Swing; Spin Maneuver; Wheel 6; (to face reverse, man check);
+> Step Swing; Spin Maneuver (to banjo); Wheel 6; (to face reverse, man check);
 
 # C (12 measures) []
 

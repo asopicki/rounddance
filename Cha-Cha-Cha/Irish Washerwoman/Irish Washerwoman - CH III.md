@@ -1,16 +1,16 @@
 # Irish Washerwoman
 *Song by Pa's Fiddle Band (Album: The Arkansas Traveler, Track 7, 2:49)*
- 
+
 * **Choreographer**: Jerry Buckmaster & Zodie Reigel
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: III
-* **Steplevel**: 
+* **Steplevel**: B03
 * **Difficulty**: Average
 * **Sequence**: Intro - ABC - AB - Ending
 * **Music**: Irish Washerwoman, Pa's Fiddle Band
- 
+
 *Dance starts in butterfly position, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (4 measures) [00:00]
 
 > Wait 2; ; Time Step; (twice);

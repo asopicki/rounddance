@@ -1,16 +1,16 @@
 # 1 + 1 Is 10
 *Song by Lou Bega (Album: A Little Bit Of Mambo, Track 9, 4:04)*
- 
+
 * **Choreographer**: Paul & Linda Robinso
 * **Rhythm**: Mambo
 * **Phase**: III + 1 (Scallop)
-* **Steplevel**: 
+* **Steplevel**:
 * **Difficulty**: Average
 * **Sequence**: Intro - ABC - B- ABC - Ending
 * **Music**: 1 + 1 = 2, Lou Bega
- 
+
 *Dance starts in closed position, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (1 measure) [01:24]
 
 > Wait;
@@ -21,7 +21,7 @@
 
 > Cucaracha Left & Right; ; Chase with Underarm Pass; ;
 
-> New Yorker; (twice); Chasw with Underarm Pass; ;
+> New Yorker; (twice); Chase with Underarm Pass; ;
 
 > New Yorker; Crab Walks; ; Spot Turn;
 
@@ -61,7 +61,7 @@
 
 > Cucaracha Left & Right; ; Chase with Underarm Pass; ;
 
-> New Yorker; (twice); Chasw with Underarm Pass; ;
+> New Yorker; (twice); Chase with Underarm Pass; ;
 
 > New Yorker; Crab Walks; ; Spot Turn;
 

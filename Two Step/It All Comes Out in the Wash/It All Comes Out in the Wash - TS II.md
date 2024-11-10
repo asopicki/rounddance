@@ -14,7 +14,7 @@
 
 > Wait Drum Beats + 2; ; Two Forward Two Steps; ;
 
-> Walk 2; Rock the Boat; Two Forward Two Steps; ;
+> Walk 2; Slow Rock the Boat; Two Forward Two Steps; ;
 
 # A
 

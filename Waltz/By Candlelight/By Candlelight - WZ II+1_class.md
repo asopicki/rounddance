@@ -3,7 +3,10 @@
 
 * **Choreographer**: Jack & Sharie Kenny
 * **Rhythm**: Waltz
+
 * **Phase**: II+1
+* **Steplevel**: A17
+
 * **Sequence**: Intro - A - B - A - B(1-8) - Ending
 * **Music**: Aux Bougies, Line Adam
 
@@ -53,4 +56,3 @@
 
 > Dip back & Hold;
 
-<meta name="x:audio-file" content="l/Line Adam/Line Adam - Aux Bougies (Masters Of Modern Eighteen DCD 119) .mp3">

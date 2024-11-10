@@ -1,12 +1,17 @@
 # I can see clearly now (YR)
 *Song by Jimmy Cliff (Album: We are all one, The Best of Jimmy Cliff, 2:49)*
 
+
+
 * **Choreographer**: Ron & Ree Rumble (part B adjusted)
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: III
+* **Steplevel**: A29
+
 * **Difficulty**: Average
 * **Sequence**: Intro - A - A(1-16) - B - AB(1-12) - Ending
 * **Music**: I can see clearly now, Jimmy Cliff
+
 
 *Dance starts in butterfly position, lead feet free, waiting 2 measures*
 

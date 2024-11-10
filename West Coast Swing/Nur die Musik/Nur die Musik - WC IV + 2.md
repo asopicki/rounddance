@@ -31,7 +31,7 @@
 
 > Side Breaks; Side Whip; ; Sugar Push;
 
-> -,-, Left Side Pas; ; Wrapped Whip; ;
+> -,-, Left Side Pass; ; Wrapped Whip; ;
 
 > Tummy Whip; ;
 
@@ -47,7 +47,7 @@
 
 > Side Breaks; Side Whip; ; Sugar Push;
 
-> -,-, Left Side Pas; ; Wrapped Whip; ;
+> -,-, Left Side Pass; ; Wrapped Whip; ;
 
 > Tummy Whip; ;
 
