@@ -8,7 +8,7 @@
 * **Sequence**: Intro - AB - AB - B(1-12) - Ending
 * **Music**: You Raise Me Up, Susan Taylor
 
-*Dance starts in open facing position, man facing wall, lead feet free, waiting two measures*
+*Dance starts in left open facing position, man facing diagonal reverse and wall, lead feet free, waiting two measures*
 
 # Intro (4 measures) [00:00]
 

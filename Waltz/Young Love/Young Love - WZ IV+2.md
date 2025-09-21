@@ -34,7 +34,7 @@
 
 > Dip Back; Recover; Two Left Turns; (to face the wall);
 
-> Interrupted Box; ; ; (to butterfly);
+> Interrupted Box; ; ; (to closed);
 
 > Balance Left & Right; ; Hover; Man chassé/ Lady roll left (to shadow);
 
@@ -50,4 +50,4 @@
 
 # Ending (4 measures)
 
-> Whisk; Through, Side, Behind; Solo Roll 3 (to closed); Lower (and smile at your partner);
+> Whisk; Twirl Vine 3; Promenade Sway; Hold;

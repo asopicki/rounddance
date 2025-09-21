@@ -30,7 +30,7 @@
 
 > Change left to right with Continous Chassé; ;
 
-> Rock, recover, Jive walks - Merengue in 6; ; ;
+> Jive walks - Merengue in 6; ; ;
 
 # A
 
@@ -48,7 +48,7 @@
 
 > Change left to right with Continous Chassé; ;
 
-> Rock, recover, Jive walks - Merengue in 6; ; ;
+> Jive walks - Merengue in 6; ; ;
 
 # A
 

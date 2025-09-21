@@ -3,7 +3,7 @@
 
 * **Choreographer**: Alexander Sopicki
 * **Rhythm**: Cha-Cha-Cha
-* **Phase**: III+1
+* **Phase**: III+1 (Alemana)
 * **Difficulty**: Average
 * **Sequence**: Intro - AA - BA* - Ending
 * **Music**: She's a Lady, Tom Jones

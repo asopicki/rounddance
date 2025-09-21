@@ -30,7 +30,7 @@
 
 > Chase with Underarm Pass; ; Crab Walk; **Unwind (Lady Rondé);**
 
-> Crab Walks; ; Spot Turn; Two Slow Hip Rocks;
+> (Trail Foot) Crab Walks; ; Spot Turn; Two Slow Hip Rocks;
 
 # A(1-8) (8 measures) []
 
@@ -42,7 +42,7 @@
 
 > Chase with Underarm Pass; ; Crab Walk;  **Unwind (Lady Rondé);**
 
-> Crab Walks; ; Spot Turn; Two Slow Hip Rocks;
+>  (Trail Foot) Crab Walks; ; Spot Turn; Two Slow Hip Rocks;
 
 # Interlude (4 measures) []
 
@@ -60,7 +60,7 @@
 
 > Chase with Underarm Pass; ; Crab Walk;  **Unwind (Lady Rondé);**
 
-> Crab Walks; ; Spot Turn; Two Slow Hip Rocks;
+>  (Trail Foot) Crab Walks; ; Spot Turn; Two Slow Hip Rocks;
 
 # A(1-12) (12 measures) []
 

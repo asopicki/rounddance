@@ -17,7 +17,7 @@
 
 # A (8 measures) []
 
-> Reverse Wave; ; Impetus (to banjo); Feather Finish;
+> Reverse Wave; ; Closed Impetus; Feather Finish;
 
 > Diamond Turn; ; ; ;
 
@@ -40,7 +40,7 @@
 
 # A (8 measures) []
 
-> Reverse Wave; ; Impetus (to banjo); Feather Finish;
+> Reverse Wave; ; Closed Impetus; Feather Finish;
 
 > Diamond Turn; ; ; ;
 
@@ -59,7 +59,7 @@
 
 # A (8 measures) []
 
-> Reverse Wave; ; Impetus (to banjo); Feather Finish;
+> Reverse Wave; ;  Closed Impetus; Feather Finish;
 
 > Diamond Turn; ; ; ;
 

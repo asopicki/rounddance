@@ -33,7 +33,7 @@
 
 > Dip Back & Hold; Maneuver; Two Right Turns; (to face wall);
 
-> Box; ; Dip Back; Recover, Touch;
+> Twirl Vine 3; Through, Face, Close; Dip Back; Recover, Touch;
 
 # A (16 measures) []
 
@@ -53,4 +53,4 @@
 
 > Dip Back & Hold; Maneuver; Two Right Turns; (to face wall);
 
-> Box; ; Dip Back & Twist;
+> Twirl Vine 3; Through, Face, Close ; Dip Back & Twist;

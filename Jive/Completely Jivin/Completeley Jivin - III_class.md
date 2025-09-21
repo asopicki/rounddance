@@ -15,7 +15,7 @@
 
 > Wait 2; ; Chasse Left & Right; Right Turning Fallaway;
 
-> -,-, Basic Rock; ; Chasse Left & Right;
+> -,-, Basic Rock; ; Fallaway Rock; -,-, Rock, Recover;
 
 # A (8 measures)
 

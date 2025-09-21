@@ -46,7 +46,7 @@
 
 > Strut 4; ; Double Hitch; ;
 
-> Two Turning Two Steps; ; Twirl Vine in 4; ;
+> Two Turning Two Steps; ; Slow Twirl Vine in 4; ;
 
 # Bridge (4 measures)
 
@@ -80,7 +80,7 @@
 
 > Strut 4; ; Double Hitch; ;
 
-> Two Turning Two Steps; ; Twirl Vine in 4; ;
+> Two Turning Two Steps; ; Slow Twirl Vine in 4; ;
 
 
 # B (16 measures) []
@@ -91,7 +91,7 @@
 
 > Strut 4; ; Double Hitch; ;
 
-> Two Turning Two Steps; ; Twirl Vine in 4; ;
+> Two Turning Two Steps; ; Slow Twirl Vine in 4; ;
 
 # Ending
 
