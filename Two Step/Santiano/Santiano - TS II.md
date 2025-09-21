@@ -6,7 +6,7 @@
 * **Phase**: II
 * **Steplevel**:
 * **Difficulty**: Average
-* **Sequence**: Intro - AB - AB - Inter- CB - Ending
+* **Sequence**: Intro - AB - AB - ACB - AB - Ending
 * **Music**: Santian, Santiano
 
 *Dance starts in open position, both facing line of dance, lead feet free, waiting two measures*
