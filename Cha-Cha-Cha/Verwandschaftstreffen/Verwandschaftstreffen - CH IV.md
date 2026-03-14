@@ -1,23 +1,23 @@
 # Verwandschaftstreffen
 *Song by Rian (Album: Verwandschaftstreffen EP, Track 1, 2:46)*
- 
+
 * **Choreographer**: Andrea & Alexander Fartmann
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: IV
-* **Steplevel**: 
+* **Steplevel**:
 * **Difficulty**: Average
 * **Sequence**: Intro - A(1-8)B - Inter - CA - Inter - C - Ending
 * **Music**: Verwandschaftstreffen, Rian
- 
+
 *Dance starts in open facing position, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (4 measures) [00:00]
 
 > Wait 4; ; ; ;
 
 # A(1-8) (8 measures) [00:07]
 
-> Traveling Doors; (to open); Walk 2 & Forward Cha; (twice);
+> Traveling Doors; (twice, to open); Walk 2 & Forward Cha; (twice);
 
 > Circle Cha; ; Shoulder to Shoulder; (twice);
 
@@ -37,7 +37,7 @@
 
 > Aida (into back triple cha); ; Back Basic; Cucaracha in 4 (to face);
 
-> Chase with Tripe Cha; ; Continue Chase with Triple Cha; ;
+> Chase with Triple Cha; ; Continue Chase with Triple Cha; ;
 
 > Finish Chase; ; Spot Turn; (twice);
 
@@ -45,7 +45,7 @@
 
 # A (16 measures) [01:20]
 
-> Traveling Doors; (to open); Walk 2 & Forward Cha; (twice);
+> Traveling Doors; (twice, to open); Walk 2 & Forward Cha; (twice);
 
 > Circle Cha; ; Shoulder to Shoulder; (twice);
 
@@ -63,7 +63,7 @@
 
 > Half Basic; Fan; Alemana; ;
 
-> Chase with Tripe Cha; ; Continue Chase with Triple Cha; ;
+> Chase with Triple Cha; ; Continue Chase with Triple Cha; ;
 
 > Finish Chase; ; Spot Turn; (twice);
 
@@ -71,6 +71,6 @@
 
 # Ending (8 measures) [02:29]
 
-> Chase with Tripe Cha; ; Continue Chase with Triple Cha; ;
+> Chase with Triple Cha; ; Continue Chase with Triple Cha; ;
 
 > Peek-a-Boo; (twice); Two Side Closes Apart; Side, Close, Side, Point;
