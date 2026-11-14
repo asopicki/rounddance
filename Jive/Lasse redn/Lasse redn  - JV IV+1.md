@@ -77,6 +77,6 @@
 
 # Ending (6 measures) []
 
-> Pretzel Turn; -, -, Double Rock; -,-, Unwrap; -,-, Double Rock;
+> Start Pretzel Turn; -, -, Double Rock; -,-, Unwrap; -,-, Double Rock;
 
-> -,-, Pretzel Turn; ; Double Rock & Freeze;
+> -,-, Start Pretzel Turn; ; Double Rock & Freeze;

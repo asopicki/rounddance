@@ -1,16 +1,16 @@
 # Af en Af
 *Song by Kurt Darren (Album: Uit Die Diepte Van My Heart, Track 2, 3:05)*
- 
+
 * **Choreographer**: Mike & Michelle Seurer
 * **Rhythm**: Two Step
 * **Phase**: II
-* **Steplevel**: 
+* **Steplevel**: C12
 * **Difficulty**: Average
 * **Sequence**: Intro - AA - Inter- BAA - Inter - BC - Inter - B - Ending
 * **Music**: Af en Af, Kurt Darren
- 
+
 *Dance starts in butterfly position, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (4 measures) [00:00]
 
 > Wait 2; ; Apart, Point; Together, Touch;

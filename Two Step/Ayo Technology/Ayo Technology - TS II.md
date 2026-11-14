@@ -1,16 +1,16 @@
 # Ayo Technology
 *Song by Milow (Album: Milow, Track 3, 3:30)*
- 
+
 * **Choreographer**: Klaus Völkl
 * **Rhythm**: Two Step
 * **Phase**: II
-* **Steplevel**: 
+* **Steplevel**: B1
 * **Difficulty**: Average
 * **Sequence**: Intro - ABC - Bridge - BA*C* - Inter- B - Ending
 * **Music**: Ayo Technolog, Milow
- 
+
 *Dance starts in open facing position, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (4 measures) [00:00]
 
 > Wait 2; ; Apart, Point; Together, Touch (to semi);
@@ -27,7 +27,7 @@
 
 > Two Forward Two Steps; (to face); Vine 4; Walk 2; Two Turning Two Steps; ;
 
-> Two Side Closes; Side, Through; 
+> Two Side Closes; Side, Through;
 
 > Travelling Box; ; ; ;
 
@@ -49,7 +49,7 @@
 
 > Two Forward Two Steps; (to face); Vine 4; Walk 2; Two Turning Two Steps; ;
 
-> Two Side Closes; Side, Through; 
+> Two Side Closes; Side, Through;
 
 > Travelling Box; ; ; ;
 
@@ -78,12 +78,12 @@
 
 > Two Forward Two Steps; (to face); Vine 4; Walk 2; Two Turning Two Steps; ;
 
-> Two Side Closes; Side, Through; 
+> Two Side Closes; Side, Through;
 
 > Travelling Box; ; ; ;
 
 # Ending (8 measures)
 
-> Two Forward Two Steps; ; Scissors Through; ; 
+> Two Forward Two Steps; ; Scissors Through; ;
 
 > Lace up; ; ; (to face); Apart, Point;

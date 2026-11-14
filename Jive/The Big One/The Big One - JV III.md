@@ -4,7 +4,7 @@
 * **Choreographer**: Neil & Doris Koozer
 * **Rhythm**: Jive
 * **Phase**: III
-* **Steplevel**:
+* **Steplevel**: B20
 * **Difficulty**: Average
 * **Sequence**: Intro - AB - AB - Bridge - A(1-13) - Ending
 * **Music**: The Big One, George Strait

@@ -1,7 +1,7 @@
 # Beat It (West Cost Swing Intro)
 *Song by Berk & The Virtual Band (Album: Jazz Chill Vol. 3, Track 1, 3:57)*
 
-* **Choreographer**: Martin & Birgit Haltmayer
+* **Choreographer**: Birgit Haltmayer & Martin Prüfer
 * **Rhythm**: West Coast Swing
 * **Phase**: IV
 * **Difficulty**: Average

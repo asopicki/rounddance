@@ -65,7 +65,7 @@
 
 # C (8 measures)
 
-> Alemana; ; Rope Spin (or Lariat); (to right handshake); Circular Cross Body; (4 measures); ; (to shadow wall);
+> Alemana; ; Rope Spin (or Lariat); (to right handshake); Circular Cross Body; (4 measures); ; (to shadow, facing centerl);
 
 # Bridge1 (1 measures)
 

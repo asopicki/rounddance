@@ -50,4 +50,4 @@
 
 # Ending (4 measures)
 
-> Whisk; Twirl Vine 3; Promenade Sway; Hold;
+> Whisk; Syncopated Vinee; Through to a Hinge; Extend;

@@ -53,7 +53,7 @@
 
 > Waltz away & together; ; Vine 6; ;
 
-> Canter; (twice); Solo Roll in 6; ;
+> Canter; (twice); Solo Turn in 6; ;
 
 > Lace up; ; ; (to face);
 
@@ -84,7 +84,7 @@
 
 > Waltz away & together; ; Vine 6; ;
 
-> Canter; (twice); Solo Roll in 6; ;
+> Canter; (twice); Solo Turn in 6; ;
 
 > Lace up; ; ; (to face);
 

@@ -4,7 +4,7 @@
 * **Choreographer**: Stefan & Nicolette Burger
 * **Rhythm**: Cha-Cha-Cha
 * **Phase**: III + 2 (Alemana, Fan)
-* **Steplevel**:
+* **Steplevel**: B12
 * **Difficulty**: Easy
 * **Sequence**: Intro - ABC - A*BC - AD - Ending
 * **Music**: Timber, Pitbull feat. Ke$ha

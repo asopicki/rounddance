@@ -4,7 +4,7 @@
 * **Choreographer**: Mike & Michelle Seurer
 * **Rhythm**: Rumba
 * **Phase**: III
-* **Steplevel**:
+* **Steplevel**: A23
 * **Difficulty**: Average
 * **Sequence**: Intro - AA - Inter- BAA - Inter - B - Ending
 * **Music**: Rhinestone Cowboy, Glen Campell

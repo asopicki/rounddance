@@ -1,21 +1,21 @@
 # Aleena (Cherokee Boogie)
 *Song by BR5-49 (Album: The Best Of BR5-49, Track 1, 2:30)*
- 
+
 * **Choreographer**: Ronnie & Bonnie Bond
 * **Rhythm**: Two Step
 * **Phase**: II
-* **Steplevel**: 
+* **Steplevel**: 
 * **Difficulty**: Average
 * **Sequence**: Intro - AAB - AAB - AA - Ending
 * **Music**: Cherokee Boogie, BR5-49
- 
+
 *Dance starts in open facing position, about 6 feet apart, man facing wall, lead feet free, waiting two measures*
- 
+
 # Intro (4 measures) [00:00]
 
 > Wait 2; ; Strut Together 4 (to butterfly); ;
 
-> Slow Twirl 2; Walk 2 (to semi);
+> Twirl 2; Walk 2 (to semi);
 
 # A (12 measures)
 

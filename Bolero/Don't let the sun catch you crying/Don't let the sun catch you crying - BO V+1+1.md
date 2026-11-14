@@ -17,7 +17,7 @@
 
 # A (16 measures) []
 
-> Basic; ; Cross Body; Contra Break;
+> Basic; ; Cross Body (to handshake); Contra Break;
 
 > (Lady spiral to) Circular Walks; (twice); Cross Body (to reverse line of dance); Forward Break;
 
@@ -63,7 +63,7 @@
 
 # A (16 measures) []
 
-> Basic; ; Cross Body; Contra Break;
+> Basic; ; Cross Body (to handshake); Contra Break;
 
 > (Lady spiral to) Circular Walks; (twice); Cross Body (to reverse line of dance); Forward Break;
 

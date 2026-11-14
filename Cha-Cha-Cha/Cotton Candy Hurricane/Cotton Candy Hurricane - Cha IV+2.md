@@ -12,8 +12,7 @@
 *Dance starts in left open facing position, lead feet free, waiting 2 measures*
 
 
-## Intro (Rumba) (18 measures) [00:03]
-
+# Intro (Rumba) (18 measures) [00:03]
 
 > Wait 2; ; (Rumba) Half Basic; Fan;
 
@@ -25,7 +24,7 @@
 
 > Crab Walks; ;
 
-## Part A (16 measures) [00:34]
+# Part A (16 measures) [00:34]
 
 > (Cha-Cha-Cha) Basic Cha to Fan; ; Hockey Stick; (to diagonal reverse and wall);
 
@@ -35,13 +34,13 @@
 
 > Hand to Hand (twice); ; Chase Underarm Pass; ;
 
-## Part B (8 measures) [01:05]
+# Part B (8 measures) [01:05]
 
 > Alemana; ; Lariat; ;
 
 > Half Basic; Aida (to line); Switch Cross; Crab Walk Ending;
 
-## Part C (17 measures) [01:20]
+# Part C (17 measures) [01:20]
 
 > Fence Line ; (twice) ; Open Hip Twist; Fan;
 
@@ -51,8 +50,7 @@
 
 > Flirt; (Lady to a Fan); Alemana Preparation; Fence Line; Cucaracha and Point;
 
-
-## Part A (16 measures) [01:52]
+# Part A (16 measures) [01:52]
 
 > Basic to Fan; ; Hockey Stick; (to diagonal line and center);
 
@@ -62,8 +60,7 @@
 
 > Hand to Hand (twice); ; Chase Underarm Pass; ;
 
-
-## Part D (17 measures) [02:23]
+# Part D (17 measures) [02:23]
 
 > (Rumba) Half Basic; Fan; Alemana ; ;
 
@@ -75,7 +72,6 @@
 
 > Fence line in 4 ;
 
-
 # Part A (16 measures) [02:56]
 
 > Basic to Fan; ; Hockey Stick; (to diagonal reverse and wall);
@@ -86,7 +82,7 @@
 
 > Hand to Hand (twice); ; Chase Underarm Pass; ;
 
-## Ending (17 measures) [03:27]
+# Ending (17 measures) [03:27]
 
 > Cucaracha ; Traveling Door; (twice); Cucaracha;
 

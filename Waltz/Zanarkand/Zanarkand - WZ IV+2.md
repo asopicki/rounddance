@@ -1,7 +1,7 @@
 # Zanarkand
 *Song by N. Uematsu (Album: Ballroom Memories, Track 7, 2:57)*
 
-* **Choreographer**: [Alexander Sopicki](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
+* **Choreographer**: [Alexander Fartmann](mailto:cuesheets@gmx.net "cuesheets@gmx.net")
 * **Rhythm**: Waltz
 * **Phase**: IV+2 (Outside Spin, Quick Lock Slow Lock)
 * **Difficulty**: Average
@@ -17,20 +17,20 @@
 
 # A (8 measures)
 
-> One left turn; Hover Corté; Back Whisk; Open Natural Turn; 
+> One left turn; Hover Corté; Back Whisk; Open Natural Turn;
 
 > Open Impetus; Viennese Cross; Hover Corté; Back Hover (to semi);
 
 
 # B (16 measures)
 
-> Through, Chassé (to banjo); Maneuver; Spin Turn; Box Finish; 
+> Through, Chassé (to banjo); Maneuver; Spin Turn; Box Finish;
 
-> Open Telemark; Open Natural; Outside Spin (overturned); Quick lock, Slow lock;
+> Open Telemark; Open Natural; Outside Spin (to reverse wall); Quick lock, Slow lock;
 
-> Hover Corté; Back Hover; Through Twinkle; (twice); 
+> Hover Corté; Back Hover; Through Twinkle; (twice);
 
-> Through, Face, Close; Solo roll in 3; Pickup in 3; Side lunge & Recover;
+> Through, Face, Close; Solo roll in 3; Pickup in 3; Sway Left & Recover;
 
 
 # C (16 measures)
@@ -39,35 +39,35 @@
 
 > Cross Hover (to banjo); Cross Hover (to sidecar); Cross Hover (to semi); Through, Chassé (to banjo);
 
-> Maneuver; Open Impetus; Viennese Cross; Hover Corté; 
+> Maneuver; Open Impetus; Viennese Cross; Hover Corté;
 
 > Back Hover; Through, Chassé (to banjo); Maneuver; Open Impetus;
 
 
 # Interlude (4 measures)
 
-> Through Twinkle; (twice); Pickup in 3; Side lunge & Recover;
+> Through Twinkle; (twice); Pickup in 3; Sway Left & Recover;
 
 
 # D (12 measures)
 
-> Open Reverse Turn; Outside Check; Back Passing Change; Hover Corté; 
+> Open Reverse Turn; Outside Check; Back Passing Change; Hover Corté;
 
 > Back Whisk; Through, Face, Close; Hover; Open Naturual;
 
-> Outside Spin (overturned); Quick lock, Slow lock; Hover Corté; Back Hover;
+> Outside Spin (to reverse wall); Quick lock, Slow lock; Hover Corté; Back Hover;
 
 
 # Ending (21 measures)
 
-> Through, Chassé (to banjo); Maneuver; Spin Turn; Box Finish; 
+> Through, Chassé (to banjo); Maneuver; Spin Turn; Box Finish;
 
-> Open Telemark; Open Natural; Hesitation Change; One left turn; 
+> Open Telemark; Open Natural; Hesitation Change; One left turn;
 
-> Back, Chassé (to banjo); Open natural; Open Impetus; Viennese Cross; 
+> Back, Chassé (to banjo); Open natural; Open Impetus; Viennese Cross;
 
 > Back, Chassé (to banjo); Check forward, Recover, Side (to sidecar); Check Forward, Lady developé; Back, Chassé (to semi);
 
 > Through, Face, Close; Canter; Hover; Through to a Hinge; Extend arms;
 
-<meta name="x:audio-file" content="h/Hollywood Movie Strings/Hollywood Movie Strings - Zanarkand (from 'Final Fantasy X') (SW 28).mp3">
+

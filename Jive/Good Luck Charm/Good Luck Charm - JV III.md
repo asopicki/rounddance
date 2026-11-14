@@ -1,12 +1,15 @@
 # Good Luck Charm
 *Song by Elvis Presley (Album: Elvis 30 #1 Hits, Track 21, 2:25)*
 
+
 * **Choreographer**: Neil & Doris Koozer
 * **Rhythm**: Jive
 * **Phase**: III
+* **Steplevel**: B20
 * **Difficulty**: Average
 * **Sequence**: Intro - AA* - BA* - Ending
 * **Music**: Good Luck Charm, Elvis Presley
+
 
 *Dance starts in loose closed position, man facing wall, lead feet free, waiting two measures*
 

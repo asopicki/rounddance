@@ -4,7 +4,9 @@
 * **Choreographer**: Nicolette & Stefan Burger
 * **Rhythm**: Rumba
 * **Phase**: III
+
 * **Difficulty**: Average
+* **Steplevel**: A
 * **Sequence**: Intro - AA - BA - Inter1- Inter2 - CC - BA- Inter1 - Ending
 * **Music**: Have Yourself a merry little Christmas, Tony Evans
 

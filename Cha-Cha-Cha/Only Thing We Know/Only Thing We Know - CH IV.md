@@ -22,7 +22,7 @@
 
 > Back Basic; Chase (both turn, to tandem center); Traveling Door; Cucaracha;
 
-> Back Basic; Chase (lady turns); ( man in 4); Cucaracha;
+> Back Basic; Chase (both turn); Chase Lady turns (man in 4); Cucaracha;
 
 # B (9 measures) (Rumba)
 
@@ -32,7 +32,7 @@
 
 # C (8 measures) (Cha-Cha-Cha)
 
-> (Cha-Cha) Open Break; Aida; Switch Rock; Spot Turn; 
+> (Cha-Cha) Open Break; Aida; Switch Rock; Spot Turn;
 
 > Hand to Hand; Whip; Alemana; (to closed position);
 
@@ -44,11 +44,11 @@
 
 > Back Basic; Chase (both turn, to tandem center); Traveling Door; Cucaracha;
 
-> Back Basic; Chase (lady turns); ( man in 4); Cucaracha;
+> Back Basic; Chase (both turn); Chase Lady turns (man in 4); Cucaracha;
 
 # C (8 measures) (Cha-Cha-Cha)
 
-> (Cha-Cha) Open Break; Aida; Switch Rock; Spot Turn; 
+> (Cha-Cha) Open Break; Aida; Switch Rock; Spot Turn;
 
 > Hand to Hand; Whip; Alemana; (to closed position);
 
@@ -60,12 +60,12 @@
 
 # C* (7 measures) (Cha-Cha-Cha)
 
-> (Cha-Cha) Open Break; Aida; Switch Rock; Spot Turn; 
+> (Cha-Cha) Open Break; Aida; Switch Rock; Spot Turn;
 
 > Hand to Hand; Whip; Reverse Underarm Turn in 4;
 
 # Ending (9 measures)
 
-> Open Break; Aida; Switch Rock; Spot Turn; 
+> Open Break; Aida; Switch Rock; Spot Turn;
 
 > Hand to Hand; Whip; Cucaracha Left & Right; ; Quick Dip Back, ;

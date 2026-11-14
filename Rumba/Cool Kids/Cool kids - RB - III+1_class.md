@@ -16,9 +16,9 @@
 
 > Wait until the drum starts and wait 2; ; ; ;
 
-> Cucaracha cross; Side walk; Crab walk; Cucaracha Right;
+> Half Basic; Underarm Turn; Lariat; (to butterfly);
 
-> Spot turn; (twice);
+> Shoulder to Shoulder; (twice);
 
 ## A (16 measures)
 
