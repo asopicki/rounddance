@@ -10,7 +10,7 @@
 * **Music**: Beyond the Clouds, Only Me Downwind, Yorshika
 * **Youtube**: https://www.youtube.com/watch?v=3Fz17pPuI4k
 
-*Note: Slow down at least 6% or for comfort*
+*Note: Slow down the music by 3% or for comfort*
 
 *Dance starts in butterfly position, man facing wall, lead feet free, waiting two measures*
 
