@@ -6,7 +6,7 @@
 * **Phase**: III
 * **Steplevel**: B6
 * **Difficulty**: Average
-* **Sequence**: Intro - AB - AB - Inter- CB - Ending
+* **Sequence**: Intro - AB - Inter- CDECD - Ending
 * **Music**: Beyond the Clouds, Only Me Downwind, Yorshika
 * **Youtube**: https://www.youtube.com/watch?v=3Fz17pPuI4k
 
